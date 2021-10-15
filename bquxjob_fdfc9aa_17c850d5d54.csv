@@ -1,64 +1,1136 @@
 person_id,county,FIPS,treatment,last_question_filled,total_duration_in_sec,alarm_likelihood,Q1,Q2,Q3
-3384205,Pueblo County,8101,0,Q1_INTRO,8,likely alarmed,null,null,null
-18049826,Garfield County,8045,1,Q1_INTRO,58,likely alarmed,null,null,null
-17042771,Denver County,8031,1,Q1_INTRO,7,likely alarmed,null,null,null
+15367497,Adams County,8001,0,Q3,178,likely alarmed,3,3,3
+17727431,El Paso County,8041,0,Q3,348,likely alarmed,3,6,1
+15700204,Denver County,8031,1,Q3,207,likely alarmed,5,5,5
+1956569,Jefferson County,8059,1,Q3,119,likely alarmed,5,5,5
+16026506,Delta County,8029,0,Q3,535,likely not alarmed,3,2,3
+18389132,Denver County,8031,1,Q3,583,likely alarmed,1,4,1
+2121369,La Plata County,8067,0,Q3,493,likely alarmed,2,2,2
+17975760,El Paso County,8041,1,Q3,454,likely alarmed,4,3,4
+1433589,El Paso County,8041,1,Q3,430,likely alarmed,5,5,6
+1549998,Broomfield County,8014,0,Q3,396,likely alarmed,6,1,1
+1076150,Denver County,8031,1,Q1_INTRO,395,likely alarmed,3,6,6
+16346426,Las Animas County,8071,1,Q3,374,likely alarmed,1,3,6
+18623059,Logan County,8075,1,Q3,366,likely alarmed,6,6,5
+18325270,Denver County,8031,0,Q3,349,likely alarmed,3,4,6
+887382,Denver County,8031,0,Q3,343,likely alarmed,4,4,3
+18953497,Denver County,8031,1,Q3,338,likely alarmed,6,3,3
+17722595,Garfield County,8045,0,Q3,331,likely alarmed,4,3,4
+42671,Park County,8093,0,Q2,330,likely not alarmed,1,4,1
+15426716,El Paso County,8041,1,Q3,319,likely alarmed,1,1,1
+901477,Saguache County,8109,1,Q1_INTRO,314,likely alarmed,null,null,null
+17941360,El Paso County,8041,1,Q3,314,likely alarmed,2,2,1
+2598865,Pueblo County,8101,1,Q3,310,likely alarmed,5,5,6
+2586087,Pueblo County,8101,0,Q3,309,likely alarmed,6,4,4
+17608885,Weld County,8123,0,Q3,306,likely alarmed,5,5,6
+762116,Clear Creek County,8019,0,Q3,304,likely alarmed,6,5,2
+3372230,El Paso County,8041,1,Q3,296,likely alarmed,3,3,6
+1346587,El Paso County,8041,0,Q3,296,likely alarmed,5,5,3
+18196439,Mesa County,8077,0,Q3,289,likely alarmed,3,4,6
+2638569,Pueblo County,8101,0,Q3,282,likely alarmed,6,6,1
+1515889,El Paso County,8041,0,Q3,278,likely alarmed,3,2,4
+18219017,Kit Carson County,8063,1,Q3,277,likely alarmed,1,1,1
+1574327,El Paso County,8041,1,Q3,271,likely alarmed,6,5,6
+19660763,El Paso County,8041,1,Q3,270,likely alarmed,5,5,5
+3834875,Fremont County,8043,1,Q3,267,likely alarmed,1,1,1
+886534,Denver County,8031,1,Q3,267,likely alarmed,3,5,6
+2147006,La Plata County,8067,0,Q3,262,likely alarmed,1,5,6
+17282082,Weld County,8123,0,Q3,262,likely alarmed,3,5,3
+3254699,El Paso County,8041,1,Q3,262,likely alarmed,5,5,4
+1560844,El Paso County,8041,0,Q3,257,likely alarmed,5,5,3
+18663377,Adams County,8001,1,Q3,254,likely alarmed,1,2,1
+17620504,Mesa County,8077,0,Q3,253,likely alarmed,1,3,1
+2808934,Weld County,8123,1,Q3,242,likely alarmed,1,3,1
+1622888,El Paso County,8041,1,Q3,242,likely alarmed,5,1,1
+15594349,Jefferson County,8059,1,Q3,241,likely alarmed,1,1,1
+3276074,Jefferson County,8059,1,Q3,241,likely alarmed,1,1,1
+17755757,El Paso County,8041,0,Q3,240,likely alarmed,2,1,2
+16651607,El Paso County,8041,1,Q3,238,likely alarmed,1,3,6
+2785359,Weld County,8123,1,Q3,235,likely alarmed,1,2,1
+16050981,Mesa County,8077,0,Q3,231,likely alarmed,1,2,2
+2708126,Summit County,8117,0,Q1_INTRO,230,likely alarmed,null,null,null
+4658489,Denver County,8031,0,Q3,229,likely alarmed,6,4,1
+26938,Denver County,8031,0,Q3,228,likely alarmed,3,3,6
+15409646,Mesa County,8077,0,Q3,225,likely alarmed,5,5,3
+694578,Denver County,8031,1,Q3,222,likely alarmed,5,5,2
+2457230,Moffat County,8081,1,Q3,221,likely alarmed,1,5,1
+1578665,El Paso County,8041,1,Q3,221,likely alarmed,3,5,2
+1321378,Eagle County,8037,0,Q3,219,likely alarmed,4,6,3
+1024633,Denver County,8031,1,Q3,218,likely alarmed,6,6,6
+850277,Denver County,8031,0,Q3,217,likely alarmed,5,5,4
+18080229,Pueblo County,8101,1,Q3,216,likely alarmed,1,1,1
+18337641,Adams County,8001,1,Q3,216,likely alarmed,4,5,6
+18184635,Denver County,8031,0,Q3,214,likely alarmed,5,5,3
+19063180,Las Animas County,8071,0,Q3,214,likely alarmed,6,2,4
+15971366,Gunnison County,8051,0,Q3,212,likely alarmed,1,1,2
+723587,Boulder County,8013,0,Q3,211,likely alarmed,5,5,5
+67937,Elbert County,8039,0,Q3,209,likely alarmed,2,3,5
+2607394,Pueblo County,8101,1,Q3,209,likely alarmed,3,1,1
+18500397,Denver County,8031,1,Q3,208,likely alarmed,5,5,5
+460803,Mesa County,8077,1,Q3,204,likely alarmed,4,5,3
+892869,Denver County,8031,0,Q3,203,likely alarmed,2,4,2
+637544,Boulder County,8013,1,Q3,203,likely alarmed,5,5,6
+18970849,Mesa County,8077,0,Q3,200,likely alarmed,1,1,1
+1061851,Montezuma County,8083,0,Q3,200,likely alarmed,4,5,2
+15251748,Denver County,8031,1,Q3,198,likely alarmed,4,4,6
+2599775,Pueblo County,8101,1,Q3,198,likely alarmed,4,5,4
+2701530,Summit County,8117,1,Q3,197,likely alarmed,5,5,5
+15614170,El Paso County,8041,0,Q3,195,likely alarmed,3,4,2
+2605099,Pueblo County,8101,1,Q3,195,likely alarmed,4,4,4
+16917871,Adams County,8001,0,Q3,195,likely alarmed,6,3,6
+1424117,El Paso County,8041,1,Q2,193,likely alarmed,2,4,2
+2602804,Pueblo County,8101,1,Q3,192,likely alarmed,1,1,1
+923431,Denver County,8031,1,Q3,191,likely alarmed,2,5,2
+2660593,Rio Grande County,8105,1,Q3,189,likely alarmed,6,5,2
+2962159,El Paso County,8041,1,Q3,188,likely alarmed,3,3,2
+18138453,Phillips County,8095,0,Q3,184,likely alarmed,4,4,4
+18129812,Boulder County,8013,0,Q3,183,likely alarmed,5,5,5
+16921539,Fremont County,8043,0,Q3,183,likely not alarmed,6,6,6
+16391119,La Plata County,8067,1,Q3,182,likely alarmed,2,4,2
+15713957,Denver County,8031,1,Q3,182,likely alarmed,3,4,2
+82720,Adams County,8001,0,Q1_INTRO,181,likely alarmed,null,null,null
+1581666,El Paso County,8041,0,Q3,180,likely alarmed,2,5,1
+15661251,El Paso County,8041,0,Q3,180,likely alarmed,5,5,5
+1024851,Denver County,8031,0,Q3,179,likely alarmed,4,4,1
+17571341,Denver County,8031,0,Q1_INTRO,178,likely alarmed,null,null,null
+18449892,Mesa County,8077,0,Q3,178,likely alarmed,5,5,5
+520234,Denver County,8031,0,Q3,177,likely alarmed,3,1,1
+2631064,Pueblo County,8101,0,Q3,176,likely alarmed,3,2,4
+18884410,Boulder County,8013,0,Q3,175,likely alarmed,3,2,2
+15982794,Pueblo County,8101,0,Q3,175,likely not alarmed,6,2,3
+18424167,Boulder County,8013,1,Q3,174,likely alarmed,1,1,1
+4228890,Weld County,8123,0,Q3,174,likely alarmed,3,5,3
+771044,Conejos County,8021,1,Q3,174,likely alarmed,5,4,1
+17980103,El Paso County,8041,1,Q3,173,likely alarmed,4,1,3
+2590761,Pueblo County,8101,0,Q3,172,likely alarmed,3,5,5
+164485,Adams County,8001,1,Q3,172,likely alarmed,3,4,4
+2733675,Weld County,8123,0,Q3,170,likely alarmed,4,5,6
+2904248,Broomfield County,8014,1,Q3,170,likely alarmed,5,5,5
+843627,Adams County,8001,1,Q3,170,likely alarmed,5,5,4
+15638295,Jefferson County,8059,0,Q3,168,likely alarmed,5,5,2
+17544902,Morgan County,8087,0,Q3,167,likely not alarmed,1,3,1
+18293513,Douglas County,8035,1,Q3,166,likely alarmed,5,4,2
+17926858,Douglas County,8035,1,Q3,166,likely alarmed,6,4,6
+816183,Denver County,8031,0,Q3,165,likely alarmed,1,2,2
+1074850,Denver County,8031,1,Q3,165,likely alarmed,3,4,4
+15264230,El Paso County,8041,1,Q3,165,likely alarmed,5,5,2
+758474,Cheyenne County,8017,0,Q3,164,likely alarmed,1,1,1
+1589752,El Paso County,8041,1,Q3,164,likely alarmed,4,4,3
+15573491,Broomfield County,8014,0,Q3,164,likely alarmed,4,5,5
+16122942,Denver County,8031,1,Q3,163,likely alarmed,1,1,1
+18736052,Summit County,8117,1,Q3,163,likely alarmed,2,5,3
+18653529,Larimer County,8069,0,Q3,163,likely alarmed,5,5,4
+3618658,Adams County,8001,0,Q3,160,likely alarmed,3,2,4
+596274,Boulder County,8013,1,Q3,160,likely alarmed,4,5,4
+1125461,Denver County,8031,0,Q3,160,likely alarmed,6,5,3
+76050,Weld County,8123,1,Q1_INTRO,159,likely not alarmed,null,null,null
+594017,Boulder County,8013,0,Q3,159,likely alarmed,4,1,3
+163423,Adams County,8001,0,Q3,158,likely alarmed,4,5,5
+2758736,Weld County,8123,0,Q3,157,likely alarmed,1,1,1
+18596576,Jefferson County,8059,1,Q3,157,likely alarmed,5,4,4
+901264,Denver County,8031,0,Q3,156,likely alarmed,6,5,1
+15977068,Eagle County,8037,0,Q3,153,likely alarmed,3,4,4
+16403022,Adams County,8001,1,Q3,152,likely alarmed,4,3,1
+117095,Weld County,8123,0,Q3,152,likely alarmed,5,5,3
+18315952,Summit County,8117,1,Q3,151,likely alarmed,1,1,5
+4316170,El Paso County,8041,0,Q3,151,likely alarmed,3,5,4
+16072437,Boulder County,8013,0,Q3,150,likely alarmed,5,5,4
+2824168,Weld County,8123,0,Q3,149,likely alarmed,1,6,1
+17387881,Baca County,8009,0,Q3,149,likely not alarmed,2,1,2
+1645642,El Paso County,8041,0,Q3,149,likely alarmed,3,2,2
+18697658,Denver County,8031,1,Q3,149,likely alarmed,4,2,4
+17894418,El Paso County,8041,0,Q3,149,likely alarmed,6,5,3
+2445323,Mesa County,8077,0,Q3,148,likely alarmed,1,1,2
+2151617,El Paso County,8041,0,Q3,148,likely alarmed,4,5,1
+554700,Boulder County,8013,0,Q3,148,likely alarmed,5,3,1
+4767217,Mesa County,8077,1,Q3,146,likely alarmed,4,4,5
+1581367,El Paso County,8041,0,Q3,146,likely alarmed,5,1,1
+16840298,Pueblo County,8101,0,Q3,145,likely alarmed,3,2,4
+2662282,Rio Grande County,8105,1,Q3,145,likely alarmed,3,5,2
+2131818,La Plata County,8067,0,Q3,144,likely alarmed,5,1,1
+182254,Adams County,8001,0,Q3,144,likely alarmed,5,5,4
+2617743,Pueblo County,8101,1,Q3,143,likely alarmed,5,4,5
+17517904,El Paso County,8041,1,Q3,143,likely alarmed,5,5,2
+4470352,El Paso County,8041,0,Q3,142,likely alarmed,3,3,4
+15843925,El Paso County,8041,0,Q3,142,likely alarmed,4,5,4
+1751449,Gunnison County,8051,0,Q3,142,likely alarmed,4,4,3
+15291668,Boulder County,8013,1,Q3,142,likely alarmed,5,5,3
+19092777,El Paso County,8041,1,Q3,142,likely not alarmed,6,4,3
+18564945,Huerfano County,8055,1,Q3,141,likely alarmed,4,5,4
+16200758,Chaffee County,8015,1,Q3,141,likely not alarmed,5,3,3
+18138024,Weld County,8123,1,Q3,140,likely not alarmed,4,5,2
+4248796,Denver County,8031,0,Q3,140,likely alarmed,5,5,4
+15237814,Denver County,8031,1,Q3,140,likely alarmed,5,5,3
+1130732,Denver County,8031,0,Q3,139,likely alarmed,1,6,1
+4280448,Adams County,8001,0,Q3,139,likely alarmed,2,1,1
+15304586,Teller County,8119,0,Q3,139,likely alarmed,4,5,4
+2546648,Eagle County,8037,0,Q3,139,likely alarmed,5,5,2
+1572296,El Paso County,8041,1,Q3,138,likely alarmed,5,5,3
+384576,Douglas County,8035,1,Q3,137,likely alarmed,5,5,6
+18677445,Denver County,8031,1,Q2,136,likely alarmed,1,3,1
+17674786,El Paso County,8041,1,Q3,135,likely alarmed,2,1,1
+1963398,Weld County,8123,1,Q3,135,likely alarmed,4,3,6
+4311265,El Paso County,8041,0,Q3,135,likely alarmed,4,3,2
+15642969,Denver County,8031,0,Q3,135,likely alarmed,5,5,6
+4342967,Saguache County,8109,1,Q3,134,likely alarmed,3,5,4
+18952234,Adams County,8001,0,Q3,134,likely alarmed,5,4,3
+2345755,Las Animas County,8071,1,Q3,134,likely alarmed,6,2,1
+464337,Denver County,8031,1,Q3,133,likely alarmed,2,5,1
+925102,Denver County,8031,1,Q3,133,likely alarmed,4,2,6
+1555499,El Paso County,8041,1,Q3,133,likely alarmed,5,5,3
+2581025,Pueblo County,8101,0,Q3,132,likely alarmed,3,3,2
+17562416,Montrose County,8085,0,Q3,132,likely alarmed,3,3,3
+3426734,Otero County,8089,1,Q3,132,likely alarmed,6,5,6
+18570963,El Paso County,8041,0,Q3,131,likely alarmed,3,6,6
+1163575,Denver County,8031,0,Q3,131,likely alarmed,4,4,2
+17565664,Delta County,8029,0,Q3,131,likely alarmed,4,5,1
 17781877,Adams County,8001,1,Q1_INTRO,130,likely alarmed,null,null,null
-2552246,Eagle County,8037,0,Q1_INTRO,28,likely alarmed,null,null,null
-708,Douglas County,8035,0,Q1_INTRO,23,likely alarmed,null,null,null
-15230857,Denver County,8031,0,Q1_INTRO,26,likely alarmed,null,null,null
-109377,Adams County,8001,0,Q1_INTRO,16,likely alarmed,null,null,null
-793518,Delta County,8029,0,Q1_INTRO,9,likely alarmed,null,null,null
-4768372,Adams County,8001,1,Q1_INTRO,41,likely alarmed,null,null,null
-74551,Adams County,8001,0,Q1_INTRO,20,likely alarmed,null,null,null
+2781682,Weld County,8123,1,Q3,130,likely alarmed,4,5,5
+821745,Denver County,8031,0,Q3,129,likely alarmed,2,2,1
+16924258,Adams County,8001,1,Q3,129,likely alarmed,3,5,4
+2406501,Mesa County,8077,0,Q3,129,likely alarmed,3,6,3
+2573515,Pueblo County,8101,1,Q3,129,likely alarmed,3,5,5
+18452033,El Paso County,8041,0,Q3,129,likely alarmed,5,4,6
+2635283,Pueblo County,8101,1,Q3,129,likely alarmed,5,1,1
+1751305,Gunnison County,8051,0,Q3,128,likely alarmed,4,5,5
+15160886,Chaffee County,8015,1,Q3,128,likely alarmed,4,5,5
+2426514,Mesa County,8077,0,Q3,127,likely alarmed,1,1,1
+16998610,Mesa County,8077,0,Q3,127,likely alarmed,2,1,1
+15277134,Adams County,8001,0,Q3,127,likely alarmed,3,6,6
+893290,Denver County,8031,0,Q3,127,likely alarmed,3,5,3
+2104456,Denver County,8031,0,Q3,127,likely alarmed,4,4,1
+16465756,Jefferson County,8059,1,Q3,127,likely alarmed,4,4,1
+3809434,Pueblo County,8101,1,Q3,127,likely alarmed,5,5,5
+1581373,El Paso County,8041,1,Q3,126,likely alarmed,3,5,3
+1720093,Garfield County,8045,0,Q3,126,likely alarmed,4,5,4
+139279,Adams County,8001,0,Q3,126,likely alarmed,5,5,5
+2701969,Summit County,8117,0,Q3,125,likely alarmed,2,4,6
+1628569,El Paso County,8041,0,Q3,125,likely alarmed,3,5,6
+914767,Denver County,8031,1,Q3,125,likely alarmed,5,5,4
+3843412,La Plata County,8067,0,Q3,124,likely alarmed,1,1,6
+18321912,Boulder County,8013,1,Q3,124,likely alarmed,4,4,2
+17748487,Denver County,8031,1,Q3,124,likely alarmed,5,5,3
+18549329,Teller County,8119,0,Q3,123,likely not alarmed,1,4,2
+18948364,Teller County,8119,0,Q3,123,likely not alarmed,4,5,3
+18721966,Adams County,8001,0,Q3,123,likely alarmed,4,4,4
+19807486,Pueblo County,8101,0,Q3,123,likely alarmed,6,2,6
+2016284,Denver County,8031,0,Q3,123,likely alarmed,6,4,3
+18444921,Adams County,8001,0,Q3,123,likely alarmed,6,3,2
+826198,Denver County,8031,0,Q3,121,likely alarmed,4,4,2
+18457624,El Paso County,8041,1,Q3,121,likely alarmed,4,6,6
+1868056,El Paso County,8041,1,Q3,121,likely alarmed,4,4,6
+17025982,Montrose County,8085,0,Q3,121,likely not alarmed,5,5,5
+975750,Denver County,8031,0,Q3,121,likely alarmed,5,5,5
+18800147,Jefferson County,8059,1,Q3,120,likely alarmed,1,4,1
+16887575,Denver County,8031,0,Q3,120,likely alarmed,3,5,3
+2722983,Teller County,8119,0,Q3,120,likely alarmed,5,4,6
+18583395,El Paso County,8041,0,Q3,120,likely alarmed,6,6,6
+17665135,Mesa County,8077,0,Q3,119,likely alarmed,1,3,1
+169538,Adams County,8001,1,Q3,119,likely alarmed,4,5,3
+2763605,Weld County,8123,1,Q3,118,likely alarmed,1,5,2
+2258323,Broomfield County,8014,0,Q3,118,likely alarmed,2,5,5
+1301275,El Paso County,8041,0,Q3,118,likely alarmed,4,4,6
+1628432,El Paso County,8041,0,Q3,118,likely alarmed,5,5,5
+17041933,Larimer County,8069,0,Q3,118,likely alarmed,5,6,4
+819869,Denver County,8031,0,Q3,117,likely alarmed,1,1,1
+17035219,Douglas County,8035,1,Q3,117,likely alarmed,3,5,6
+18572701,Weld County,8123,1,Q3,116,likely alarmed,1,2,1
+15584688,Elbert County,8039,1,Q3,116,likely alarmed,1,5,1
+1712152,Garfield County,8045,0,Q3,116,likely alarmed,2,5,1
+15689250,Denver County,8031,0,Q3,116,likely alarmed,3,5,3
+1118245,Denver County,8031,0,Q3,116,likely alarmed,4,4,4
+17745935,Adams County,8001,1,Q3,116,likely alarmed,4,4,2
+2123031,La Plata County,8067,0,Q3,116,likely alarmed,5,3,2
+15511496,Boulder County,8013,0,Q3,116,likely alarmed,5,5,3
+1628366,El Paso County,8041,0,Q3,116,likely alarmed,5,3,3
+10804,Adams County,8001,0,Q3,116,likely alarmed,6,4,2
+18478906,Boulder County,8013,0,Q3,115,likely alarmed,1,1,1
+18573370,El Paso County,8041,0,Q3,115,likely alarmed,1,1,1
+628161,Boulder County,8013,0,Q3,115,likely alarmed,1,5,5
+2792241,Boulder County,8013,1,Q3,115,likely alarmed,1,3,5
+3598634,Denver County,8031,1,Q3,115,likely alarmed,3,5,3
+1677252,Fremont County,8043,1,Q3,115,likely alarmed,3,5,3
+18508526,Elbert County,8039,1,Q3,115,likely not alarmed,3,5,2
+15168034,Larimer County,8069,1,Q3,115,likely alarmed,3,3,2
+17963617,Pueblo County,8101,0,Q3,115,likely alarmed,4,4,2
+3412327,Montrose County,8085,1,Q3,115,likely not alarmed,5,5,5
+15493226,El Paso County,8041,0,Q3,115,likely alarmed,5,5,3
+2477156,Montrose County,8085,1,Q3,115,likely alarmed,6,5,6
+18440681,Weld County,8123,0,Q3,114,likely alarmed,4,4,4
+15627367,Boulder County,8013,0,Q3,114,likely alarmed,5,5,3
+2382516,Mesa County,8077,0,Q3,114,likely not alarmed,5,3,1
+4084972,Denver County,8031,1,Q3,113,likely alarmed,2,3,4
+1290925,Douglas County,8035,0,Q3,113,likely alarmed,3,5,4
+18530475,El Paso County,8041,0,Q3,113,likely alarmed,3,4,3
+2605443,Pueblo County,8101,0,Q3,113,likely alarmed,4,4,4
+1049600,Denver County,8031,1,Q3,113,likely alarmed,5,4,5
+79688,Adams County,8001,1,Q3,113,likely alarmed,5,5,5
+2116200,Lake County,8065,1,Q3,113,likely alarmed,6,2,1
+16054520,Weld County,8123,0,Q3,112,likely alarmed,1,1,1
+2693122,Chaffee County,8015,0,Q3,112,likely alarmed,3,3,2
+16855620,Douglas County,8035,0,Q3,112,likely alarmed,3,2,6
+18195300,Adams County,8001,1,Q3,112,likely alarmed,3,4,6
+782145,Delta County,8029,1,Q3,112,likely alarmed,5,5,4
+1712337,Garfield County,8045,1,Q3,112,likely not alarmed,5,5,5
+16912241,El Paso County,8041,1,Q3,111,likely alarmed,1,6,6
+464407,Denver County,8031,1,Q3,111,likely alarmed,2,5,6
+17840652,Boulder County,8013,1,Q3,111,likely alarmed,5,5,4
+3385229,El Paso County,8041,0,Q3,110,likely alarmed,2,5,1
+384445,Denver County,8031,0,Q3,110,likely alarmed,4,4,2
+2661432,Rio Grande County,8105,1,Q1_INTRO,109,likely alarmed,null,null,null
+2503047,Morgan County,8087,1,Q3,109,likely alarmed,1,1,1
+2334647,Larimer County,8069,1,Q3,109,likely alarmed,1,1,1
+2103711,Denver County,8031,1,Q3,109,likely alarmed,3,5,6
+15628129,Boulder County,8013,0,Q3,109,likely alarmed,3,4,2
+2437528,Mesa County,8077,1,Q3,109,likely alarmed,3,3,3
+18711213,Weld County,8123,1,Q3,109,likely alarmed,5,4,2
+16143546,Boulder County,8013,0,Q3,109,likely alarmed,5,5,5
+15625611,Garfield County,8045,0,Q3,108,likely alarmed,2,2,2
+1849848,Yuma County,8125,1,Q3,108,likely alarmed,4,4,4
+528221,Archuleta County,8007,1,Q3,107,likely alarmed,1,3,1
+2530158,Park County,8093,1,Q3,107,likely alarmed,2,3,1
+15749186,Mesa County,8077,1,Q3,107,likely alarmed,3,3,2
+16506534,El Paso County,8041,0,Q3,107,likely alarmed,4,5,5
+18569120,El Paso County,8041,0,Q3,107,likely alarmed,5,5,3
+15588063,Gilpin County,8047,0,Q3,107,likely alarmed,5,5,5
+15740299,Chaffee County,8015,1,Q3,106,likely alarmed,1,1,1
+1591114,El Paso County,8041,1,Q3,106,likely alarmed,1,5,5
+18872987,Weld County,8123,1,Q3,106,likely alarmed,2,3,2
+17828135,Pueblo County,8101,1,Q3,106,likely alarmed,5,3,4
+2308641,Larimer County,8069,0,Q3,106,likely alarmed,5,5,6
+195645,Alamosa County,8003,1,Q3,106,likely alarmed,6,6,6
+16449614,Douglas County,8035,0,Q3,105,likely alarmed,1,1,1
+891712,Denver County,8031,0,Q3,105,likely alarmed,3,5,2
+621617,Boulder County,8013,0,Q3,105,likely not alarmed,3,1,5
+1663070,El Paso County,8041,0,Q3,105,likely alarmed,3,2,3
+1091424,Clear Creek County,8019,0,Q3,105,likely alarmed,4,5,5
+18335124,Boulder County,8013,0,Q3,105,likely alarmed,5,5,4
+4387236,Denver County,8031,0,Q3,105,likely alarmed,5,5,2
+18754749,Denver County,8031,0,Q3,105,likely alarmed,5,5,5
+1641284,Lake County,8065,1,Q3,105,likely alarmed,5,5,4
+18544745,Jefferson County,8059,0,Q3,104,likely alarmed,1,1,1
+1974899,Jefferson County,8059,1,Q3,104,likely alarmed,3,5,3
+4681897,El Paso County,8041,1,Q3,104,likely alarmed,5,5,6
+17467808,Adams County,8001,1,Q3,104,likely alarmed,5,5,3
+15747550,Huerfano County,8055,1,Q3,104,likely alarmed,5,5,4
+1422914,El Paso County,8041,1,Q3,103,likely alarmed,1,4,1
+18601846,Denver County,8031,0,Q3,103,likely alarmed,3,6,1
+2424566,Garfield County,8045,1,Q3,103,likely alarmed,5,4,4
+15316009,El Paso County,8041,0,Q3,102,likely alarmed,1,2,1
+15881033,Jefferson County,8059,0,Q3,102,likely alarmed,1,1,1
+16056016,El Paso County,8041,0,Q3,102,likely alarmed,1,5,4
+17674094,Jefferson County,8059,1,Q3,102,likely alarmed,1,1,1
+1821564,Elbert County,8039,1,Q3,102,likely alarmed,3,2,1
+19049286,Douglas County,8035,0,Q2,102,likely not alarmed,4,3,6
+111603,Adams County,8001,0,Q3,102,likely alarmed,4,5,2
+18828277,Denver County,8031,1,Q3,102,likely alarmed,5,5,4
+1536977,El Paso County,8041,1,Q3,102,likely alarmed,5,5,5
+15240748,Boulder County,8013,1,Q3,102,likely alarmed,5,5,3
+2474504,Montrose County,8085,1,Q3,102,likely alarmed,5,1,1
+17001805,Adams County,8001,0,Q3,101,likely alarmed,2,5,1
+16813204,El Paso County,8041,0,Q3,101,likely alarmed,4,5,4
+731981,Boulder County,8013,0,Q3,101,likely alarmed,4,5,2
+18588530,El Paso County,8041,1,Q3,101,likely alarmed,5,4,4
+18882742,Larimer County,8069,0,Q3,101,likely alarmed,6,5,6
+2809468,Weld County,8123,1,Q3,100,likely alarmed,3,5,4
+1314654,Denver County,8031,1,Q3,100,likely alarmed,3,5,6
+17716515,Denver County,8031,1,Q3,100,likely alarmed,4,3,6
+2116397,Lake County,8065,1,Q3,100,likely alarmed,5,5,1
+1587934,El Paso County,8041,1,Q3,100,likely alarmed,5,5,6
+355280,Denver County,8031,1,Q3,100,likely alarmed,6,5,5
+17616803,Larimer County,8069,0,Q3,99,likely alarmed,3,5,6
+3592488,Denver County,8031,1,Q3,99,likely alarmed,5,5,3
+16410048,Mesa County,8077,1,Q3,99,likely alarmed,5,5,5
+16436476,Conejos County,8021,1,Q3,99,likely alarmed,5,3,6
+17578298,Adams County,8001,1,Q3,99,likely alarmed,5,5,3
+3420484,Adams County,8001,1,Q3,99,likely alarmed,6,6,6
+2139120,La Plata County,8067,0,Q3,98,likely not alarmed,1,2,2
+16732575,Weld County,8123,0,Q3,98,likely alarmed,4,5,3
+2297435,Delta County,8029,0,Q3,98,likely alarmed,5,5,5
+2699430,Denver County,8031,1,Q3,98,likely alarmed,5,5,5
+944930,Adams County,8001,0,Q3,98,likely alarmed,5,5,2
+570283,Boulder County,8013,1,Q3,98,likely alarmed,5,5,5
+2146986,La Plata County,8067,1,Q3,97,likely alarmed,1,3,1
+2082541,Jefferson County,8059,0,Q3,97,likely alarmed,1,3,1
+4697283,El Paso County,8041,1,Q3,97,likely alarmed,1,1,1
+18674401,Denver County,8031,0,Q3,97,likely alarmed,3,3,1
+437137,Adams County,8001,0,Q3,97,likely alarmed,3,4,5
+1546469,Fremont County,8043,0,Q3,97,likely alarmed,4,5,3
+343258,Douglas County,8035,0,Q3,97,likely alarmed,5,5,6
 15175514,El Paso County,8041,1,Q1_INTRO,96,likely alarmed,null,null,null
-18219589,El Paso County,8041,0,Q1_INTRO,16,likely alarmed,null,null,null
-2622977,Pueblo County,8101,1,Q1_INTRO,7,likely alarmed,null,null,null
-19044134,Adams County,8001,0,Q1_INTRO,29,likely alarmed,null,null,null
-19011253,Jefferson County,8059,0,Q1_INTRO,9,likely not alarmed,null,null,null
-15815314,Boulder County,8013,0,Q1_INTRO,2,likely alarmed,null,null,null
-4635720,Adams County,8001,0,Q1_INTRO,2,likely alarmed,null,null,null
-17044707,El Paso County,8041,0,Q1_INTRO,3,likely alarmed,null,null,null
-17986870,El Paso County,8041,0,Q1_INTRO,3,likely alarmed,null,null,null
-2623480,El Paso County,8041,0,Q1_INTRO,23,likely alarmed,null,null,null
-1390710,El Paso County,8041,0,Q1_INTRO,4,likely alarmed,null,null,null
-19225853,Weld County,8123,1,Q1_INTRO,4,likely alarmed,null,null,null
-18284239,Denver County,8031,0,Q1_INTRO,4,likely alarmed,null,null,null
-411158,El Paso County,8041,1,Q1_INTRO,4,likely alarmed,null,null,null
-16394781,Pueblo County,8101,1,Q1_INTRO,4,likely alarmed,null,null,null
-15264323,El Paso County,8041,1,Q1_INTRO,4,likely alarmed,null,null,null
-17428052,Denver County,8031,1,Q1_INTRO,4,likely alarmed,null,null,null
-3375407,Fremont County,8043,1,Q1_INTRO,4,likely not alarmed,null,null,null
-19111144,Larimer County,8069,1,Q1_INTRO,4,likely alarmed,null,null,null
-2121308,La Plata County,8067,1,Q1_INTRO,4,likely alarmed,null,null,null
-1236278,Douglas County,8035,1,Q1_INTRO,4,likely alarmed,null,null,null
-19511265,El Paso County,8041,0,Q1_INTRO,4,likely not alarmed,null,null,null
-18898546,Boulder County,8013,0,Q1_INTRO,4,likely alarmed,null,null,null
-18829273,Delta County,8029,1,Q1_INTRO,4,likely not alarmed,null,null,null
-18715218,Boulder County,8013,0,Q1_INTRO,4,likely alarmed,null,null,null
+114483,Adams County,8001,0,Q1_INTRO,96,likely alarmed,null,null,null
+15293867,Mesa County,8077,0,Q3,96,likely not alarmed,1,6,1
+2317439,Weld County,8123,0,Q3,96,likely alarmed,1,2,4
+17135235,El Paso County,8041,0,Q3,96,likely alarmed,4,4,3
+1719797,Fremont County,8043,0,Q3,96,likely alarmed,6,5,5
+885258,Adams County,8001,1,Q3,95,likely alarmed,1,1,1
+1197424,Douglas County,8035,0,Q3,95,likely alarmed,1,1,1
+15183489,La Plata County,8067,1,Q3,95,likely alarmed,2,4,4
+4114230,La Plata County,8067,0,Q3,95,likely alarmed,3,1,2
+15911631,Denver County,8031,1,Q3,95,likely alarmed,4,5,4
+144882,Weld County,8123,0,Q3,95,likely alarmed,5,1,1
+2579693,Pueblo County,8101,1,Q3,94,likely alarmed,1,2,1
+17977216,Routt County,8107,0,Q3,94,likely alarmed,4,5,4
+18506729,El Paso County,8041,0,Q3,94,likely alarmed,4,5,3
+17578833,Denver County,8031,1,Q1_INTRO,93,likely alarmed,null,null,null
+18885900,Las Animas County,8071,0,Q2,93,likely not alarmed,1,2,2
+48862,Denver County,8031,0,Q3,93,likely alarmed,2,3,3
+17747066,Denver County,8031,0,Q3,93,likely alarmed,3,3,6
+2516949,Otero County,8089,1,Q3,93,likely alarmed,3,3,3
+2122423,Boulder County,8013,1,Q3,93,likely alarmed,4,5,6
+1735781,Grand County,8049,1,Q3,93,likely alarmed,5,5,4
+18128508,Montrose County,8085,1,Q3,93,likely not alarmed,5,5,3
+19095213,Adams County,8001,1,Q3,92,likely not alarmed,1,4,6
+17939753,Boulder County,8013,1,Q3,92,likely alarmed,1,2,1
+15876075,Weld County,8123,1,Q3,92,likely alarmed,3,5,4
+789868,Montrose County,8085,1,Q3,92,likely alarmed,5,5,5
+887024,Denver County,8031,0,Q3,91,likely alarmed,1,1,5
+2581604,Pueblo County,8101,1,Q3,91,likely alarmed,3,1,5
+146224,Denver County,8031,1,Q3,91,likely alarmed,3,5,5
+18768208,El Paso County,8041,1,Q3,91,likely alarmed,4,5,4
+4339689,Delta County,8029,1,Q3,91,likely alarmed,4,4,5
+18256847,Denver County,8031,0,Q3,91,likely alarmed,4,4,4
+699030,Boulder County,8013,1,Q3,91,likely alarmed,5,5,4
+4447880,Boulder County,8013,1,Q3,91,likely alarmed,5,5,5
+27052,Adams County,8001,1,Q3,91,likely alarmed,6,4,4
+15295594,Mesa County,8077,0,Q3,91,likely alarmed,6,1,2
+779039,Mesa County,8077,0,Q3,90,likely alarmed,1,3,1
+16172206,El Paso County,8041,1,Q3,90,likely alarmed,3,3,2
+3406917,Denver County,8031,1,Q3,90,likely alarmed,4,5,6
+802139,Denver County,8031,1,Q3,90,likely alarmed,5,5,4
+3403882,El Paso County,8041,0,Q3,90,likely alarmed,5,5,3
+2108361,Kit Carson County,8063,1,Q3,90,likely alarmed,5,5,5
+2781406,Weld County,8123,1,Q3,90,likely alarmed,6,6,1
+17834719,Pueblo County,8101,1,Q3,90,likely alarmed,6,3,6
+18740075,Adams County,8001,0,Q3,90,likely alarmed,6,4,3
+632069,Denver County,8031,1,Q3,89,likely alarmed,5,1,3
+1041859,Denver County,8031,1,Q3,89,likely alarmed,5,5,1
+3164567,Denver County,8031,0,Q3,89,likely alarmed,5,5,5
+17784368,Gunnison County,8051,1,Q1_INTRO,88,likely alarmed,null,null,null
+1607959,El Paso County,8041,1,Q3,88,likely alarmed,3,3,3
+842216,Denver County,8031,0,Q2,88,likely alarmed,4,2,6
+15672957,El Paso County,8041,0,Q3,88,likely alarmed,4,4,3
+700530,Boulder County,8013,0,Q3,88,likely alarmed,5,5,6
+17349214,Pueblo County,8101,1,Q3,88,likely alarmed,5,5,6
+1219796,Denver County,8031,1,Q3,88,likely alarmed,6,6,6
+15203937,Denver County,8031,0,Q3,87,likely alarmed,1,5,4
+1743785,Gunnison County,8051,1,Q3,87,likely alarmed,4,5,2
+2167503,Larimer County,8069,0,Q3,87,likely alarmed,4,5,2
+17907894,El Paso County,8041,1,Q3,87,likely alarmed,5,1,1
+18382287,Alamosa County,8003,0,Q3,87,likely alarmed,5,5,2
+196036,Alamosa County,8003,0,Q3,86,likely alarmed,1,1,1
+18920502,Garfield County,8045,1,Q3,86,likely alarmed,1,1,2
+180583,Adams County,8001,1,Q3,86,likely alarmed,2,2,1
+17866375,Routt County,8107,1,Q3,86,likely alarmed,3,4,3
+17660624,Alamosa County,8003,0,Q3,86,likely alarmed,3,3,3
+2465941,Montezuma County,8083,0,Q3,86,likely alarmed,3,2,5
+15302348,Rio Grande County,8105,1,Q3,86,likely alarmed,4,5,4
+2928170,Denver County,8031,0,Q3,86,likely alarmed,4,4,4
+3178467,Denver County,8031,0,Q3,86,likely alarmed,4,5,4
+18563004,Denver County,8031,1,Q3,86,likely alarmed,4,4,2
+351849,Denver County,8031,0,Q3,86,likely alarmed,5,1,4
+2347125,Las Animas County,8071,0,Q3,86,likely alarmed,6,3,6
+18972487,Adams County,8001,0,Q3,86,likely alarmed,6,5,4
+18572185,Mesa County,8077,0,Q3,85,likely not alarmed,1,3,5
+4302002,Denver County,8031,1,Q3,85,likely alarmed,2,2,4
+18894205,El Paso County,8041,1,Q3,85,likely alarmed,3,5,6
+17724678,Jefferson County,8059,1,Q3,85,likely alarmed,4,4,1
+2773599,Weld County,8123,1,Q3,85,likely alarmed,4,5,3
+884099,Denver County,8031,1,Q3,85,likely alarmed,4,5,5
+1528446,El Paso County,8041,1,Q3,85,likely alarmed,5,5,4
+2482362,Montrose County,8085,0,Q3,85,likely alarmed,5,5,5
+19796837,Boulder County,8013,1,Q3,85,likely alarmed,5,5,6
+17611617,Denver County,8031,1,Q3,85,likely alarmed,5,5,4
+16523715,Adams County,8001,0,Q3,85,likely alarmed,6,4,6
+18847035,Park County,8093,1,Q3,85,likely alarmed,6,5,6
+935922,Denver County,8031,0,Q3,84,likely alarmed,1,3,2
+957084,Adams County,8001,1,Q3,84,likely alarmed,1,5,1
+18745228,Denver County,8031,0,Q3,84,likely alarmed,5,6,6
+17559943,Summit County,8117,1,Q3,84,likely alarmed,5,5,5
+1791647,Jefferson County,8059,0,Q3,84,likely alarmed,5,1,1
+15649927,Adams County,8001,0,Q3,84,likely alarmed,6,4,6
+18618588,Pueblo County,8101,1,Q3,84,likely alarmed,6,5,6
+15614069,El Paso County,8041,0,Q3,83,likely alarmed,1,4,4
+2407187,Mesa County,8077,1,Q3,83,likely alarmed,4,3,2
+15296134,Denver County,8031,0,Q3,83,likely not alarmed,4,5,4
+15995620,La Plata County,8067,1,Q3,83,likely alarmed,5,5,4
+18724043,Pitkin County,8097,0,Q3,83,likely alarmed,5,1,5
+1711931,Garfield County,8045,1,Q3,83,likely alarmed,6,1,5
+4273634,Adams County,8001,1,Q3,83,likely alarmed,6,3,6
+3745673,Morgan County,8087,1,Q3,82,likely alarmed,1,5,1
+2575270,Pueblo County,8101,1,Q3,82,likely alarmed,1,1,1
+2045943,Jefferson County,8059,0,Q3,82,likely alarmed,1,1,1
+67337,Adams County,8001,0,Q3,82,likely not alarmed,1,3,1
+54248,Adams County,8001,1,Q3,82,likely alarmed,2,4,4
+1429334,El Paso County,8041,0,Q3,82,likely alarmed,3,5,3
+443638,Pueblo County,8101,0,Q3,82,likely alarmed,4,4,6
+251750,El Paso County,8041,1,Q3,82,likely alarmed,5,4,4
+2444406,Adams County,8001,0,Q3,82,likely alarmed,5,5,2
+4289579,Boulder County,8013,0,Q3,82,likely alarmed,5,5,5
+18437791,Boulder County,8013,0,Q3,82,likely alarmed,5,5,6
+124917,Adams County,8001,0,Q3,82,likely alarmed,5,5,5
+15602756,Boulder County,8013,0,Q3,82,likely alarmed,6,4,2
+2519029,Otero County,8089,0,Q3,82,likely alarmed,6,4,6
+18893032,Weld County,8123,1,Q3,81,likely not alarmed,1,2,5
+18999007,Pueblo County,8101,1,Q3,81,likely alarmed,3,3,2
+15853988,Routt County,8107,1,Q3,81,likely alarmed,3,3,2
+17132237,Denver County,8031,1,Q3,81,likely alarmed,3,5,1
+16427966,La Plata County,8067,0,Q3,81,likely alarmed,3,3,3
+16925488,Denver County,8031,0,Q3,81,likely alarmed,4,3,6
+2615369,Pueblo County,8101,0,Q3,81,likely alarmed,5,4,4
+18687108,Summit County,8117,0,Q3,81,likely alarmed,5,5,6
+2432541,Mesa County,8077,1,Q3,81,likely alarmed,6,6,3
+18848979,Douglas County,8035,1,Q1_INTRO,80,likely alarmed,null,null,null
+16801521,Denver County,8031,0,Q3,80,likely alarmed,1,1,2
+19007314,Weld County,8123,1,Q3,80,likely alarmed,2,4,4
+15628440,Boulder County,8013,0,Q3,80,likely alarmed,3,5,3
+2612847,Pueblo County,8101,1,Q3,80,likely alarmed,3,1,1
+15583742,Denver County,8031,1,Q3,80,likely alarmed,3,2,3
+17498444,Denver County,8031,1,Q3,80,likely alarmed,4,4,4
+1959617,Clear Creek County,8019,0,Q3,80,likely alarmed,4,3,6
+16858893,Jefferson County,8059,0,Q3,80,likely alarmed,5,5,5
+928458,Denver County,8031,1,Q3,80,likely alarmed,5,4,2
+15878444,Larimer County,8069,0,Q3,79,likely alarmed,1,2,1
+2034685,Weld County,8123,1,Q3,79,likely alarmed,1,3,1
+15629639,Douglas County,8035,0,Q3,79,likely alarmed,3,4,2
+1586579,El Paso County,8041,1,Q3,79,likely alarmed,4,5,3
+472920,Weld County,8123,0,Q3,79,likely alarmed,5,2,1
+18363143,Denver County,8031,1,Q3,79,likely alarmed,5,5,5
+764363,Fremont County,8043,0,Q3,79,likely alarmed,5,4,5
+2514327,Otero County,8089,1,Q3,79,likely alarmed,6,1,1
+2790504,Weld County,8123,1,Q3,78,likely alarmed,1,1,1
+18897447,Eagle County,8037,0,Q3,78,likely alarmed,1,2,1
+2787545,Weld County,8123,1,Q3,78,likely alarmed,3,3,4
+2701764,Summit County,8117,0,Q3,78,likely alarmed,3,4,2
+3358729,Weld County,8123,0,Q3,78,likely alarmed,3,3,4
+19111824,Adams County,8001,0,Q3,78,likely not alarmed,4,4,3
+18369695,Weld County,8123,1,Q3,78,likely alarmed,4,5,4
+1312966,Boulder County,8013,0,Q3,78,likely alarmed,4,4,2
+17979587,Denver County,8031,1,Q3,78,likely alarmed,4,4,2
+2365421,Mesa County,8077,1,Q3,78,likely not alarmed,4,4,4
+1721555,El Paso County,8041,1,Q3,78,likely alarmed,5,1,5
+17337,Adams County,8001,1,Q3,78,likely alarmed,5,5,2
+2397545,Mesa County,8077,0,Q3,78,likely alarmed,5,4,4
+19987330,Douglas County,8035,1,Q3,78,likely alarmed,6,5,6
+2603365,Pueblo County,8101,1,Q1_INTRO,77,likely alarmed,null,null,null
+1543177,El Paso County,8041,1,Q3,77,likely alarmed,1,1,1
+2414820,Mesa County,8077,0,Q3,77,likely alarmed,1,1,1
+16035595,El Paso County,8041,0,Q3,77,likely alarmed,2,3,2
+18959772,Denver County,8031,1,Q3,77,likely alarmed,3,5,2
+18618534,Boulder County,8013,1,Q3,77,likely alarmed,4,4,4
+15297697,Morgan County,8087,1,Q3,76,likely alarmed,1,1,1
+15825757,Denver County,8031,1,Q3,76,likely alarmed,1,4,6
+18566136,Weld County,8123,1,Q3,76,likely alarmed,3,3,2
+2792149,Weld County,8123,1,Q3,76,likely alarmed,4,4,4
+15637327,Mesa County,8077,0,Q3,76,likely alarmed,4,5,5
+1593511,El Paso County,8041,0,Q3,76,likely alarmed,4,2,1
+17641633,El Paso County,8041,1,Q3,76,likely alarmed,4,4,6
+16089912,El Paso County,8041,0,Q3,76,likely alarmed,5,5,4
+20023844,Weld County,8123,1,Q3,76,likely alarmed,5,5,4
+17134775,Pueblo County,8101,1,Q3,75,likely alarmed,1,2,1
+25671,Adams County,8001,0,Q3,75,likely alarmed,4,5,3
+4555489,El Paso County,8041,1,Q3,75,likely alarmed,4,5,4
+18163275,Douglas County,8035,1,Q3,75,likely alarmed,4,4,4
+2619645,El Paso County,8041,1,Q3,75,likely alarmed,5,5,1
+18291173,Broomfield County,8014,0,Q3,75,likely alarmed,5,5,5
+15614880,Mesa County,8077,1,Q3,75,likely alarmed,6,4,6
+18862322,El Paso County,8041,1,Q3,74,likely alarmed,1,5,1
+16196222,Denver County,8031,0,Q3,74,likely alarmed,1,5,1
+15673409,Eagle County,8037,1,Q3,74,likely not alarmed,2,3,2
+18720809,Denver County,8031,1,Q3,74,likely alarmed,2,4,2
+18211487,Adams County,8001,1,Q3,74,likely alarmed,3,2,5
+16025466,Weld County,8123,1,Q3,74,likely alarmed,4,5,5
+2394952,Mesa County,8077,1,Q3,74,likely alarmed,4,5,5
+1757201,Huerfano County,8055,0,Q2,74,likely alarmed,5,5,5
+16865403,Pueblo County,8101,1,Q3,74,likely alarmed,5,5,4
+1935315,Denver County,8031,0,Q3,74,likely alarmed,5,3,6
+1024434,Denver County,8031,0,Q3,74,likely alarmed,5,5,4
+16927079,Weld County,8123,1,Q3,74,likely alarmed,5,3,3
+2266529,Routt County,8107,0,Q3,74,likely alarmed,5,5,2
+18113172,Denver County,8031,1,Q3,74,likely alarmed,5,5,5
+18526048,Weld County,8123,1,Q3,74,likely alarmed,6,5,6
+17561342,Summit County,8117,1,Q3,74,likely alarmed,6,5,3
+18529238,Adams County,8001,1,Q3,73,likely alarmed,1,1,1
+17358105,Adams County,8001,1,Q3,73,likely alarmed,2,3,2
+18978278,Pueblo County,8101,1,Q3,73,likely alarmed,2,3,2
+433582,Douglas County,8035,1,Q3,73,likely alarmed,3,4,4
+4841597,Douglas County,8035,1,Q3,73,likely alarmed,3,3,2
+2182076,Larimer County,8069,1,Q3,73,likely alarmed,3,5,6
+18992313,El Paso County,8041,1,Q3,73,likely alarmed,4,5,5
+17719450,Denver County,8031,1,Q3,73,likely alarmed,4,5,6
+18797332,Adams County,8001,0,Q1_INTRO,72,likely alarmed,null,null,null
+16023248,Weld County,8123,0,Q3,72,likely not alarmed,1,5,1
+2129142,La Plata County,8067,1,Q3,72,likely alarmed,1,1,1
+18266692,Boulder County,8013,1,Q3,72,likely alarmed,3,5,6
+2986360,Weld County,8123,1,Q3,72,likely alarmed,3,5,4
+2084003,Jefferson County,8059,1,Q3,72,likely alarmed,5,5,3
+17973771,La Plata County,8067,0,Q2,72,likely alarmed,5,1,1
+624853,Boulder County,8013,1,Q3,71,likely alarmed,3,3,2
+17660637,Montezuma County,8083,1,Q3,71,likely not alarmed,4,4,2
+15169331,Adams County,8001,1,Q3,71,likely alarmed,6,3,6
+18480338,Denver County,8031,0,Q3,71,likely alarmed,6,4,3
+271994,Denver County,8031,1,Q3,70,likely alarmed,1,3,1
+15709352,Larimer County,8069,0,Q3,70,likely alarmed,1,4,1
+18888190,Summit County,8117,1,Q3,70,likely alarmed,3,4,2
+17052932,Douglas County,8035,0,Q3,70,likely alarmed,3,4,4
+15575351,Denver County,8031,0,Q3,70,likely alarmed,4,3,2
+1431446,El Paso County,8041,0,Q3,70,likely alarmed,4,3,3
+19108489,Alamosa County,8003,1,Q3,70,likely not alarmed,4,3,3
+4333278,Denver County,8031,1,Q3,70,likely alarmed,4,4,4
+16442899,Denver County,8031,0,Q3,70,likely alarmed,5,5,4
+19016386,Denver County,8031,0,Q3,70,likely alarmed,5,4,3
+2703653,Denver County,8031,1,Q3,70,likely alarmed,6,4,1
+15757135,Weld County,8123,0,Q3,69,likely alarmed,1,1,1
+16906735,El Paso County,8041,0,Q3,69,likely alarmed,1,1,5
+18654828,Adams County,8001,0,Q3,69,likely alarmed,3,4,6
+2360236,Logan County,8075,0,Q3,69,likely alarmed,3,4,4
+18940641,Weld County,8123,0,Q3,69,likely alarmed,4,5,6
+18398134,El Paso County,8041,0,Q3,69,likely alarmed,4,6,6
+18723993,Broomfield County,8014,0,Q3,69,likely alarmed,4,5,6
+18741448,Denver County,8031,1,Q3,69,likely alarmed,5,5,5
+18349154,Denver County,8031,0,Q3,69,likely alarmed,5,5,3
+15579449,Larimer County,8069,0,Q3,69,likely alarmed,5,4,4
+693065,Boulder County,8013,1,Q3,69,likely alarmed,5,5,6
+2625259,Pueblo County,8101,0,Q3,69,likely alarmed,5,5,3
+15987753,Otero County,8089,1,Q3,69,likely not alarmed,6,6,6
+1531659,Routt County,8107,0,Q3,69,likely alarmed,6,5,2
+2517030,Otero County,8089,0,Q1_INTRO,68,likely alarmed,null,null,null
+2641224,El Paso County,8041,1,Q3,68,likely alarmed,1,2,1
+2137653,La Plata County,8067,1,Q3,68,likely alarmed,4,5,5
+15305116,Weld County,8123,1,Q3,68,likely alarmed,4,5,4
+15199358,Denver County,8031,1,Q3,68,likely alarmed,4,5,5
+18481185,Boulder County,8013,0,Q3,68,likely alarmed,5,5,4
+16015644,Weld County,8123,0,Q3,68,likely alarmed,5,5,4
+16407237,Adams County,8001,0,Q3,68,likely alarmed,5,5,6
+2637788,Pueblo County,8101,0,Q3,68,likely alarmed,5,4,3
+15615346,El Paso County,8041,1,Q3,68,likely alarmed,5,5,5
+3368977,Denver County,8031,1,Q3,68,likely alarmed,6,5,4
+15332011,Boulder County,8013,1,Q3,68,likely alarmed,6,5,6
+17992589,Mesa County,8077,1,Q3,67,likely alarmed,1,1,1
+18182668,Gunnison County,8051,0,Q3,67,likely alarmed,1,3,3
+17356186,Pueblo County,8101,0,Q3,67,likely alarmed,4,5,6
+18850034,Boulder County,8013,1,Q3,67,likely alarmed,4,5,2
+1000964,Denver County,8031,0,Q3,67,likely alarmed,4,2,4
+17842923,Denver County,8031,1,Q3,67,likely alarmed,4,3,6
+18199792,Denver County,8031,1,Q3,67,likely alarmed,5,5,5
+3399336,Alamosa County,8003,0,Q3,67,likely alarmed,6,2,6
+846589,Denver County,8031,0,Q1_INTRO,66,likely alarmed,null,null,null
+15707196,Ouray County,8091,0,Q3,66,likely alarmed,1,1,1
+15306500,Weld County,8123,0,Q3,66,likely alarmed,1,1,4
+848846,Denver County,8031,0,Q3,66,likely alarmed,3,5,4
+15669561,Eagle County,8037,0,Q3,66,likely alarmed,3,5,5
+1627725,El Paso County,8041,1,Q3,66,likely alarmed,4,5,3
+18870331,Adams County,8001,1,Q3,66,likely alarmed,4,4,3
+3961466,Denver County,8031,0,Q3,66,likely alarmed,4,4,2
+18854574,Denver County,8031,1,Q3,66,likely alarmed,4,5,4
+18999314,Denver County,8031,0,Q3,66,likely alarmed,5,5,1
+3331369,El Paso County,8041,0,Q3,66,likely alarmed,5,1,2
+18510273,Adams County,8001,0,Q3,66,likely alarmed,5,5,5
+16043694,Denver County,8031,1,Q3,66,likely alarmed,6,4,5
+4160024,Garfield County,8045,1,Q3,65,likely alarmed,2,2,2
+1357447,El Paso County,8041,1,Q3,65,likely alarmed,3,4,4
+1752226,Gunnison County,8051,1,Q3,65,likely alarmed,3,4,4
+18142326,Boulder County,8013,0,Q3,65,likely alarmed,5,5,6
+440720,Denver County,8031,0,Q3,65,likely alarmed,5,4,2
+18940331,Boulder County,8013,1,Q3,65,likely alarmed,5,5,6
+17905385,Ouray County,8091,0,Q3,65,likely alarmed,5,5,5
+564115,Boulder County,8013,0,Q3,64,likely alarmed,1,3,4
+15643474,Denver County,8031,0,Q3,64,likely alarmed,3,3,6
+2691814,Summit County,8117,1,Q3,64,likely alarmed,4,5,4
+18331889,Adams County,8001,0,Q3,64,likely alarmed,5,5,5
+2178414,Larimer County,8069,0,Q2,64,likely alarmed,5,5,5
+17852223,Pueblo County,8101,0,Q3,64,likely alarmed,5,5,3
+18459502,Denver County,8031,0,Q3,64,likely alarmed,5,5,5
+18436534,Denver County,8031,0,Q3,64,likely not alarmed,5,4,5
+4349145,Yuma County,8125,0,Q3,63,likely alarmed,1,1,1
+17720321,Denver County,8031,0,Q3,63,likely alarmed,2,5,4
+18271220,Denver County,8031,1,Q3,63,likely alarmed,2,4,1
+2135455,La Plata County,8067,0,Q3,63,likely alarmed,3,5,4
+2695021,Summit County,8117,0,Q3,63,likely alarmed,3,4,5
+17559947,Summit County,8117,1,Q3,63,likely alarmed,3,5,4
+2618337,Denver County,8031,0,Q3,63,likely alarmed,3,3,3
+18561101,Douglas County,8035,0,Q3,63,likely alarmed,4,4,4
+17435529,Boulder County,8013,0,Q3,63,likely alarmed,4,4,2
+15579371,Pueblo County,8101,1,Q3,63,likely alarmed,5,5,3
+3398992,Denver County,8031,0,Q3,63,likely alarmed,5,5,2
+16323287,Boulder County,8013,0,Q3,63,likely alarmed,5,4,2
+17667618,Larimer County,8069,1,Q3,63,likely alarmed,5,5,4
+19094368,El Paso County,8041,1,Q3,63,likely alarmed,5,5,6
+3366438,Boulder County,8013,1,Q3,63,likely alarmed,6,5,5
+2365864,Mesa County,8077,0,Q3,62,likely alarmed,2,4,4
+2666464,Routt County,8107,0,Q3,62,likely alarmed,3,4,6
+18817239,Boulder County,8013,1,Q3,62,likely alarmed,3,4,4
+1347421,El Paso County,8041,1,Q3,62,likely alarmed,3,3,6
+1856694,Denver County,8031,0,Q3,62,likely alarmed,4,4,2
+18094653,El Paso County,8041,0,Q3,62,likely alarmed,4,5,3
+72293,El Paso County,8041,1,Q3,62,likely alarmed,5,5,5
+550068,Boulder County,8013,0,Q3,62,likely alarmed,5,5,6
+18664545,Alamosa County,8003,0,Q3,62,likely alarmed,5,5,5
+19101271,Denver County,8031,1,Q3,62,likely alarmed,6,6,6
+889793,Denver County,8031,0,Q1_INTRO,61,likely alarmed,null,null,null
+465561,Denver County,8031,1,Q3,61,likely alarmed,2,5,2
+2387966,Pueblo County,8101,0,Q3,61,likely alarmed,3,4,4
+2543568,Eagle County,8037,1,Q3,61,likely alarmed,4,5,4
+18437149,La Plata County,8067,0,Q3,61,likely alarmed,4,5,3
+1682083,Fremont County,8043,1,Q3,61,likely alarmed,5,5,4
+16015550,El Paso County,8041,0,Q3,61,likely alarmed,5,5,5
+18923158,El Paso County,8041,1,Q3,61,likely alarmed,5,4,4
+18669519,Denver County,8031,1,Q3,61,likely alarmed,5,5,5
+4261003,Adams County,8001,0,Q3,61,likely alarmed,6,6,6
+18138346,Adams County,8001,0,Q1_INTRO,60,likely alarmed,null,null,null
+15592043,Larimer County,8069,1,Q3,60,likely alarmed,1,3,2
+2828177,Boulder County,8013,1,Q3,60,likely alarmed,1,2,1
+17133688,Adams County,8001,1,Q3,60,likely alarmed,1,5,1
+15862010,Adams County,8001,1,Q3,60,likely alarmed,2,4,1
+435912,Douglas County,8035,1,Q3,60,likely not alarmed,3,4,3
+18890914,Adams County,8001,1,Q3,60,likely alarmed,3,3,1
+1980619,Denver County,8031,0,Q3,60,likely alarmed,4,4,4
+16165449,Adams County,8001,1,Q3,60,likely alarmed,4,4,4
+19664408,San Miguel County,8113,1,Q3,60,likely alarmed,5,5,2
+19062782,Jefferson County,8059,0,Q3,60,likely alarmed,5,5,2
+765806,Clear Creek County,8019,0,Q3,59,likely alarmed,4,5,6
+3378515,Lake County,8065,1,Q3,59,likely alarmed,4,5,4
+2780120,Larimer County,8069,0,Q3,59,likely alarmed,5,3,6
+17006519,Adams County,8001,1,Q3,59,likely alarmed,5,5,6
+1586233,Denver County,8031,0,Q3,59,likely alarmed,5,5,4
+16860149,El Paso County,8041,1,Q3,59,likely alarmed,5,5,5
+18020895,Douglas County,8035,1,Q3,59,likely alarmed,5,5,3
+18517921,Douglas County,8035,1,Q3,59,likely alarmed,5,4,4
+18455583,Boulder County,8013,1,Q3,59,likely alarmed,5,5,2
+16424429,El Paso County,8041,0,Q3,59,likely alarmed,5,5,5
+17725979,Denver County,8031,1,Q3,59,likely alarmed,6,4,1
+17852520,La Plata County,8067,0,Q3,59,likely alarmed,6,4,4
+17357499,Denver County,8031,1,Q3,59,likely not alarmed,6,3,6
+18049826,Garfield County,8045,1,Q1_INTRO,58,likely alarmed,null,null,null
+3417391,Pueblo County,8101,1,Q1_INTRO,58,likely alarmed,null,null,null
+2819525,Weld County,8123,0,Q3,58,likely alarmed,2,5,4
+1056638,Denver County,8031,0,Q3,58,likely alarmed,3,4,1
+15970374,Mesa County,8077,0,Q3,58,likely alarmed,4,5,2
+15804617,Denver County,8031,0,Q3,58,likely alarmed,4,5,4
+17687864,Denver County,8031,0,Q3,58,likely alarmed,4,3,3
+16012298,El Paso County,8041,0,Q3,58,likely alarmed,5,5,3
+15990127,El Paso County,8041,1,Q3,58,likely alarmed,5,5,5
+16493240,El Paso County,8041,0,Q3,58,likely alarmed,5,5,3
+733376,Boulder County,8013,1,Q3,57,likely alarmed,2,5,3
+16269162,Denver County,8031,1,Q3,57,likely alarmed,2,5,2
+18665896,Denver County,8031,0,Q3,57,likely alarmed,3,4,2
+4316594,El Paso County,8041,0,Q3,57,likely alarmed,4,5,4
+318899,Boulder County,8013,1,Q3,57,likely alarmed,4,2,1
+1578263,El Paso County,8041,0,Q3,57,likely alarmed,4,5,5
+16045642,El Paso County,8041,0,Q3,57,likely alarmed,4,5,6
+18556922,Denver County,8031,0,Q3,57,likely alarmed,5,5,5
+310997,Denver County,8031,1,Q3,57,likely alarmed,5,5,5
+18387393,Douglas County,8035,0,Q3,57,likely alarmed,6,3,6
+1593862,Larimer County,8069,1,Q3,56,likely alarmed,3,3,6
+18734382,Douglas County,8035,0,Q3,56,likely alarmed,3,5,5
+16924417,Jefferson County,8059,1,Q3,56,likely alarmed,3,4,4
+18589965,Alamosa County,8003,0,Q3,56,likely alarmed,4,4,3
+15746131,Pitkin County,8097,1,Q3,56,likely alarmed,4,4,3
+2652759,Pueblo County,8101,0,Q3,56,likely alarmed,4,5,3
+18799227,Montrose County,8085,0,Q3,56,likely not alarmed,5,1,1
+1510542,El Paso County,8041,1,Q3,56,likely alarmed,5,5,5
+3905884,Adams County,8001,1,Q3,56,likely alarmed,5,5,5
+18971452,Boulder County,8013,1,Q3,56,likely alarmed,5,5,2
+18497895,Boulder County,8013,0,Q3,56,likely alarmed,5,5,5
+3369504,Broomfield County,8014,0,Q3,56,likely alarmed,5,5,5
+2518583,Otero County,8089,0,Q3,56,likely alarmed,5,5,4
+16430647,Adams County,8001,1,Q3,56,likely alarmed,5,1,1
+16448391,Denver County,8031,0,Q3,56,likely alarmed,6,4,6
+4382126,El Paso County,8041,0,Q3,56,likely not alarmed,6,4,4
+17997803,Douglas County,8035,0,Q3,55,likely not alarmed,1,1,1
+17304308,Pueblo County,8101,0,Q3,55,likely alarmed,1,5,5
+16442498,Adams County,8001,1,Q3,55,likely alarmed,1,2,1
+17547011,La Plata County,8067,0,Q3,55,likely alarmed,4,5,4
+18499229,Boulder County,8013,1,Q3,55,likely alarmed,4,5,4
+18601689,Adams County,8001,0,Q3,55,likely alarmed,4,4,2
+2418374,Mesa County,8077,0,Q3,55,likely alarmed,5,2,5
+15865014,Adams County,8001,0,Q3,55,likely alarmed,5,5,3
+2196457,Larimer County,8069,0,Q3,55,likely alarmed,5,5,3
+16482510,Douglas County,8035,0,Q3,55,likely alarmed,5,5,4
+17865153,El Paso County,8041,1,Q3,55,likely alarmed,6,4,6
+15655545,Weld County,8123,1,Q3,54,likely alarmed,2,5,5
+18670331,Grand County,8049,0,Q3,54,likely alarmed,3,4,2
+18731339,El Paso County,8041,0,Q3,54,likely alarmed,4,3,5
+18339723,Denver County,8031,0,Q3,54,likely alarmed,4,4,4
+18637979,Boulder County,8013,1,Q3,54,likely alarmed,5,5,5
+16401955,Larimer County,8069,0,Q3,54,likely alarmed,5,5,3
+18552278,El Paso County,8041,0,Q3,54,likely alarmed,5,5,5
+17626826,Denver County,8031,0,Q3,54,likely alarmed,5,5,5
+17575018,Adams County,8001,1,Q3,53,likely alarmed,1,1,2
+18436308,Douglas County,8035,0,Q3,53,likely alarmed,1,3,1
+2467745,Montezuma County,8083,1,Q3,53,likely alarmed,3,5,5
+689269,Weld County,8123,1,Q3,53,likely alarmed,4,5,4
+2443323,Mesa County,8077,0,Q3,53,likely alarmed,4,4,4
+17865424,Adams County,8001,1,Q3,53,likely not alarmed,4,5,5
+3379792,La Plata County,8067,0,Q3,53,likely alarmed,5,5,5
+17746870,Weld County,8123,0,Q3,53,likely alarmed,5,5,1
+18216996,El Paso County,8041,1,Q3,53,likely alarmed,5,5,6
+16988161,Adams County,8001,1,Q3,53,likely alarmed,5,5,3
+18613613,Weld County,8123,0,Q3,53,likely alarmed,5,5,3
+17636819,Denver County,8031,0,Q3,53,likely alarmed,5,5,5
+19016142,Pueblo County,8101,1,Q3,53,likely alarmed,5,5,2
+15310989,Mesa County,8077,1,Q3,52,likely not alarmed,1,1,1
+15987798,Mesa County,8077,1,Q3,52,likely alarmed,2,5,4
+18786291,Denver County,8031,0,Q3,52,likely alarmed,4,5,5
+731931,Boulder County,8013,0,Q3,52,likely alarmed,4,5,4
+18896366,Boulder County,8013,0,Q3,52,likely alarmed,5,5,3
+17706035,Weld County,8123,1,Q3,52,likely alarmed,5,5,6
+815758,Denver County,8031,1,Q1_INTRO,51,likely alarmed,null,null,null
+2763952,Weld County,8123,0,Q1_INTRO,51,likely alarmed,null,null,null
+18447101,El Paso County,8041,0,Q3,51,likely not alarmed,1,1,2
+15286640,Denver County,8031,0,Q3,51,likely alarmed,3,4,6
+16114594,Denver County,8031,1,Q3,51,likely alarmed,4,5,1
+17389264,Pitkin County,8097,0,Q3,51,likely alarmed,5,5,5
+16417839,Boulder County,8013,1,Q3,51,likely alarmed,5,5,4
+18959075,Summit County,8117,1,Q3,51,likely alarmed,6,4,6
+19072041,Denver County,8031,0,Q3,51,likely alarmed,6,4,6
+19029433,Denver County,8031,1,Q3,51,likely alarmed,6,6,6
+18620660,Summit County,8117,1,Q3,51,likely alarmed,6,4,6
+4678443,Boulder County,8013,0,Q3,50,likely alarmed,2,2,1
+2214616,Larimer County,8069,1,Q3,50,likely alarmed,2,4,6
+4262050,San Miguel County,8113,1,Q3,50,likely alarmed,3,2,1
+1055835,Chaffee County,8015,0,Q3,50,likely alarmed,4,5,4
+18279855,Weld County,8123,0,Q3,50,likely alarmed,4,3,1
+18500151,Adams County,8001,0,Q3,50,likely alarmed,5,5,6
+18409439,Delta County,8029,1,Q3,50,likely alarmed,5,5,4
+15606897,Denver County,8031,1,Q3,50,likely alarmed,5,5,5
+18017862,Prowers County,8099,0,Q3,49,likely alarmed,2,5,6
+2330384,Boulder County,8013,1,Q3,49,likely alarmed,3,4,2
+18864553,Adams County,8001,1,Q3,49,likely alarmed,3,3,6
+19799497,El Paso County,8041,0,Q3,49,likely alarmed,4,5,5
+15609688,Larimer County,8069,0,Q3,49,likely alarmed,4,5,6
+4321060,Pitkin County,8097,0,Q3,49,likely alarmed,5,5,5
+840604,El Paso County,8041,0,Q3,49,likely alarmed,5,5,3
+165651,Adams County,8001,1,Q3,49,likely alarmed,5,5,5
+17047884,Weld County,8123,1,Q3,49,likely alarmed,5,4,4
+701974,Weld County,8123,1,Q3,49,likely alarmed,6,6,6
+18210451,Pueblo County,8101,1,Q3,49,likely alarmed,6,3,3
+2615676,Pueblo County,8101,0,Q1_INTRO,48,likely alarmed,null,null,null
+18601544,Boulder County,8013,0,Q3,48,likely alarmed,3,3,2
+17232112,Las Animas County,8071,1,Q3,48,likely alarmed,5,4,4
+19606487,Summit County,8117,1,Q3,48,likely alarmed,6,5,5
+17953201,Denver County,8031,1,Q3,47,likely alarmed,1,1,1
+18642334,Weld County,8123,0,Q3,47,likely alarmed,5,5,5
+17240227,Boulder County,8013,0,Q3,47,likely not alarmed,5,5,5
+15906866,Denver County,8031,0,Q2,47,likely alarmed,5,5,4
+17544331,Broomfield County,8014,1,Q3,47,likely alarmed,5,5,5
+18177088,El Paso County,8041,0,Q3,47,likely alarmed,5,5,4
+18156016,Denver County,8031,0,Q3,47,likely alarmed,6,4,2
+1036746,Denver County,8031,0,Q1_INTRO,46,likely alarmed,null,null,null
+55941,Adams County,8001,0,Q1_INTRO,46,likely alarmed,null,null,null
+15302323,Mesa County,8077,1,Q3,46,likely alarmed,1,2,1
+15289267,Weld County,8123,0,Q3,46,likely alarmed,1,2,2
+16462992,Douglas County,8035,1,Q3,46,likely alarmed,4,5,5
+15316461,Weld County,8123,1,Q3,46,likely alarmed,4,5,5
+16921643,Denver County,8031,1,Q3,46,likely alarmed,5,5,5
+231297,Eagle County,8037,1,Q3,46,likely alarmed,5,5,4
+19745185,Routt County,8107,1,Q3,46,likely alarmed,5,5,5
+18956764,El Paso County,8041,1,Q3,46,likely alarmed,6,4,6
+18147833,Summit County,8117,0,Q3,46,likely alarmed,6,3,2
+18786048,Mesa County,8077,0,Q3,45,likely alarmed,3,4,1
+18317776,Denver County,8031,1,Q3,45,likely alarmed,4,4,2
+1896510,Eagle County,8037,1,Q3,45,likely alarmed,4,4,1
+15705521,El Paso County,8041,1,Q3,45,likely alarmed,5,5,3
+16859690,Adams County,8001,1,Q3,45,likely alarmed,5,5,4
+18781787,Denver County,8031,1,Q3,45,likely alarmed,5,5,2
+15307616,Weld County,8123,1,Q3,45,likely alarmed,5,5,5
+17712501,Denver County,8031,1,Q3,45,likely alarmed,6,4,6
+15732444,El Paso County,8041,1,Q3,45,likely alarmed,6,5,6
+15272800,Denver County,8031,0,Q3,45,likely alarmed,6,4,6
+16262975,Garfield County,8045,1,Q3,44,likely alarmed,3,5,4
+18650870,Denver County,8031,0,Q3,44,likely alarmed,4,4,4
+715681,Boulder County,8013,0,Q3,44,likely alarmed,4,5,4
+18102852,Summit County,8117,1,Q3,44,likely alarmed,5,5,4
+155568,Douglas County,8035,1,Q3,44,likely alarmed,5,5,6
+16450936,Denver County,8031,0,Q3,44,likely alarmed,5,5,5
+18416914,Boulder County,8013,1,Q3,44,likely alarmed,5,5,3
+18408397,Weld County,8123,1,Q3,43,likely alarmed,1,2,2
+17154313,Denver County,8031,1,Q3,43,likely alarmed,3,5,2
+15900202,Denver County,8031,0,Q3,43,likely alarmed,4,4,4
+983536,Denver County,8031,0,Q3,43,likely alarmed,5,5,4
+17672303,Jefferson County,8059,1,Q3,43,likely alarmed,5,5,3
+18264242,Broomfield County,8014,0,Q3,43,likely alarmed,5,5,6
+15630397,Denver County,8031,0,Q3,43,likely alarmed,5,5,4
+17389424,Summit County,8117,1,Q3,43,likely alarmed,5,5,5
+18173277,Denver County,8031,1,Q3,43,likely alarmed,5,4,6
+19726993,Mesa County,8077,0,Q1_INTRO,42,likely alarmed,null,null,null
+86309,Adams County,8001,0,Q1_INTRO,42,likely alarmed,null,null,null
+977814,Denver County,8031,1,Q1_INTRO,42,likely alarmed,null,null,null
+17669592,Mesa County,8077,1,Q1_INTRO,42,likely not alarmed,null,null,null
+18350152,Jefferson County,8059,0,Q3,42,likely alarmed,4,5,3
+19084386,El Paso County,8041,1,Q3,42,likely alarmed,5,5,5
+18263691,Denver County,8031,0,Q3,42,likely alarmed,5,5,5
+18530951,Boulder County,8013,1,Q3,42,likely alarmed,5,5,3
+17959952,Denver County,8031,0,Q3,42,likely alarmed,5,5,4
+18972886,Denver County,8031,0,Q3,42,likely alarmed,5,5,4
+4768372,Adams County,8001,1,Q1_INTRO,41,likely alarmed,null,null,null
+2511473,Douglas County,8035,0,Q3,41,likely alarmed,3,4,6
+16440703,Adams County,8001,1,Q3,41,likely alarmed,4,5,5
+18882695,Denver County,8031,1,Q3,41,likely alarmed,5,5,5
+15590833,Broomfield County,8014,0,Q3,41,likely alarmed,5,5,2
+17458852,Adams County,8001,0,Q3,41,likely not alarmed,5,5,6
+16992460,Denver County,8031,0,Q3,41,likely alarmed,5,5,6
+107752,Adams County,8001,1,Q3,41,likely alarmed,6,6,6
+246092,Denver County,8031,1,Q1_INTRO,40,likely alarmed,null,null,null
+16461453,Larimer County,8069,0,Q3,40,likely alarmed,2,4,4
+18485903,Grand County,8049,1,Q3,40,likely alarmed,3,4,4
+18783979,Eagle County,8037,0,Q3,40,likely alarmed,4,5,3
+18799710,Larimer County,8069,1,Q3,40,likely alarmed,5,5,5
+17911755,Denver County,8031,0,Q3,40,likely alarmed,5,4,4
+1105177,Denver County,8031,0,Q3,40,likely alarmed,5,5,4
+993715,Denver County,8031,0,Q1_INTRO,39,likely alarmed,null,null,null
+4299467,Denver County,8031,0,Q1_INTRO,39,likely alarmed,null,null,null
+800567,Douglas County,8035,0,Q1_INTRO,39,likely alarmed,null,null,null
+18149701,Douglas County,8035,1,Q3,39,likely alarmed,5,5,2
+18895337,El Paso County,8041,1,Q3,39,likely alarmed,5,5,3
+18285173,Boulder County,8013,0,Q3,39,likely alarmed,5,5,5
+16845041,Weld County,8123,0,Q3,39,likely alarmed,6,6,5
+18999415,Pueblo County,8101,1,Q2,39,likely alarmed,6,3,6
+864041,Jefferson County,8059,1,Q1_INTRO,38,likely alarmed,null,null,null
+15601453,Grand County,8049,0,Q3,38,likely not alarmed,1,1,1
+15838491,Denver County,8031,1,Q3,38,likely alarmed,2,3,6
+17018987,Weld County,8123,0,Q3,38,likely alarmed,5,5,4
+18280151,Jefferson County,8059,0,Q3,38,likely alarmed,5,5,5
+15310546,El Paso County,8041,0,Q3,38,likely alarmed,5,5,5
+19013847,Summit County,8117,0,Q3,38,likely alarmed,5,5,5
+18381985,Boulder County,8013,0,Q3,38,likely alarmed,6,4,3
+18633144,Weld County,8123,1,Q1_INTRO,37,likely alarmed,null,null,null
+18522084,Denver County,8031,0,Q3,37,likely alarmed,6,6,6
+19597298,Garfield County,8045,0,Q1_INTRO,36,likely alarmed,null,null,null
+18897952,Weld County,8123,1,Q1_INTRO,36,likely alarmed,null,null,null
+2008231,Adams County,8001,1,Q1_INTRO,35,likely alarmed,null,null,null
+18413980,Denver County,8031,0,Q3,35,likely alarmed,5,5,5
+18647711,Denver County,8031,0,Q3,35,likely alarmed,5,5,5
+18705467,Denver County,8031,1,Q3,35,likely alarmed,6,6,6
+764068,Clear Creek County,8019,1,Q1_INTRO,34,likely alarmed,null,null,null
+2456062,Moffat County,8081,1,Q1_INTRO,34,likely alarmed,null,null,null
+141874,Adams County,8001,0,Q1_INTRO,34,likely alarmed,null,null,null
+4300476,Adams County,8001,1,Q1_INTRO,34,likely alarmed,null,null,null
+18078143,Denver County,8031,1,Q1_INTRO,34,likely alarmed,null,null,null
+16144741,El Paso County,8041,0,Q3,34,likely alarmed,5,5,5
+15665063,Adams County,8001,0,Q1_INTRO,33,likely alarmed,null,null,null
+18854764,Denver County,8031,1,Q3,33,likely alarmed,5,5,5
+3350876,Boulder County,8013,0,Q3,33,likely alarmed,5,5,5
+3805141,Otero County,8089,0,Q3,33,likely alarmed,5,5,5
 15699674,Denver County,8031,0,Q1_INTRO,31,likely alarmed,null,null,null
-18405710,Denver County,8031,0,Q1_INTRO,5,likely alarmed,null,null,null
-2421477,Denver County,8031,0,Q1_INTRO,5,likely alarmed,null,null,null
-15566762,Denver County,8031,1,Q1_INTRO,5,likely alarmed,null,null,null
-18561359,Boulder County,8013,1,Q1_INTRO,5,likely alarmed,null,null,null
-18967101,Pueblo County,8101,1,Q1_INTRO,5,likely alarmed,null,null,null
-15847006,Adams County,8001,1,Q1_INTRO,5,likely alarmed,null,null,null
-16997258,Denver County,8031,0,Q1_INTRO,5,likely alarmed,null,null,null
-18657117,Boulder County,8013,0,Q1_INTRO,5,likely alarmed,null,null,null
-4163199,Denver County,8031,1,Q1_INTRO,5,likely alarmed,null,null,null
-18641113,Boulder County,8013,0,Q1_INTRO,5,likely alarmed,null,null,null
-3371848,El Paso County,8041,1,Q1_INTRO,5,likely alarmed,null,null,null
-16418522,Adams County,8001,0,Q1_INTRO,5,likely alarmed,null,null,null
-15881618,Denver County,8031,0,Q1_INTRO,5,likely alarmed,null,null,null
-18559049,Denver County,8031,1,Q1_INTRO,5,likely alarmed,null,null,null
-18995680,Boulder County,8013,0,Q1_INTRO,5,likely alarmed,null,null,null
-17352497,El Paso County,8041,0,Q1_INTRO,5,likely not alarmed,null,null,null
-17571216,Boulder County,8013,0,Q1_INTRO,5,likely alarmed,null,null,null
-16042968,El Paso County,8041,0,Q1_INTRO,5,likely alarmed,null,null,null
-176677,Adams County,8001,1,Q1_INTRO,5,likely alarmed,null,null,null
-4775412,Boulder County,8013,1,Q1_INTRO,5,likely alarmed,null,null,null
-18811777,Denver County,8031,1,Q1_INTRO,5,likely alarmed,null,null,null
-16371116,Denver County,8031,0,Q1_INTRO,5,likely alarmed,null,null,null
-18263757,Archuleta County,8007,1,Q1_INTRO,5,likely not alarmed,null,null,null
+16444067,Alamosa County,8003,0,Q1_INTRO,31,likely alarmed,null,null,null
+17839310,Boulder County,8013,0,Q1_INTRO,31,likely alarmed,null,null,null
+16898050,Summit County,8117,0,Q1_INTRO,31,likely alarmed,null,null,null
+18045981,Las Animas County,8071,0,Q1_INTRO,30,likely alarmed,null,null,null
+16965697,Douglas County,8035,0,Q1_INTRO,30,likely alarmed,null,null,null
+764021,Clear Creek County,8019,1,Q1_INTRO,30,likely alarmed,null,null,null
+16432136,Pueblo County,8101,1,Q1_INTRO,30,likely alarmed,null,null,null
+19044134,Adams County,8001,0,Q1_INTRO,29,likely alarmed,null,null,null
+1342378,El Paso County,8041,1,Q1_INTRO,29,likely alarmed,null,null,null
+18748240,Denver County,8031,0,Q1_INTRO,29,likely alarmed,null,null,null
+18574832,Jefferson County,8059,0,Q1_INTRO,29,likely alarmed,null,null,null
+2552246,Eagle County,8037,0,Q1_INTRO,28,likely alarmed,null,null,null
+19794557,El Paso County,8041,1,Q1_INTRO,28,likely alarmed,null,null,null
+2190486,Weld County,8123,1,Q1_INTRO,28,likely alarmed,null,null,null
+3772906,El Paso County,8041,1,Q1_INTRO,28,likely alarmed,null,null,null
+18929151,Larimer County,8069,0,Q1_INTRO,28,likely alarmed,null,null,null
+18503503,Adams County,8001,0,Q1_INTRO,27,likely alarmed,null,null,null
+16854116,Denver County,8031,1,Q1_INTRO,27,likely alarmed,null,null,null
+4699359,Montezuma County,8083,1,Q1_INTRO,27,likely alarmed,null,null,null
+15230857,Denver County,8031,0,Q1_INTRO,26,likely alarmed,null,null,null
+18252513,Pueblo County,8101,1,Q1_INTRO,26,likely alarmed,null,null,null
+858929,Denver County,8031,1,Q1_INTRO,26,likely alarmed,null,null,null
+2621141,Pueblo County,8101,1,Q1_INTRO,26,likely alarmed,null,null,null
+17169867,Garfield County,8045,1,Q1_INTRO,25,likely alarmed,null,null,null
+15341379,Adams County,8001,1,Q1_INTRO,25,likely alarmed,null,null,null
+17290909,Otero County,8089,1,Q1_INTRO,25,likely not alarmed,null,null,null
+18458400,Adams County,8001,0,Q1_INTRO,25,likely alarmed,null,null,null
+16999048,Pueblo County,8101,1,Q1_INTRO,25,likely alarmed,null,null,null
+657122,Denver County,8031,1,Q1_INTRO,25,likely alarmed,null,null,null
+17305945,Boulder County,8013,0,Q1_INTRO,25,likely not alarmed,null,null,null
+1649910,El Paso County,8041,1,Q1_INTRO,24,likely alarmed,null,null,null
+16892219,El Paso County,8041,0,Q1_INTRO,24,likely alarmed,null,null,null
+708,Douglas County,8035,0,Q1_INTRO,23,likely alarmed,null,null,null
+2623480,El Paso County,8041,0,Q1_INTRO,23,likely alarmed,null,null,null
+1709224,Garfield County,8045,1,Q1_INTRO,23,likely alarmed,null,null,null
+18797412,Denver County,8031,0,Q1_INTRO,23,likely alarmed,null,null,null
+2660736,Rio Grande County,8105,1,Q1_INTRO,22,likely alarmed,null,null,null
+1370208,El Paso County,8041,1,Q1_INTRO,22,likely alarmed,null,null,null
+441164,El Paso County,8041,1,Q1_INTRO,22,likely alarmed,null,null,null
+15841128,Gunnison County,8051,1,Q1_INTRO,22,likely alarmed,null,null,null
+1431597,El Paso County,8041,1,Q1_INTRO,22,likely alarmed,null,null,null
+1229717,Douglas County,8035,0,Q1_INTRO,21,likely alarmed,null,null,null
+15318941,Chaffee County,8015,0,Q1_INTRO,21,likely alarmed,null,null,null
+2592091,Pueblo County,8101,0,Q1_INTRO,21,likely alarmed,null,null,null
+1368623,El Paso County,8041,1,Q1_INTRO,21,likely alarmed,null,null,null
+227294,Jefferson County,8059,0,Q1_INTRO,21,likely alarmed,null,null,null
+15621332,Otero County,8089,0,Q1_INTRO,21,likely not alarmed,null,null,null
+16360906,Larimer County,8069,1,Q1_INTRO,21,likely alarmed,null,null,null
+74551,Adams County,8001,0,Q1_INTRO,20,likely alarmed,null,null,null
+826276,Denver County,8031,1,Q1_INTRO,20,likely alarmed,null,null,null
+760256,Clear Creek County,8019,1,Q1_INTRO,20,likely alarmed,null,null,null
+17598080,Ouray County,8091,0,Q1_INTRO,20,likely alarmed,null,null,null
+190232,Denver County,8031,0,Q1_INTRO,20,likely alarmed,null,null,null
+18958960,Boulder County,8013,1,Q1_INTRO,20,likely alarmed,null,null,null
+1704530,Garfield County,8045,1,Q1_INTRO,20,likely alarmed,null,null,null
+15651379,Adams County,8001,0,Q1_INTRO,20,likely alarmed,null,null,null
+18622809,Kit Carson County,8063,1,Q1_INTRO,19,likely alarmed,null,null,null
+16010566,Denver County,8031,0,Q1_INTRO,19,likely alarmed,null,null,null
+17013197,El Paso County,8041,1,Q1_INTRO,19,likely alarmed,null,null,null
+670308,Weld County,8123,0,Q1_INTRO,19,likely alarmed,null,null,null
+28087,Adams County,8001,0,Q1_INTRO,19,likely alarmed,null,null,null
+18132206,Kit Carson County,8063,1,Q1_INTRO,19,likely not alarmed,null,null,null
+4078574,La Plata County,8067,1,Q1_INTRO,18,likely not alarmed,null,null,null
+1682233,Fremont County,8043,0,Q1_INTRO,18,likely alarmed,null,null,null
+15744395,Adams County,8001,1,Q1_INTRO,17,likely alarmed,null,null,null
+273208,Denver County,8031,1,Q1_INTRO,17,likely alarmed,null,null,null
+15601998,Phillips County,8095,0,Q1_INTRO,17,likely alarmed,null,null,null
+17745113,El Paso County,8041,1,Q1_INTRO,17,likely alarmed,null,null,null
+2340032,Fremont County,8043,1,Q1_INTRO,17,likely alarmed,null,null,null
+109377,Adams County,8001,0,Q1_INTRO,16,likely alarmed,null,null,null
+18219589,El Paso County,8041,0,Q1_INTRO,16,likely alarmed,null,null,null
+16463568,Boulder County,8013,0,Q1_INTRO,16,likely alarmed,null,null,null
+17772807,Adams County,8001,0,Q1_INTRO,16,likely alarmed,null,null,null
+581640,Boulder County,8013,0,Q1_INTRO,16,likely alarmed,null,null,null
+18053299,Adams County,8001,1,Q1_INTRO,16,likely alarmed,null,null,null
+1054673,Denver County,8031,0,Q1_INTRO,16,likely alarmed,null,null,null
+4286269,Baca County,8009,1,Q1_INTRO,15,likely alarmed,null,null,null
+18321530,Weld County,8123,1,Q1_INTRO,15,likely alarmed,null,null,null
+2567848,Pueblo County,8101,0,Q1_INTRO,15,likely alarmed,null,null,null
+18553215,Mesa County,8077,0,Q1_INTRO,15,likely not alarmed,null,null,null
+1929980,Boulder County,8013,1,Q1_INTRO,15,likely alarmed,null,null,null
+18962955,Boulder County,8013,1,Q1_INTRO,15,likely alarmed,null,null,null
+16140755,Weld County,8123,1,Q1_INTRO,15,likely alarmed,null,null,null
+4231911,Summit County,8117,0,Q1_INTRO,15,likely alarmed,null,null,null
+15234487,Adams County,8001,0,Q1_INTRO,15,likely alarmed,null,null,null
+2853068,Yuma County,8125,1,Q1_INTRO,14,likely alarmed,null,null,null
+877931,Denver County,8031,1,Q1_INTRO,14,likely alarmed,null,null,null
+3369567,Douglas County,8035,1,Q1_INTRO,14,likely alarmed,null,null,null
+19089147,Jefferson County,8059,1,Q1_INTRO,14,likely alarmed,null,null,null
+17052469,Lake County,8065,0,Q1_INTRO,14,likely alarmed,null,null,null
+16907879,Denver County,8031,1,Q1_INTRO,14,likely alarmed,null,null,null
+15851091,Mesa County,8077,1,Q1_INTRO,14,likely alarmed,null,null,null
+3110184,Montrose County,8085,0,Q1_INTRO,14,likely alarmed,null,null,null
+926457,Adams County,8001,0,Q1_INTRO,14,likely alarmed,null,null,null
+19102427,Pueblo County,8101,1,Q1_INTRO,14,likely alarmed,null,null,null
+17644168,Adams County,8001,0,Q1_INTRO,14,likely alarmed,null,null,null
+2826387,Larimer County,8069,0,Q1_INTRO,14,likely alarmed,null,null,null
+18415260,Denver County,8031,0,Q1_INTRO,14,likely alarmed,null,null,null
+1036168,Denver County,8031,1,Q1_INTRO,14,likely alarmed,null,null,null
+2830832,Weld County,8123,0,Q1_INTRO,13,likely alarmed,null,null,null
+15751632,Denver County,8031,1,Q1_INTRO,13,likely alarmed,null,null,null
+18946438,Denver County,8031,0,Q1_INTRO,13,likely alarmed,null,null,null
+17106857,Adams County,8001,1,Q1_INTRO,13,likely alarmed,null,null,null
+2563229,Pueblo County,8101,1,Q1_INTRO,13,likely alarmed,null,null,null
+4300277,Denver County,8031,0,Q1_INTRO,13,likely alarmed,null,null,null
+18637402,Mesa County,8077,0,Q1_INTRO,13,likely alarmed,null,null,null
+17989929,Denver County,8031,1,Q1_INTRO,13,likely alarmed,null,null,null
+17524341,El Paso County,8041,0,Q1_INTRO,13,likely alarmed,null,null,null
+18418150,Prowers County,8099,1,Q1_INTRO,12,likely alarmed,null,null,null
+1124099,Denver County,8031,0,Q1_INTRO,12,likely alarmed,null,null,null
+15745651,Morgan County,8087,1,Q1_INTRO,12,likely alarmed,null,null,null
+854481,Denver County,8031,1,Q1_INTRO,12,likely alarmed,null,null,null
+15734656,Boulder County,8013,1,Q1_INTRO,12,likely alarmed,null,null,null
+1330903,Elbert County,8039,0,Q1_INTRO,12,likely alarmed,null,null,null
+2499755,Morgan County,8087,1,Q1_INTRO,12,likely alarmed,null,null,null
+18213658,Jefferson County,8059,1,Q1_INTRO,12,likely alarmed,null,null,null
+16814437,Boulder County,8013,1,Q1_INTRO,12,likely alarmed,null,null,null
+17507156,Fremont County,8043,1,Q1_INTRO,12,likely alarmed,null,null,null
+15959782,Boulder County,8013,0,Q1_INTRO,12,likely alarmed,null,null,null
+17679617,Denver County,8031,0,Q1_INTRO,12,likely alarmed,null,null,null
+18345854,Denver County,8031,0,Q1_INTRO,11,likely not alarmed,null,null,null
+3363874,Adams County,8001,1,Q1_INTRO,11,likely alarmed,null,null,null
+735014,Weld County,8123,0,Q1_INTRO,11,likely alarmed,null,null,null
+17033294,Summit County,8117,0,Q1_INTRO,11,likely alarmed,null,null,null
+18552668,Boulder County,8013,0,Q1_INTRO,11,likely alarmed,null,null,null
+3068740,Denver County,8031,1,Q1_INTRO,11,likely alarmed,null,null,null
+3813964,Pueblo County,8101,0,Q1_INTRO,11,likely alarmed,null,null,null
+15849811,Weld County,8123,1,Q1_INTRO,11,likely alarmed,null,null,null
+17830279,Mesa County,8077,1,Q1_INTRO,11,likely alarmed,null,null,null
+15618036,Adams County,8001,0,Q1_INTRO,11,likely alarmed,null,null,null
+1800564,Denver County,8031,0,Q1_INTRO,11,likely alarmed,null,null,null
+18848250,El Paso County,8041,0,Q1_INTRO,11,likely not alarmed,null,null,null
+17750780,Weld County,8123,0,Q1_INTRO,11,likely alarmed,null,null,null
+612307,Boulder County,8013,1,Q1_INTRO,11,likely alarmed,null,null,null
+17564940,Adams County,8001,0,Q1_INTRO,11,likely alarmed,null,null,null
+19830080,El Paso County,8041,1,Q1_INTRO,11,likely alarmed,null,null,null
+15399258,El Paso County,8041,0,Q1_INTRO,10,likely alarmed,null,null,null
+16233949,El Paso County,8041,1,Q1_INTRO,10,likely alarmed,null,null,null
+1015695,Denver County,8031,1,Q1_INTRO,10,likely alarmed,null,null,null
+16902058,Denver County,8031,1,Q1_INTRO,10,likely alarmed,null,null,null
+17680296,Weld County,8123,0,Q1_INTRO,10,likely alarmed,null,null,null
+17045529,El Paso County,8041,1,Q1_INTRO,10,likely alarmed,null,null,null
+888331,Denver County,8031,0,Q1_INTRO,10,likely alarmed,null,null,null
+945015,Douglas County,8035,1,Q1_INTRO,10,likely alarmed,null,null,null
+17349434,Denver County,8031,1,Q1_INTRO,10,likely alarmed,null,null,null
+18956908,Weld County,8123,0,Q1_INTRO,10,likely alarmed,null,null,null
+18940304,Weld County,8123,1,Q1_INTRO,10,likely alarmed,null,null,null
+121982,Adams County,8001,0,Q1_INTRO,10,likely alarmed,null,null,null
+19083781,Adams County,8001,0,Q1_INTRO,10,likely alarmed,null,null,null
+15852923,Mesa County,8077,0,Q1_INTRO,10,likely not alarmed,null,null,null
+1303116,Eagle County,8037,1,Q1_INTRO,10,likely alarmed,null,null,null
+1847862,Jefferson County,8059,0,Q1_INTRO,10,likely alarmed,null,null,null
+793518,Delta County,8029,0,Q1_INTRO,9,likely alarmed,null,null,null
+19011253,Jefferson County,8059,0,Q1_INTRO,9,likely not alarmed,null,null,null
+1708731,Garfield County,8045,1,Q1_INTRO,9,likely alarmed,null,null,null
+18271201,Douglas County,8035,1,Q1_INTRO,9,likely not alarmed,null,null,null
+19110057,Denver County,8031,0,Q1_INTRO,9,likely alarmed,null,null,null
+17037541,Denver County,8031,0,Q1_INTRO,9,likely alarmed,null,null,null
+18613882,Delta County,8029,0,Q1_INTRO,9,likely alarmed,null,null,null
+1536030,El Paso County,8041,0,Q1_INTRO,9,likely alarmed,null,null,null
+17772891,Douglas County,8035,0,Q1_INTRO,9,likely alarmed,null,null,null
+18290999,Denver County,8031,1,Q1_INTRO,9,likely alarmed,null,null,null
+1152459,Douglas County,8035,1,Q1_INTRO,9,likely alarmed,null,null,null
+16905542,Weld County,8123,0,Q1_INTRO,9,likely alarmed,null,null,null
+1613091,El Paso County,8041,0,Q1_INTRO,9,likely alarmed,null,null,null
+18846730,El Paso County,8041,0,Q1_INTRO,9,likely alarmed,null,null,null
+18858724,Prowers County,8099,1,Q1_INTRO,9,likely alarmed,null,null,null
+848631,Denver County,8031,0,Q1_INTRO,9,likely alarmed,null,null,null
+18410921,Mesa County,8077,1,Q1_INTRO,9,likely alarmed,null,null,null
+15799722,Denver County,8031,0,Q1_INTRO,9,likely alarmed,null,null,null
+18186470,Summit County,8117,0,Q1_INTRO,9,likely alarmed,null,null,null
+19623611,El Paso County,8041,1,Q1_INTRO,9,likely alarmed,null,null,null
+19099535,El Paso County,8041,1,Q1_INTRO,9,likely alarmed,null,null,null
+16496272,Larimer County,8069,0,Q1_INTRO,9,likely alarmed,null,null,null
+3384205,Pueblo County,8101,0,Q1_INTRO,8,likely alarmed,null,null,null
+834423,Summit County,8117,0,Q1_INTRO,8,likely alarmed,null,null,null
+19038471,Larimer County,8069,0,Q1_INTRO,8,likely alarmed,null,null,null
+16885508,Boulder County,8013,1,Q1_INTRO,8,likely alarmed,null,null,null
+18288844,Denver County,8031,0,Q1_INTRO,8,likely alarmed,null,null,null
+18319485,Denver County,8031,0,Q1_INTRO,8,likely alarmed,null,null,null
+16426989,Boulder County,8013,1,Q1_INTRO,8,likely alarmed,null,null,null
+4323294,Denver County,8031,1,Q1_INTRO,8,likely alarmed,null,null,null
+15625492,Mesa County,8077,1,Q1_INTRO,8,likely alarmed,null,null,null
+4331772,Larimer County,8069,0,Q1_INTRO,8,likely alarmed,null,null,null
+4329414,Adams County,8001,0,Q1_INTRO,8,likely alarmed,null,null,null
+325497,Denver County,8031,1,Q1_INTRO,8,likely alarmed,null,null,null
+2351512,Lincoln County,8073,1,Q1_INTRO,8,likely alarmed,null,null,null
+19113214,Broomfield County,8014,1,Q1_INTRO,8,likely alarmed,null,null,null
+18994155,Larimer County,8069,1,Q1_INTRO,8,likely alarmed,null,null,null
+17074845,Boulder County,8013,0,Q1_INTRO,8,likely alarmed,null,null,null
+4744734,Crowley County,8025,1,Q1_INTRO,8,likely alarmed,null,null,null
+18409183,Denver County,8031,0,Q1_INTRO,8,likely alarmed,null,null,null
+18931701,Weld County,8123,0,Q1_INTRO,8,likely alarmed,null,null,null
+17992044,Weld County,8123,0,Q1_INTRO,8,likely alarmed,null,null,null
+2461921,Montezuma County,8083,1,Q1_INTRO,8,likely alarmed,null,null,null
+17042771,Denver County,8031,1,Q1_INTRO,7,likely alarmed,null,null,null
+2622977,Pueblo County,8101,1,Q1_INTRO,7,likely alarmed,null,null,null
+18846805,Larimer County,8069,0,Q1_INTRO,7,likely alarmed,null,null,null
+16131706,Denver County,8031,1,Q1_INTRO,7,likely alarmed,null,null,null
+19982911,Eagle County,8037,0,Q1_INTRO,7,likely alarmed,null,null,null
+16464865,Denver County,8031,0,Q1_INTRO,7,likely alarmed,null,null,null
+2863029,Gilpin County,8047,1,Q1_INTRO,7,likely alarmed,null,null,null
+16908054,Denver County,8031,1,Q1_INTRO,7,likely alarmed,null,null,null
+433190,Denver County,8031,0,Q1_INTRO,7,likely alarmed,null,null,null
+17559033,Jefferson County,8059,0,Q1_INTRO,7,likely alarmed,null,null,null
+17051018,Pueblo County,8101,1,Q1_INTRO,7,likely alarmed,null,null,null
+18526677,El Paso County,8041,0,Q1_INTRO,7,likely alarmed,null,null,null
+15988272,Conejos County,8021,0,Q1_INTRO,7,likely alarmed,null,null,null
+47358,Adams County,8001,1,Q1_INTRO,7,likely alarmed,null,null,null
+18525526,Boulder County,8013,0,Q1_INTRO,7,likely alarmed,null,null,null
+1896442,Denver County,8031,0,Q1_INTRO,7,likely alarmed,null,null,null
+18335406,Adams County,8001,0,Q1_INTRO,7,likely alarmed,null,null,null
+672554,Boulder County,8013,0,Q1_INTRO,7,likely alarmed,null,null,null
+18283031,Summit County,8117,1,Q1_INTRO,7,likely alarmed,null,null,null
+1068541,Denver County,8031,1,Q1_INTRO,7,likely alarmed,null,null,null
+17632938,Denver County,8031,0,Q1_INTRO,7,likely alarmed,null,null,null
+19109660,Chaffee County,8015,1,Q1_INTRO,7,likely alarmed,null,null,null
+18713340,Denver County,8031,0,Q1_INTRO,7,likely alarmed,null,null,null
 19070650,Eagle County,8037,0,Q1_INTRO,6,likely alarmed,null,null,null
 18390471,Denver County,8031,0,Q1_INTRO,6,likely alarmed,null,null,null
 2205627,Weld County,8123,0,Q1_INTRO,6,likely alarmed,null,null,null
@@ -89,1120 +1161,48 @@ person_id,county,FIPS,treatment,last_question_filled,total_duration_in_sec,alarm
 18373548,Denver County,8031,0,Q1_INTRO,6,likely alarmed,null,null,null
 18259175,Jefferson County,8059,1,Q1_INTRO,6,likely alarmed,null,null,null
 2141910,La Plata County,8067,1,Q1_INTRO,6,likely alarmed,null,null,null
-18846805,Larimer County,8069,0,Q1_INTRO,7,likely alarmed,null,null,null
-16131706,Denver County,8031,1,Q1_INTRO,7,likely alarmed,null,null,null
-19982911,Eagle County,8037,0,Q1_INTRO,7,likely alarmed,null,null,null
-16464865,Denver County,8031,0,Q1_INTRO,7,likely alarmed,null,null,null
-2863029,Gilpin County,8047,1,Q1_INTRO,7,likely alarmed,null,null,null
-16908054,Denver County,8031,1,Q1_INTRO,7,likely alarmed,null,null,null
-433190,Denver County,8031,0,Q1_INTRO,7,likely alarmed,null,null,null
-17559033,Jefferson County,8059,0,Q1_INTRO,7,likely alarmed,null,null,null
-17051018,Pueblo County,8101,1,Q1_INTRO,7,likely alarmed,null,null,null
-18526677,El Paso County,8041,0,Q1_INTRO,7,likely alarmed,null,null,null
-15988272,Conejos County,8021,0,Q1_INTRO,7,likely alarmed,null,null,null
-47358,Adams County,8001,1,Q1_INTRO,7,likely alarmed,null,null,null
-18525526,Boulder County,8013,0,Q1_INTRO,7,likely alarmed,null,null,null
-1896442,Denver County,8031,0,Q1_INTRO,7,likely alarmed,null,null,null
-18335406,Adams County,8001,0,Q1_INTRO,7,likely alarmed,null,null,null
-672554,Boulder County,8013,0,Q1_INTRO,7,likely alarmed,null,null,null
-18283031,Summit County,8117,1,Q1_INTRO,7,likely alarmed,null,null,null
-1068541,Denver County,8031,1,Q1_INTRO,7,likely alarmed,null,null,null
-17632938,Denver County,8031,0,Q1_INTRO,7,likely alarmed,null,null,null
-19109660,Chaffee County,8015,1,Q1_INTRO,7,likely alarmed,null,null,null
-18713340,Denver County,8031,0,Q1_INTRO,7,likely alarmed,null,null,null
-834423,Summit County,8117,0,Q1_INTRO,8,likely alarmed,null,null,null
-19038471,Larimer County,8069,0,Q1_INTRO,8,likely alarmed,null,null,null
-16885508,Boulder County,8013,1,Q1_INTRO,8,likely alarmed,null,null,null
-18288844,Denver County,8031,0,Q1_INTRO,8,likely alarmed,null,null,null
-18319485,Denver County,8031,0,Q1_INTRO,8,likely alarmed,null,null,null
-16426989,Boulder County,8013,1,Q1_INTRO,8,likely alarmed,null,null,null
-4323294,Denver County,8031,1,Q1_INTRO,8,likely alarmed,null,null,null
-15625492,Mesa County,8077,1,Q1_INTRO,8,likely alarmed,null,null,null
-4331772,Larimer County,8069,0,Q1_INTRO,8,likely alarmed,null,null,null
-4329414,Adams County,8001,0,Q1_INTRO,8,likely alarmed,null,null,null
-325497,Denver County,8031,1,Q1_INTRO,8,likely alarmed,null,null,null
-2351512,Lincoln County,8073,1,Q1_INTRO,8,likely alarmed,null,null,null
-19113214,Broomfield County,8014,1,Q1_INTRO,8,likely alarmed,null,null,null
-18994155,Larimer County,8069,1,Q1_INTRO,8,likely alarmed,null,null,null
-17074845,Boulder County,8013,0,Q1_INTRO,8,likely alarmed,null,null,null
-4744734,Crowley County,8025,1,Q1_INTRO,8,likely alarmed,null,null,null
-18409183,Denver County,8031,0,Q1_INTRO,8,likely alarmed,null,null,null
-18931701,Weld County,8123,0,Q1_INTRO,8,likely alarmed,null,null,null
-17992044,Weld County,8123,0,Q1_INTRO,8,likely alarmed,null,null,null
-2461921,Montezuma County,8083,1,Q1_INTRO,8,likely alarmed,null,null,null
-1708731,Garfield County,8045,1,Q1_INTRO,9,likely alarmed,null,null,null
-18271201,Douglas County,8035,1,Q1_INTRO,9,likely not alarmed,null,null,null
-19110057,Denver County,8031,0,Q1_INTRO,9,likely alarmed,null,null,null
-17037541,Denver County,8031,0,Q1_INTRO,9,likely alarmed,null,null,null
-18613882,Delta County,8029,0,Q1_INTRO,9,likely alarmed,null,null,null
-1536030,El Paso County,8041,0,Q1_INTRO,9,likely alarmed,null,null,null
-17772891,Douglas County,8035,0,Q1_INTRO,9,likely alarmed,null,null,null
-18290999,Denver County,8031,1,Q1_INTRO,9,likely alarmed,null,null,null
-1152459,Douglas County,8035,1,Q1_INTRO,9,likely alarmed,null,null,null
-16905542,Weld County,8123,0,Q1_INTRO,9,likely alarmed,null,null,null
-1613091,El Paso County,8041,0,Q1_INTRO,9,likely alarmed,null,null,null
-18846730,El Paso County,8041,0,Q1_INTRO,9,likely alarmed,null,null,null
-18858724,Prowers County,8099,1,Q1_INTRO,9,likely alarmed,null,null,null
-848631,Denver County,8031,0,Q1_INTRO,9,likely alarmed,null,null,null
-18410921,Mesa County,8077,1,Q1_INTRO,9,likely alarmed,null,null,null
-15799722,Denver County,8031,0,Q1_INTRO,9,likely alarmed,null,null,null
-18186470,Summit County,8117,0,Q1_INTRO,9,likely alarmed,null,null,null
-19623611,El Paso County,8041,1,Q1_INTRO,9,likely alarmed,null,null,null
-19099535,El Paso County,8041,1,Q1_INTRO,9,likely alarmed,null,null,null
-16496272,Larimer County,8069,0,Q1_INTRO,9,likely alarmed,null,null,null
-15399258,El Paso County,8041,0,Q1_INTRO,10,likely alarmed,null,null,null
-16233949,El Paso County,8041,1,Q1_INTRO,10,likely alarmed,null,null,null
-1015695,Denver County,8031,1,Q1_INTRO,10,likely alarmed,null,null,null
-16902058,Denver County,8031,1,Q1_INTRO,10,likely alarmed,null,null,null
-17680296,Weld County,8123,0,Q1_INTRO,10,likely alarmed,null,null,null
-17045529,El Paso County,8041,1,Q1_INTRO,10,likely alarmed,null,null,null
-888331,Denver County,8031,0,Q1_INTRO,10,likely alarmed,null,null,null
-945015,Douglas County,8035,1,Q1_INTRO,10,likely alarmed,null,null,null
-17349434,Denver County,8031,1,Q1_INTRO,10,likely alarmed,null,null,null
-18956908,Weld County,8123,0,Q1_INTRO,10,likely alarmed,null,null,null
-18940304,Weld County,8123,1,Q1_INTRO,10,likely alarmed,null,null,null
-121982,Adams County,8001,0,Q1_INTRO,10,likely alarmed,null,null,null
-19083781,Adams County,8001,0,Q1_INTRO,10,likely alarmed,null,null,null
-15852923,Mesa County,8077,0,Q1_INTRO,10,likely not alarmed,null,null,null
-1303116,Eagle County,8037,1,Q1_INTRO,10,likely alarmed,null,null,null
-1847862,Jefferson County,8059,0,Q1_INTRO,10,likely alarmed,null,null,null
-18345854,Denver County,8031,0,Q1_INTRO,11,likely not alarmed,null,null,null
-3363874,Adams County,8001,1,Q1_INTRO,11,likely alarmed,null,null,null
-735014,Weld County,8123,0,Q1_INTRO,11,likely alarmed,null,null,null
-17033294,Summit County,8117,0,Q1_INTRO,11,likely alarmed,null,null,null
-18552668,Boulder County,8013,0,Q1_INTRO,11,likely alarmed,null,null,null
-3068740,Denver County,8031,1,Q1_INTRO,11,likely alarmed,null,null,null
-3813964,Pueblo County,8101,0,Q1_INTRO,11,likely alarmed,null,null,null
-15849811,Weld County,8123,1,Q1_INTRO,11,likely alarmed,null,null,null
-17830279,Mesa County,8077,1,Q1_INTRO,11,likely alarmed,null,null,null
-15618036,Adams County,8001,0,Q1_INTRO,11,likely alarmed,null,null,null
-1800564,Denver County,8031,0,Q1_INTRO,11,likely alarmed,null,null,null
-18848250,El Paso County,8041,0,Q1_INTRO,11,likely not alarmed,null,null,null
-17750780,Weld County,8123,0,Q1_INTRO,11,likely alarmed,null,null,null
-612307,Boulder County,8013,1,Q1_INTRO,11,likely alarmed,null,null,null
-17564940,Adams County,8001,0,Q1_INTRO,11,likely alarmed,null,null,null
-19830080,El Paso County,8041,1,Q1_INTRO,11,likely alarmed,null,null,null
-18418150,Prowers County,8099,1,Q1_INTRO,12,likely alarmed,null,null,null
-1124099,Denver County,8031,0,Q1_INTRO,12,likely alarmed,null,null,null
-15745651,Morgan County,8087,1,Q1_INTRO,12,likely alarmed,null,null,null
-854481,Denver County,8031,1,Q1_INTRO,12,likely alarmed,null,null,null
-15734656,Boulder County,8013,1,Q1_INTRO,12,likely alarmed,null,null,null
-1330903,Elbert County,8039,0,Q1_INTRO,12,likely alarmed,null,null,null
-2499755,Morgan County,8087,1,Q1_INTRO,12,likely alarmed,null,null,null
-18213658,Jefferson County,8059,1,Q1_INTRO,12,likely alarmed,null,null,null
-16814437,Boulder County,8013,1,Q1_INTRO,12,likely alarmed,null,null,null
-17507156,Fremont County,8043,1,Q1_INTRO,12,likely alarmed,null,null,null
-15959782,Boulder County,8013,0,Q1_INTRO,12,likely alarmed,null,null,null
-17679617,Denver County,8031,0,Q1_INTRO,12,likely alarmed,null,null,null
-2830832,Weld County,8123,0,Q1_INTRO,13,likely alarmed,null,null,null
-15751632,Denver County,8031,1,Q1_INTRO,13,likely alarmed,null,null,null
-18946438,Denver County,8031,0,Q1_INTRO,13,likely alarmed,null,null,null
-17106857,Adams County,8001,1,Q1_INTRO,13,likely alarmed,null,null,null
-2563229,Pueblo County,8101,1,Q1_INTRO,13,likely alarmed,null,null,null
-4300277,Denver County,8031,0,Q1_INTRO,13,likely alarmed,null,null,null
-18637402,Mesa County,8077,0,Q1_INTRO,13,likely alarmed,null,null,null
-17989929,Denver County,8031,1,Q1_INTRO,13,likely alarmed,null,null,null
-17524341,El Paso County,8041,0,Q1_INTRO,13,likely alarmed,null,null,null
-2853068,Yuma County,8125,1,Q1_INTRO,14,likely alarmed,null,null,null
-877931,Denver County,8031,1,Q1_INTRO,14,likely alarmed,null,null,null
-3369567,Douglas County,8035,1,Q1_INTRO,14,likely alarmed,null,null,null
-19089147,Jefferson County,8059,1,Q1_INTRO,14,likely alarmed,null,null,null
-17052469,Lake County,8065,0,Q1_INTRO,14,likely alarmed,null,null,null
-16907879,Denver County,8031,1,Q1_INTRO,14,likely alarmed,null,null,null
-15851091,Mesa County,8077,1,Q1_INTRO,14,likely alarmed,null,null,null
-3110184,Montrose County,8085,0,Q1_INTRO,14,likely alarmed,null,null,null
-926457,Adams County,8001,0,Q1_INTRO,14,likely alarmed,null,null,null
-19102427,Pueblo County,8101,1,Q1_INTRO,14,likely alarmed,null,null,null
-17644168,Adams County,8001,0,Q1_INTRO,14,likely alarmed,null,null,null
-2826387,Larimer County,8069,0,Q1_INTRO,14,likely alarmed,null,null,null
-18415260,Denver County,8031,0,Q1_INTRO,14,likely alarmed,null,null,null
-1036168,Denver County,8031,1,Q1_INTRO,14,likely alarmed,null,null,null
-4286269,Baca County,8009,1,Q1_INTRO,15,likely alarmed,null,null,null
-18321530,Weld County,8123,1,Q1_INTRO,15,likely alarmed,null,null,null
-2567848,Pueblo County,8101,0,Q1_INTRO,15,likely alarmed,null,null,null
-18553215,Mesa County,8077,0,Q1_INTRO,15,likely not alarmed,null,null,null
-1929980,Boulder County,8013,1,Q1_INTRO,15,likely alarmed,null,null,null
-18962955,Boulder County,8013,1,Q1_INTRO,15,likely alarmed,null,null,null
-16140755,Weld County,8123,1,Q1_INTRO,15,likely alarmed,null,null,null
-4231911,Summit County,8117,0,Q1_INTRO,15,likely alarmed,null,null,null
-15234487,Adams County,8001,0,Q1_INTRO,15,likely alarmed,null,null,null
-16463568,Boulder County,8013,0,Q1_INTRO,16,likely alarmed,null,null,null
-17772807,Adams County,8001,0,Q1_INTRO,16,likely alarmed,null,null,null
-581640,Boulder County,8013,0,Q1_INTRO,16,likely alarmed,null,null,null
-18053299,Adams County,8001,1,Q1_INTRO,16,likely alarmed,null,null,null
-1054673,Denver County,8031,0,Q1_INTRO,16,likely alarmed,null,null,null
-15744395,Adams County,8001,1,Q1_INTRO,17,likely alarmed,null,null,null
-273208,Denver County,8031,1,Q1_INTRO,17,likely alarmed,null,null,null
-15601998,Phillips County,8095,0,Q1_INTRO,17,likely alarmed,null,null,null
-17745113,El Paso County,8041,1,Q1_INTRO,17,likely alarmed,null,null,null
-2340032,Fremont County,8043,1,Q1_INTRO,17,likely alarmed,null,null,null
-4078574,La Plata County,8067,1,Q1_INTRO,18,likely not alarmed,null,null,null
-1682233,Fremont County,8043,0,Q1_INTRO,18,likely alarmed,null,null,null
-18622809,Kit Carson County,8063,1,Q1_INTRO,19,likely alarmed,null,null,null
-16010566,Denver County,8031,0,Q1_INTRO,19,likely alarmed,null,null,null
-17013197,El Paso County,8041,1,Q1_INTRO,19,likely alarmed,null,null,null
-670308,Weld County,8123,0,Q1_INTRO,19,likely alarmed,null,null,null
-28087,Adams County,8001,0,Q1_INTRO,19,likely alarmed,null,null,null
-18132206,Kit Carson County,8063,1,Q1_INTRO,19,likely not alarmed,null,null,null
-826276,Denver County,8031,1,Q1_INTRO,20,likely alarmed,null,null,null
-760256,Clear Creek County,8019,1,Q1_INTRO,20,likely alarmed,null,null,null
-17598080,Ouray County,8091,0,Q1_INTRO,20,likely alarmed,null,null,null
-190232,Denver County,8031,0,Q1_INTRO,20,likely alarmed,null,null,null
-18958960,Boulder County,8013,1,Q1_INTRO,20,likely alarmed,null,null,null
-1704530,Garfield County,8045,1,Q1_INTRO,20,likely alarmed,null,null,null
-15651379,Adams County,8001,0,Q1_INTRO,20,likely alarmed,null,null,null
-1229717,Douglas County,8035,0,Q1_INTRO,21,likely alarmed,null,null,null
-15318941,Chaffee County,8015,0,Q1_INTRO,21,likely alarmed,null,null,null
-2592091,Pueblo County,8101,0,Q1_INTRO,21,likely alarmed,null,null,null
-1368623,El Paso County,8041,1,Q1_INTRO,21,likely alarmed,null,null,null
-227294,Jefferson County,8059,0,Q1_INTRO,21,likely alarmed,null,null,null
-15621332,Otero County,8089,0,Q1_INTRO,21,likely not alarmed,null,null,null
-16360906,Larimer County,8069,1,Q1_INTRO,21,likely alarmed,null,null,null
-2660736,Rio Grande County,8105,1,Q1_INTRO,22,likely alarmed,null,null,null
-1370208,El Paso County,8041,1,Q1_INTRO,22,likely alarmed,null,null,null
-441164,El Paso County,8041,1,Q1_INTRO,22,likely alarmed,null,null,null
-15841128,Gunnison County,8051,1,Q1_INTRO,22,likely alarmed,null,null,null
-1431597,El Paso County,8041,1,Q1_INTRO,22,likely alarmed,null,null,null
-1709224,Garfield County,8045,1,Q1_INTRO,23,likely alarmed,null,null,null
-18797412,Denver County,8031,0,Q1_INTRO,23,likely alarmed,null,null,null
-1649910,El Paso County,8041,1,Q1_INTRO,24,likely alarmed,null,null,null
-16892219,El Paso County,8041,0,Q1_INTRO,24,likely alarmed,null,null,null
-17169867,Garfield County,8045,1,Q1_INTRO,25,likely alarmed,null,null,null
-15341379,Adams County,8001,1,Q1_INTRO,25,likely alarmed,null,null,null
-17290909,Otero County,8089,1,Q1_INTRO,25,likely not alarmed,null,null,null
-18458400,Adams County,8001,0,Q1_INTRO,25,likely alarmed,null,null,null
-16999048,Pueblo County,8101,1,Q1_INTRO,25,likely alarmed,null,null,null
-657122,Denver County,8031,1,Q1_INTRO,25,likely alarmed,null,null,null
-17305945,Boulder County,8013,0,Q1_INTRO,25,likely not alarmed,null,null,null
-18252513,Pueblo County,8101,1,Q1_INTRO,26,likely alarmed,null,null,null
-858929,Denver County,8031,1,Q1_INTRO,26,likely alarmed,null,null,null
-2621141,Pueblo County,8101,1,Q1_INTRO,26,likely alarmed,null,null,null
-18503503,Adams County,8001,0,Q1_INTRO,27,likely alarmed,null,null,null
-16854116,Denver County,8031,1,Q1_INTRO,27,likely alarmed,null,null,null
-4699359,Montezuma County,8083,1,Q1_INTRO,27,likely alarmed,null,null,null
-19794557,El Paso County,8041,1,Q1_INTRO,28,likely alarmed,null,null,null
-2190486,Weld County,8123,1,Q1_INTRO,28,likely alarmed,null,null,null
-3772906,El Paso County,8041,1,Q1_INTRO,28,likely alarmed,null,null,null
-18929151,Larimer County,8069,0,Q1_INTRO,28,likely alarmed,null,null,null
-1342378,El Paso County,8041,1,Q1_INTRO,29,likely alarmed,null,null,null
-18748240,Denver County,8031,0,Q1_INTRO,29,likely alarmed,null,null,null
-18574832,Jefferson County,8059,0,Q1_INTRO,29,likely alarmed,null,null,null
-18045981,Las Animas County,8071,0,Q1_INTRO,30,likely alarmed,null,null,null
-16965697,Douglas County,8035,0,Q1_INTRO,30,likely alarmed,null,null,null
-764021,Clear Creek County,8019,1,Q1_INTRO,30,likely alarmed,null,null,null
-16432136,Pueblo County,8101,1,Q1_INTRO,30,likely alarmed,null,null,null
-16444067,Alamosa County,8003,0,Q1_INTRO,31,likely alarmed,null,null,null
-17839310,Boulder County,8013,0,Q1_INTRO,31,likely alarmed,null,null,null
-16898050,Summit County,8117,0,Q1_INTRO,31,likely alarmed,null,null,null
-15665063,Adams County,8001,0,Q1_INTRO,33,likely alarmed,null,null,null
-764068,Clear Creek County,8019,1,Q1_INTRO,34,likely alarmed,null,null,null
-2456062,Moffat County,8081,1,Q1_INTRO,34,likely alarmed,null,null,null
-141874,Adams County,8001,0,Q1_INTRO,34,likely alarmed,null,null,null
-4300476,Adams County,8001,1,Q1_INTRO,34,likely alarmed,null,null,null
-18078143,Denver County,8031,1,Q1_INTRO,34,likely alarmed,null,null,null
-2008231,Adams County,8001,1,Q1_INTRO,35,likely alarmed,null,null,null
-19597298,Garfield County,8045,0,Q1_INTRO,36,likely alarmed,null,null,null
-18897952,Weld County,8123,1,Q1_INTRO,36,likely alarmed,null,null,null
-18633144,Weld County,8123,1,Q1_INTRO,37,likely alarmed,null,null,null
-864041,Jefferson County,8059,1,Q1_INTRO,38,likely alarmed,null,null,null
-993715,Denver County,8031,0,Q1_INTRO,39,likely alarmed,null,null,null
-4299467,Denver County,8031,0,Q1_INTRO,39,likely alarmed,null,null,null
-800567,Douglas County,8035,0,Q1_INTRO,39,likely alarmed,null,null,null
-246092,Denver County,8031,1,Q1_INTRO,40,likely alarmed,null,null,null
-19726993,Mesa County,8077,0,Q1_INTRO,42,likely alarmed,null,null,null
-86309,Adams County,8001,0,Q1_INTRO,42,likely alarmed,null,null,null
-977814,Denver County,8031,1,Q1_INTRO,42,likely alarmed,null,null,null
-17669592,Mesa County,8077,1,Q1_INTRO,42,likely not alarmed,null,null,null
-1036746,Denver County,8031,0,Q1_INTRO,46,likely alarmed,null,null,null
-55941,Adams County,8001,0,Q1_INTRO,46,likely alarmed,null,null,null
-2615676,Pueblo County,8101,0,Q1_INTRO,48,likely alarmed,null,null,null
-815758,Denver County,8031,1,Q1_INTRO,51,likely alarmed,null,null,null
-2763952,Weld County,8123,0,Q1_INTRO,51,likely alarmed,null,null,null
-17571341,Denver County,8031,0,Q1_INTRO,178,likely alarmed,null,null,null
-3417391,Pueblo County,8101,1,Q1_INTRO,58,likely alarmed,null,null,null
-901477,Saguache County,8109,1,Q1_INTRO,314,likely alarmed,null,null,null
-18138346,Adams County,8001,0,Q1_INTRO,60,likely alarmed,null,null,null
-889793,Denver County,8031,0,Q1_INTRO,61,likely alarmed,null,null,null
-846589,Denver County,8031,0,Q1_INTRO,66,likely alarmed,null,null,null
-2517030,Otero County,8089,0,Q1_INTRO,68,likely alarmed,null,null,null
-18797332,Adams County,8001,0,Q1_INTRO,72,likely alarmed,null,null,null
-2603365,Pueblo County,8101,1,Q1_INTRO,77,likely alarmed,null,null,null
-18848979,Douglas County,8035,1,Q1_INTRO,80,likely alarmed,null,null,null
-17784368,Gunnison County,8051,1,Q1_INTRO,88,likely alarmed,null,null,null
-17578833,Denver County,8031,1,Q1_INTRO,93,likely alarmed,null,null,null
-114483,Adams County,8001,0,Q1_INTRO,96,likely alarmed,null,null,null
-2661432,Rio Grande County,8105,1,Q1_INTRO,109,likely alarmed,null,null,null
-76050,Weld County,8123,1,Q1_INTRO,159,likely not alarmed,null,null,null
-82720,Adams County,8001,0,Q1_INTRO,181,likely alarmed,null,null,null
-2708126,Summit County,8117,0,Q1_INTRO,230,likely alarmed,null,null,null
-18478906,Boulder County,8013,0,Q3,115,likely alarmed,1,1,1
-42671,Park County,8093,0,Q2,330,likely not alarmed,1,4,1
-2808934,Weld County,8123,1,Q3,242,likely alarmed,1,3,1
-3834875,Fremont County,8043,1,Q3,267,likely alarmed,1,1,1
-18219017,Kit Carson County,8063,1,Q3,277,likely alarmed,1,1,1
-15601453,Grand County,8049,0,Q3,38,likely not alarmed,1,1,1
-18408397,Weld County,8123,1,Q3,43,likely alarmed,1,2,2
-15302323,Mesa County,8077,1,Q3,46,likely alarmed,1,2,1
-15289267,Weld County,8123,0,Q3,46,likely alarmed,1,2,2
-17953201,Denver County,8031,1,Q3,47,likely alarmed,1,1,1
-18447101,El Paso County,8041,0,Q3,51,likely not alarmed,1,1,2
-15310989,Mesa County,8077,1,Q3,52,likely not alarmed,1,1,1
-17575018,Adams County,8001,1,Q3,53,likely alarmed,1,1,2
-18436308,Douglas County,8035,0,Q3,53,likely alarmed,1,3,1
-17997803,Douglas County,8035,0,Q3,55,likely not alarmed,1,1,1
-17304308,Pueblo County,8101,0,Q3,55,likely alarmed,1,5,5
-16442498,Adams County,8001,1,Q3,55,likely alarmed,1,2,1
-15592043,Larimer County,8069,1,Q3,60,likely alarmed,1,3,2
-2828177,Boulder County,8013,1,Q3,60,likely alarmed,1,2,1
-17133688,Adams County,8001,1,Q3,60,likely alarmed,1,5,1
-4349145,Yuma County,8125,0,Q3,63,likely alarmed,1,1,1
-15426716,El Paso County,8041,1,Q3,319,likely alarmed,1,1,1
-564115,Boulder County,8013,0,Q3,64,likely alarmed,1,3,4
-15707196,Ouray County,8091,0,Q3,66,likely alarmed,1,1,1
-15306500,Weld County,8123,0,Q3,66,likely alarmed,1,1,4
-17992589,Mesa County,8077,1,Q3,67,likely alarmed,1,1,1
-18182668,Gunnison County,8051,0,Q3,67,likely alarmed,1,3,3
-2641224,El Paso County,8041,1,Q3,68,likely alarmed,1,2,1
-15757135,Weld County,8123,0,Q3,69,likely alarmed,1,1,1
-16906735,El Paso County,8041,0,Q3,69,likely alarmed,1,1,5
-271994,Denver County,8031,1,Q3,70,likely alarmed,1,3,1
-15709352,Larimer County,8069,0,Q3,70,likely alarmed,1,4,1
-18389132,Denver County,8031,1,Q3,583,likely alarmed,1,4,1
-16023248,Weld County,8123,0,Q3,72,likely not alarmed,1,5,1
-2129142,La Plata County,8067,1,Q3,72,likely alarmed,1,1,1
-18529238,Adams County,8001,1,Q3,73,likely alarmed,1,1,1
-18862322,El Paso County,8041,1,Q3,74,likely alarmed,1,5,1
-16196222,Denver County,8031,0,Q3,74,likely alarmed,1,5,1
-15297697,Morgan County,8087,1,Q3,76,likely alarmed,1,1,1
-17134775,Pueblo County,8101,1,Q3,75,likely alarmed,1,2,1
-15825757,Denver County,8031,1,Q3,76,likely alarmed,1,4,6
-1543177,El Paso County,8041,1,Q3,77,likely alarmed,1,1,1
-2414820,Mesa County,8077,0,Q3,77,likely alarmed,1,1,1
-2790504,Weld County,8123,1,Q3,78,likely alarmed,1,1,1
-18897447,Eagle County,8037,0,Q3,78,likely alarmed,1,2,1
-15878444,Larimer County,8069,0,Q3,79,likely alarmed,1,2,1
-2034685,Weld County,8123,1,Q3,79,likely alarmed,1,3,1
-16801521,Denver County,8031,0,Q3,80,likely alarmed,1,1,2
-18893032,Weld County,8123,1,Q3,81,likely not alarmed,1,2,5
-3745673,Morgan County,8087,1,Q3,82,likely alarmed,1,5,1
-2575270,Pueblo County,8101,1,Q3,82,likely alarmed,1,1,1
-2045943,Jefferson County,8059,0,Q3,82,likely alarmed,1,1,1
-67337,Adams County,8001,0,Q3,82,likely not alarmed,1,3,1
-15614069,El Paso County,8041,0,Q3,83,likely alarmed,1,4,4
-935922,Denver County,8031,0,Q3,84,likely alarmed,1,3,2
-957084,Adams County,8001,1,Q3,84,likely alarmed,1,5,1
-18572185,Mesa County,8077,0,Q3,85,likely not alarmed,1,3,5
-196036,Alamosa County,8003,0,Q3,86,likely alarmed,1,1,1
-18920502,Garfield County,8045,1,Q3,86,likely alarmed,1,1,2
-15316009,El Paso County,8041,0,Q3,102,likely alarmed,1,2,1
-15203937,Denver County,8031,0,Q3,87,likely alarmed,1,5,4
-779039,Mesa County,8077,0,Q3,90,likely alarmed,1,3,1
-887024,Denver County,8031,0,Q3,91,likely alarmed,1,1,5
-19095213,Adams County,8001,1,Q3,92,likely not alarmed,1,4,6
-17939753,Boulder County,8013,1,Q3,92,likely alarmed,1,2,1
-18885900,Las Animas County,8071,0,Q2,93,likely not alarmed,1,2,2
-2579693,Pueblo County,8101,1,Q3,94,likely alarmed,1,2,1
-885258,Adams County,8001,1,Q3,95,likely alarmed,1,1,1
-1197424,Douglas County,8035,0,Q3,95,likely alarmed,1,1,1
-15293867,Mesa County,8077,0,Q3,96,likely not alarmed,1,6,1
-2317439,Weld County,8123,0,Q3,96,likely alarmed,1,2,4
-2146986,La Plata County,8067,1,Q3,97,likely alarmed,1,3,1
-2082541,Jefferson County,8059,0,Q3,97,likely alarmed,1,3,1
-4697283,El Paso County,8041,1,Q3,97,likely alarmed,1,1,1
-2139120,La Plata County,8067,0,Q3,98,likely not alarmed,1,2,2
-15881033,Jefferson County,8059,0,Q3,102,likely alarmed,1,1,1
-16056016,El Paso County,8041,0,Q3,102,likely alarmed,1,5,4
-17674094,Jefferson County,8059,1,Q3,102,likely alarmed,1,1,1
-1422914,El Paso County,8041,1,Q3,103,likely alarmed,1,4,1
-18544745,Jefferson County,8059,0,Q3,104,likely alarmed,1,1,1
-16449614,Douglas County,8035,0,Q3,105,likely alarmed,1,1,1
-18800147,Jefferson County,8059,1,Q3,120,likely alarmed,1,4,1
-18573370,El Paso County,8041,0,Q3,115,likely alarmed,1,1,1
-15740299,Chaffee County,8015,1,Q3,106,likely alarmed,1,1,1
-1591114,El Paso County,8041,1,Q3,106,likely alarmed,1,5,5
-528221,Archuleta County,8007,1,Q3,107,likely alarmed,1,3,1
-2503047,Morgan County,8087,1,Q3,109,likely alarmed,1,1,1
-2334647,Larimer County,8069,1,Q3,109,likely alarmed,1,1,1
-16912241,El Paso County,8041,1,Q3,111,likely alarmed,1,6,6
-16054520,Weld County,8123,0,Q3,112,likely alarmed,1,1,1
-628161,Boulder County,8013,0,Q3,115,likely alarmed,1,5,5
-2792241,Boulder County,8013,1,Q3,115,likely alarmed,1,3,5
-18572701,Weld County,8123,1,Q3,116,likely alarmed,1,2,1
-15584688,Elbert County,8039,1,Q3,116,likely alarmed,1,5,1
-819869,Denver County,8031,0,Q3,117,likely alarmed,1,1,1
-2763605,Weld County,8123,1,Q3,118,likely alarmed,1,5,2
-16346426,Las Animas County,8071,1,Q3,374,likely alarmed,1,3,6
-17665135,Mesa County,8077,0,Q3,119,likely alarmed,1,3,1
-18549329,Teller County,8119,0,Q3,123,likely not alarmed,1,4,2
-3843412,La Plata County,8067,0,Q3,124,likely alarmed,1,1,6
-2426514,Mesa County,8077,0,Q3,127,likely alarmed,1,1,1
-2147006,La Plata County,8067,0,Q3,262,likely alarmed,1,5,6
-18677445,Denver County,8031,1,Q2,136,likely alarmed,1,3,1
-1130732,Denver County,8031,0,Q3,139,likely alarmed,1,6,1
-2445323,Mesa County,8077,0,Q3,148,likely alarmed,1,1,2
-2824168,Weld County,8123,0,Q3,149,likely alarmed,1,6,1
-18315952,Summit County,8117,1,Q3,151,likely alarmed,1,1,5
-2758736,Weld County,8123,0,Q3,157,likely alarmed,1,1,1
-16122942,Denver County,8031,1,Q3,163,likely alarmed,1,1,1
-758474,Cheyenne County,8017,0,Q3,164,likely alarmed,1,1,1
-816183,Denver County,8031,0,Q3,165,likely alarmed,1,2,2
-17544902,Morgan County,8087,0,Q3,167,likely not alarmed,1,3,1
-18424167,Boulder County,8013,1,Q3,174,likely alarmed,1,1,1
-2602804,Pueblo County,8101,1,Q3,192,likely alarmed,1,1,1
-18970849,Mesa County,8077,0,Q3,200,likely alarmed,1,1,1
-15971366,Gunnison County,8051,0,Q3,212,likely alarmed,1,1,2
-18080229,Pueblo County,8101,1,Q3,216,likely alarmed,1,1,1
-2457230,Moffat County,8081,1,Q3,221,likely alarmed,1,5,1
-16050981,Mesa County,8077,0,Q3,231,likely alarmed,1,2,2
-2785359,Weld County,8123,1,Q3,235,likely alarmed,1,2,1
-16651607,El Paso County,8041,1,Q3,238,likely alarmed,1,3,6
-15594349,Jefferson County,8059,1,Q3,241,likely alarmed,1,1,1
-3276074,Jefferson County,8059,1,Q3,241,likely alarmed,1,1,1
-17620504,Mesa County,8077,0,Q3,253,likely alarmed,1,3,1
-18663377,Adams County,8001,1,Q3,254,likely alarmed,1,2,1
-1424117,El Paso County,8041,1,Q2,193,likely alarmed,2,4,2
-67937,Elbert County,8039,0,Q3,209,likely alarmed,2,3,5
-4084972,Denver County,8031,1,Q3,113,likely alarmed,2,3,4
-15838491,Denver County,8031,1,Q3,38,likely alarmed,2,3,6
-16461453,Larimer County,8069,0,Q3,40,likely alarmed,2,4,4
-18017862,Prowers County,8099,0,Q3,49,likely alarmed,2,5,6
-4678443,Boulder County,8013,0,Q3,50,likely alarmed,2,2,1
-2214616,Larimer County,8069,1,Q3,50,likely alarmed,2,4,6
-15987798,Mesa County,8077,1,Q3,52,likely alarmed,2,5,4
-15655545,Weld County,8123,1,Q3,54,likely alarmed,2,5,5
-733376,Boulder County,8013,1,Q3,57,likely alarmed,2,5,3
-16269162,Denver County,8031,1,Q3,57,likely alarmed,2,5,2
-2819525,Weld County,8123,0,Q3,58,likely alarmed,2,5,4
-17941360,El Paso County,8041,1,Q3,314,likely alarmed,2,2,1
-15862010,Adams County,8001,1,Q3,60,likely alarmed,2,4,1
-465561,Denver County,8031,1,Q3,61,likely alarmed,2,5,2
-2365864,Mesa County,8077,0,Q3,62,likely alarmed,2,4,4
-4160024,Garfield County,8045,1,Q3,65,likely alarmed,2,2,2
-17720321,Denver County,8031,0,Q3,63,likely alarmed,2,5,4
-18271220,Denver County,8031,1,Q3,63,likely alarmed,2,4,1
-17358105,Adams County,8001,1,Q3,73,likely alarmed,2,3,2
-18978278,Pueblo County,8101,1,Q3,73,likely alarmed,2,3,2
-15673409,Eagle County,8037,1,Q3,74,likely not alarmed,2,3,2
-18720809,Denver County,8031,1,Q3,74,likely alarmed,2,4,2
-16035595,El Paso County,8041,0,Q3,77,likely alarmed,2,3,2
-19007314,Weld County,8123,1,Q3,80,likely alarmed,2,4,4
-54248,Adams County,8001,1,Q3,82,likely alarmed,2,4,4
-4302002,Denver County,8031,1,Q3,85,likely alarmed,2,2,4
-180583,Adams County,8001,1,Q3,86,likely alarmed,2,2,1
-48862,Denver County,8031,0,Q3,93,likely alarmed,2,3,3
-15183489,La Plata County,8067,1,Q3,95,likely alarmed,2,4,4
-17001805,Adams County,8001,0,Q3,101,likely alarmed,2,5,1
-18872987,Weld County,8123,1,Q3,106,likely alarmed,2,3,2
-2530158,Park County,8093,1,Q3,107,likely alarmed,2,3,1
-15625611,Garfield County,8045,0,Q3,108,likely alarmed,2,2,2
-3385229,El Paso County,8041,0,Q3,110,likely alarmed,2,5,1
-464407,Denver County,8031,1,Q3,111,likely alarmed,2,5,6
-1712152,Garfield County,8045,0,Q3,116,likely alarmed,2,5,1
-2258323,Broomfield County,8014,0,Q3,118,likely alarmed,2,5,5
-2701969,Summit County,8117,0,Q3,125,likely alarmed,2,4,6
-16998610,Mesa County,8077,0,Q3,127,likely alarmed,2,1,1
-821745,Denver County,8031,0,Q3,129,likely alarmed,2,2,1
-464337,Denver County,8031,1,Q3,133,likely alarmed,2,5,1
-17674786,El Paso County,8041,1,Q3,135,likely alarmed,2,1,1
-4280448,Adams County,8001,0,Q3,139,likely alarmed,2,1,1
-17387881,Baca County,8009,0,Q3,149,likely not alarmed,2,1,2
-18736052,Summit County,8117,1,Q3,163,likely alarmed,2,5,3
-1581666,El Paso County,8041,0,Q3,180,likely alarmed,2,5,1
-16391119,La Plata County,8067,1,Q3,182,likely alarmed,2,4,2
-923431,Denver County,8031,1,Q3,191,likely alarmed,2,5,2
-892869,Denver County,8031,0,Q3,203,likely alarmed,2,4,2
-2121369,La Plata County,8067,0,Q3,493,likely alarmed,2,2,2
-17755757,El Paso County,8041,0,Q3,240,likely alarmed,2,1,2
-1578665,El Paso County,8041,1,Q3,221,likely alarmed,3,5,2
-15277134,Adams County,8001,0,Q3,127,likely alarmed,3,6,6
-2962159,El Paso County,8041,1,Q3,188,likely alarmed,3,3,2
-17747066,Denver County,8031,0,Q3,93,likely alarmed,3,3,6
-17282082,Weld County,8123,0,Q3,262,likely alarmed,3,5,3
-16840298,Pueblo County,8101,0,Q3,145,likely alarmed,3,2,4
-886534,Denver County,8031,1,Q3,267,likely alarmed,3,5,6
-1515889,El Paso County,8041,0,Q3,278,likely alarmed,3,2,4
-18196439,Mesa County,8077,0,Q3,289,likely alarmed,3,4,6
-18485903,Grand County,8049,1,Q3,40,likely alarmed,3,4,4
-3372230,El Paso County,8041,1,Q3,296,likely alarmed,3,3,6
-2511473,Douglas County,8035,0,Q3,41,likely alarmed,3,4,6
-17154313,Denver County,8031,1,Q3,43,likely alarmed,3,5,2
-16262975,Garfield County,8045,1,Q3,44,likely alarmed,3,5,4
-18786048,Mesa County,8077,0,Q3,45,likely alarmed,3,4,1
-18601544,Boulder County,8013,0,Q3,48,likely alarmed,3,3,2
-2330384,Boulder County,8013,1,Q3,49,likely alarmed,3,4,2
-18864553,Adams County,8001,1,Q3,49,likely alarmed,3,3,6
-4262050,San Miguel County,8113,1,Q3,50,likely alarmed,3,2,1
-16924258,Adams County,8001,1,Q3,129,likely alarmed,3,5,4
-15286640,Denver County,8031,0,Q3,51,likely alarmed,3,4,6
-2467745,Montezuma County,8083,1,Q3,53,likely alarmed,3,5,5
-18670331,Grand County,8049,0,Q3,54,likely alarmed,3,4,2
-1593862,Larimer County,8069,1,Q3,56,likely alarmed,3,3,6
-18734382,Douglas County,8035,0,Q3,56,likely alarmed,3,5,5
-16924417,Jefferson County,8059,1,Q3,56,likely alarmed,3,4,4
-15629639,Douglas County,8035,0,Q3,79,likely alarmed,3,4,2
-18665896,Denver County,8031,0,Q3,57,likely alarmed,3,4,2
-1056638,Denver County,8031,0,Q3,58,likely alarmed,3,4,1
-435912,Douglas County,8035,1,Q3,60,likely not alarmed,3,4,3
-18890914,Adams County,8001,1,Q3,60,likely alarmed,3,3,1
-2387966,Pueblo County,8101,0,Q3,61,likely alarmed,3,4,4
-2666464,Routt County,8107,0,Q3,62,likely alarmed,3,4,6
-18817239,Boulder County,8013,1,Q3,62,likely alarmed,3,4,4
-1347421,El Paso County,8041,1,Q3,62,likely alarmed,3,3,6
+18405710,Denver County,8031,0,Q1_INTRO,5,likely alarmed,null,null,null
+2421477,Denver County,8031,0,Q1_INTRO,5,likely alarmed,null,null,null
+15566762,Denver County,8031,1,Q1_INTRO,5,likely alarmed,null,null,null
+18561359,Boulder County,8013,1,Q1_INTRO,5,likely alarmed,null,null,null
+18967101,Pueblo County,8101,1,Q1_INTRO,5,likely alarmed,null,null,null
+15847006,Adams County,8001,1,Q1_INTRO,5,likely alarmed,null,null,null
+16997258,Denver County,8031,0,Q1_INTRO,5,likely alarmed,null,null,null
+18657117,Boulder County,8013,0,Q1_INTRO,5,likely alarmed,null,null,null
+4163199,Denver County,8031,1,Q1_INTRO,5,likely alarmed,null,null,null
+18641113,Boulder County,8013,0,Q1_INTRO,5,likely alarmed,null,null,null
+3371848,El Paso County,8041,1,Q1_INTRO,5,likely alarmed,null,null,null
+16418522,Adams County,8001,0,Q1_INTRO,5,likely alarmed,null,null,null
+15881618,Denver County,8031,0,Q1_INTRO,5,likely alarmed,null,null,null
+18559049,Denver County,8031,1,Q1_INTRO,5,likely alarmed,null,null,null
+18995680,Boulder County,8013,0,Q1_INTRO,5,likely alarmed,null,null,null
+17352497,El Paso County,8041,0,Q1_INTRO,5,likely not alarmed,null,null,null
+17571216,Boulder County,8013,0,Q1_INTRO,5,likely alarmed,null,null,null
+16042968,El Paso County,8041,0,Q1_INTRO,5,likely alarmed,null,null,null
+176677,Adams County,8001,1,Q1_INTRO,5,likely alarmed,null,null,null
+4775412,Boulder County,8013,1,Q1_INTRO,5,likely alarmed,null,null,null
+18811777,Denver County,8031,1,Q1_INTRO,5,likely alarmed,null,null,null
+16371116,Denver County,8031,0,Q1_INTRO,5,likely alarmed,null,null,null
+18263757,Archuleta County,8007,1,Q1_INTRO,5,likely not alarmed,null,null,null
+1390710,El Paso County,8041,0,Q1_INTRO,4,likely alarmed,null,null,null
+19225853,Weld County,8123,1,Q1_INTRO,4,likely alarmed,null,null,null
+18284239,Denver County,8031,0,Q1_INTRO,4,likely alarmed,null,null,null
+411158,El Paso County,8041,1,Q1_INTRO,4,likely alarmed,null,null,null
+16394781,Pueblo County,8101,1,Q1_INTRO,4,likely alarmed,null,null,null
+15264323,El Paso County,8041,1,Q1_INTRO,4,likely alarmed,null,null,null
+17428052,Denver County,8031,1,Q1_INTRO,4,likely alarmed,null,null,null
+3375407,Fremont County,8043,1,Q1_INTRO,4,likely not alarmed,null,null,null
+19111144,Larimer County,8069,1,Q1_INTRO,4,likely alarmed,null,null,null
+2121308,La Plata County,8067,1,Q1_INTRO,4,likely alarmed,null,null,null
+1236278,Douglas County,8035,1,Q1_INTRO,4,likely alarmed,null,null,null
+19511265,El Paso County,8041,0,Q1_INTRO,4,likely not alarmed,null,null,null
+18898546,Boulder County,8013,0,Q1_INTRO,4,likely alarmed,null,null,null
+18829273,Delta County,8029,1,Q1_INTRO,4,likely not alarmed,null,null,null
+18715218,Boulder County,8013,0,Q1_INTRO,4,likely alarmed,null,null,null
+17044707,El Paso County,8041,0,Q1_INTRO,3,likely alarmed,null,null,null
+17986870,El Paso County,8041,0,Q1_INTRO,3,likely alarmed,null,null,null
+15815314,Boulder County,8013,0,Q1_INTRO,2,likely alarmed,null,null,null
+4635720,Adams County,8001,0,Q1_INTRO,2,likely alarmed,null,null,null
 17564878,Pueblo County,8101,0,Q3,2,likely alarmed,3,1,2
-2135455,La Plata County,8067,0,Q3,63,likely alarmed,3,5,4
-2695021,Summit County,8117,0,Q3,63,likely alarmed,3,4,5
-17559947,Summit County,8117,1,Q3,63,likely alarmed,3,5,4
-2618337,Denver County,8031,0,Q3,63,likely alarmed,3,3,3
-15643474,Denver County,8031,0,Q3,64,likely alarmed,3,3,6
-1357447,El Paso County,8041,1,Q3,65,likely alarmed,3,4,4
-1752226,Gunnison County,8051,1,Q3,65,likely alarmed,3,4,4
-848846,Denver County,8031,0,Q3,66,likely alarmed,3,5,4
-15669561,Eagle County,8037,0,Q3,66,likely alarmed,3,5,5
-18654828,Adams County,8001,0,Q3,69,likely alarmed,3,4,6
-2360236,Logan County,8075,0,Q3,69,likely alarmed,3,4,4
-18888190,Summit County,8117,1,Q3,70,likely alarmed,3,4,2
-17052932,Douglas County,8035,0,Q3,70,likely alarmed,3,4,4
-624853,Boulder County,8013,1,Q3,71,likely alarmed,3,3,2
-18266692,Boulder County,8013,1,Q3,72,likely alarmed,3,5,6
-2986360,Weld County,8123,1,Q3,72,likely alarmed,3,5,4
-433582,Douglas County,8035,1,Q3,73,likely alarmed,3,4,4
-4841597,Douglas County,8035,1,Q3,73,likely alarmed,3,3,2
-2182076,Larimer County,8069,1,Q3,73,likely alarmed,3,5,6
-18211487,Adams County,8001,1,Q3,74,likely alarmed,3,2,5
-18566136,Weld County,8123,1,Q3,76,likely alarmed,3,3,2
-18959772,Denver County,8031,1,Q3,77,likely alarmed,3,5,2
-2787545,Weld County,8123,1,Q3,78,likely alarmed,3,3,4
-2701764,Summit County,8117,0,Q3,78,likely alarmed,3,4,2
-3358729,Weld County,8123,0,Q3,78,likely alarmed,3,3,4
-15628440,Boulder County,8013,0,Q3,80,likely alarmed,3,5,3
-2612847,Pueblo County,8101,1,Q3,80,likely alarmed,3,1,1
-15583742,Denver County,8031,1,Q3,80,likely alarmed,3,2,3
-18999007,Pueblo County,8101,1,Q3,81,likely alarmed,3,3,2
-15853988,Routt County,8107,1,Q3,81,likely alarmed,3,3,2
-17132237,Denver County,8031,1,Q3,81,likely alarmed,3,5,1
-16427966,La Plata County,8067,0,Q3,81,likely alarmed,3,3,3
-1429334,El Paso County,8041,0,Q3,82,likely alarmed,3,5,3
-18894205,El Paso County,8041,1,Q3,85,likely alarmed,3,5,6
-17866375,Routt County,8107,1,Q3,86,likely alarmed,3,4,3
-17660624,Alamosa County,8003,0,Q3,86,likely alarmed,3,3,3
-2465941,Montezuma County,8083,0,Q3,86,likely alarmed,3,2,5
-1607959,El Paso County,8041,1,Q3,88,likely alarmed,3,3,3
-16172206,El Paso County,8041,1,Q3,90,likely alarmed,3,3,2
-2581604,Pueblo County,8101,1,Q3,91,likely alarmed,3,1,5
-146224,Denver County,8031,1,Q3,91,likely alarmed,3,5,5
-15876075,Weld County,8123,1,Q3,92,likely alarmed,3,5,4
-2516949,Otero County,8089,1,Q3,93,likely alarmed,3,3,3
-18325270,Denver County,8031,0,Q3,349,likely alarmed,3,4,6
-17616803,Larimer County,8069,0,Q3,99,likely alarmed,3,5,6
-4114230,La Plata County,8067,0,Q3,95,likely alarmed,3,1,2
-18674401,Denver County,8031,0,Q3,97,likely alarmed,3,3,1
-437137,Adams County,8001,0,Q3,97,likely alarmed,3,4,5
-2809468,Weld County,8123,1,Q3,100,likely alarmed,3,5,4
-1314654,Denver County,8031,1,Q3,100,likely alarmed,3,5,6
-1821564,Elbert County,8039,1,Q3,102,likely alarmed,3,2,1
-18601846,Denver County,8031,0,Q3,103,likely alarmed,3,6,1
-1974899,Jefferson County,8059,1,Q3,104,likely alarmed,3,5,3
-891712,Denver County,8031,0,Q3,105,likely alarmed,3,5,2
-621617,Boulder County,8013,0,Q3,105,likely not alarmed,3,1,5
-1663070,El Paso County,8041,0,Q3,105,likely alarmed,3,2,3
-15749186,Mesa County,8077,1,Q3,107,likely alarmed,3,3,2
-2103711,Denver County,8031,1,Q3,109,likely alarmed,3,5,6
-15628129,Boulder County,8013,0,Q3,109,likely alarmed,3,4,2
-2437528,Mesa County,8077,1,Q3,109,likely alarmed,3,3,3
-2693122,Chaffee County,8015,0,Q3,112,likely alarmed,3,3,2
-16855620,Douglas County,8035,0,Q3,112,likely alarmed,3,2,6
-18195300,Adams County,8001,1,Q3,112,likely alarmed,3,4,6
-1290925,Douglas County,8035,0,Q3,113,likely alarmed,3,5,4
-18530475,El Paso County,8041,0,Q3,113,likely alarmed,3,4,3
-3598634,Denver County,8031,1,Q3,115,likely alarmed,3,5,3
-1677252,Fremont County,8043,1,Q3,115,likely alarmed,3,5,3
-18508526,Elbert County,8039,1,Q3,115,likely not alarmed,3,5,2
-15168034,Larimer County,8069,1,Q3,115,likely alarmed,3,3,2
-15689250,Denver County,8031,0,Q3,116,likely alarmed,3,5,3
-17035219,Douglas County,8035,1,Q3,117,likely alarmed,3,5,6
-16887575,Denver County,8031,0,Q3,120,likely alarmed,3,5,3
-16026506,Delta County,8029,0,Q3,635,likely not alarmed,3,2,3
-1628569,El Paso County,8041,0,Q3,125,likely alarmed,3,5,6
-1581373,El Paso County,8041,1,Q3,126,likely alarmed,3,5,3
-893290,Denver County,8031,0,Q3,127,likely alarmed,3,5,3
-2406501,Mesa County,8077,0,Q3,129,likely alarmed,3,6,3
-2573515,Pueblo County,8101,1,Q3,129,likely alarmed,3,5,5
-18570963,El Paso County,8041,0,Q3,131,likely alarmed,3,6,6
-2581025,Pueblo County,8101,0,Q3,132,likely alarmed,3,3,2
-17562416,Montrose County,8085,0,Q3,132,likely alarmed,3,3,3
-4342967,Saguache County,8109,1,Q3,134,likely alarmed,3,5,4
-1076150,Denver County,8031,1,Q1_INTRO,395,likely alarmed,3,6,6
-4470352,El Paso County,8041,0,Q3,142,likely alarmed,3,3,4
-2662282,Rio Grande County,8105,1,Q3,145,likely alarmed,3,5,2
-1645642,El Paso County,8041,0,Q3,149,likely alarmed,3,2,2
-4316170,El Paso County,8041,0,Q3,151,likely alarmed,3,5,4
-15977068,Eagle County,8037,0,Q3,153,likely alarmed,3,4,4
-3618658,Adams County,8001,0,Q3,160,likely alarmed,3,2,4
-1074850,Denver County,8031,1,Q3,165,likely alarmed,3,4,4
-2590761,Pueblo County,8101,0,Q3,172,likely alarmed,3,5,5
-164485,Adams County,8001,1,Q3,172,likely alarmed,3,4,4
-4228890,Weld County,8123,0,Q3,174,likely alarmed,3,5,3
-18884410,Boulder County,8013,0,Q3,175,likely alarmed,3,2,2
-2631064,Pueblo County,8101,0,Q3,176,likely alarmed,3,2,4
-520234,Denver County,8031,0,Q3,177,likely alarmed,3,1,1
-17727431,El Paso County,8041,0,Q3,948,likely alarmed,3,6,1
-15713957,Denver County,8031,1,Q3,182,likely alarmed,3,4,2
-15614170,El Paso County,8041,0,Q3,195,likely alarmed,3,4,2
-2607394,Pueblo County,8101,1,Q3,209,likely alarmed,3,1,1
-26938,Denver County,8031,0,Q3,228,likely alarmed,3,3,6
-15367497,Adams County,8001,0,Q3,1782,likely alarmed,3,3,3
-842216,Denver County,8031,0,Q2,88,likely alarmed,4,2,6
-19049286,Douglas County,8035,0,Q2,102,likely not alarmed,4,3,6
-18948364,Teller County,8119,0,Q3,123,likely not alarmed,4,5,3
-17356186,Pueblo County,8101,0,Q3,67,likely alarmed,4,5,6
-17498444,Denver County,8031,1,Q3,80,likely alarmed,4,4,4
-1963398,Weld County,8123,1,Q3,135,likely alarmed,4,3,6
-19111824,Adams County,8001,0,Q3,78,likely not alarmed,4,4,3
-18697658,Denver County,8031,1,Q3,149,likely alarmed,4,2,4
-1589752,El Paso County,8041,1,Q3,164,likely alarmed,4,4,3
-18783979,Eagle County,8037,0,Q3,40,likely alarmed,4,5,3
-16440703,Adams County,8001,1,Q3,41,likely alarmed,4,5,5
-18350152,Jefferson County,8059,0,Q3,42,likely alarmed,4,5,3
-15900202,Denver County,8031,0,Q3,43,likely alarmed,4,4,4
-18650870,Denver County,8031,0,Q3,44,likely alarmed,4,4,4
-715681,Boulder County,8013,0,Q3,44,likely alarmed,4,5,4
-18317776,Denver County,8031,1,Q3,45,likely alarmed,4,4,2
-596274,Boulder County,8013,1,Q3,160,likely alarmed,4,5,4
-1896510,Eagle County,8037,1,Q3,45,likely alarmed,4,4,1
-16462992,Douglas County,8035,1,Q3,46,likely alarmed,4,5,5
-15316461,Weld County,8123,1,Q3,46,likely alarmed,4,5,5
-19799497,El Paso County,8041,0,Q3,49,likely alarmed,4,5,5
-15609688,Larimer County,8069,0,Q3,49,likely alarmed,4,5,6
-1055835,Chaffee County,8015,0,Q3,50,likely alarmed,4,5,4
-18279855,Weld County,8123,0,Q3,50,likely alarmed,4,3,1
-16114594,Denver County,8031,1,Q3,51,likely alarmed,4,5,1
-18786291,Denver County,8031,0,Q3,52,likely alarmed,4,5,5
-731931,Boulder County,8013,0,Q3,52,likely alarmed,4,5,4
-689269,Weld County,8123,1,Q3,53,likely alarmed,4,5,4
-2443323,Mesa County,8077,0,Q3,53,likely alarmed,4,4,4
-17865424,Adams County,8001,1,Q3,53,likely not alarmed,4,5,5
-18731339,El Paso County,8041,0,Q3,54,likely alarmed,4,3,5
-18339723,Denver County,8031,0,Q3,54,likely alarmed,4,4,4
-17547011,La Plata County,8067,0,Q3,55,likely alarmed,4,5,4
-18499229,Boulder County,8013,1,Q3,55,likely alarmed,4,5,4
-18601689,Adams County,8001,0,Q3,55,likely alarmed,4,4,2
-18589965,Alamosa County,8003,0,Q3,56,likely alarmed,4,4,3
-15746131,Pitkin County,8097,1,Q3,56,likely alarmed,4,4,3
-2652759,Pueblo County,8101,0,Q3,56,likely alarmed,4,5,3
-4316594,El Paso County,8041,0,Q3,57,likely alarmed,4,5,4
-318899,Boulder County,8013,1,Q3,57,likely alarmed,4,2,1
-1578263,El Paso County,8041,0,Q3,57,likely alarmed,4,5,5
-16045642,El Paso County,8041,0,Q3,57,likely alarmed,4,5,6
-15970374,Mesa County,8077,0,Q3,58,likely alarmed,4,5,2
-15804617,Denver County,8031,0,Q3,58,likely alarmed,4,5,4
-17687864,Denver County,8031,0,Q3,58,likely alarmed,4,3,3
-765806,Clear Creek County,8019,0,Q3,59,likely alarmed,4,5,6
-3378515,Lake County,8065,1,Q3,59,likely alarmed,4,5,4
-1980619,Denver County,8031,0,Q3,60,likely alarmed,4,4,4
-16165449,Adams County,8001,1,Q3,60,likely alarmed,4,4,4
-2543568,Eagle County,8037,1,Q3,61,likely alarmed,4,5,4
-18437149,La Plata County,8067,0,Q3,61,likely alarmed,4,5,3
-1856694,Denver County,8031,0,Q3,62,likely alarmed,4,4,2
-18094653,El Paso County,8041,0,Q3,62,likely alarmed,4,5,3
-18561101,Douglas County,8035,0,Q3,63,likely alarmed,4,4,4
-17435529,Boulder County,8013,0,Q3,63,likely alarmed,4,4,2
-2691814,Summit County,8117,1,Q3,64,likely alarmed,4,5,4
-1627725,El Paso County,8041,1,Q3,66,likely alarmed,4,5,3
-18870331,Adams County,8001,1,Q3,66,likely alarmed,4,4,3
-3961466,Denver County,8031,0,Q3,66,likely alarmed,4,4,2
-18854574,Denver County,8031,1,Q3,66,likely alarmed,4,5,4
-18850034,Boulder County,8013,1,Q3,67,likely alarmed,4,5,2
-1000964,Denver County,8031,0,Q3,67,likely alarmed,4,2,4
-17842923,Denver County,8031,1,Q3,67,likely alarmed,4,3,6
-2137653,La Plata County,8067,1,Q3,68,likely alarmed,4,5,5
-15305116,Weld County,8123,1,Q3,68,likely alarmed,4,5,4
-18940641,Weld County,8123,0,Q3,69,likely alarmed,4,5,6
-15199358,Denver County,8031,1,Q3,68,likely alarmed,4,5,5
-18398134,El Paso County,8041,0,Q3,69,likely alarmed,4,6,6
-18723993,Broomfield County,8014,0,Q3,69,likely alarmed,4,5,6
-15575351,Denver County,8031,0,Q3,70,likely alarmed,4,3,2
-1431446,El Paso County,8041,0,Q3,70,likely alarmed,4,3,3
-19108489,Alamosa County,8003,1,Q3,70,likely not alarmed,4,3,3
-4333278,Denver County,8031,1,Q3,70,likely alarmed,4,4,4
-17660637,Montezuma County,8083,1,Q3,71,likely not alarmed,4,4,2
-18992313,El Paso County,8041,1,Q3,73,likely alarmed,4,5,5
-17719450,Denver County,8031,1,Q3,73,likely alarmed,4,5,6
-16025466,Weld County,8123,1,Q3,74,likely alarmed,4,5,5
-2394952,Mesa County,8077,1,Q3,74,likely alarmed,4,5,5
-25671,Adams County,8001,0,Q3,75,likely alarmed,4,5,3
-4555489,El Paso County,8041,1,Q3,75,likely alarmed,4,5,4
-18163275,Douglas County,8035,1,Q3,75,likely alarmed,4,4,4
-17722595,Garfield County,8045,0,Q3,331,likely alarmed,4,3,4
-2792149,Weld County,8123,1,Q3,76,likely alarmed,4,4,4
-15637327,Mesa County,8077,0,Q3,76,likely alarmed,4,5,5
-1593511,El Paso County,8041,0,Q3,76,likely alarmed,4,2,1
-17641633,El Paso County,8041,1,Q3,76,likely alarmed,4,4,6
-18618534,Boulder County,8013,1,Q3,77,likely alarmed,4,4,4
-18369695,Weld County,8123,1,Q3,78,likely alarmed,4,5,4
-1312966,Boulder County,8013,0,Q3,78,likely alarmed,4,4,2
-17979587,Denver County,8031,1,Q3,78,likely alarmed,4,4,2
-2365421,Mesa County,8077,1,Q3,78,likely not alarmed,4,4,4
-1586579,El Paso County,8041,1,Q3,79,likely alarmed,4,5,3
-1959617,Clear Creek County,8019,0,Q3,80,likely alarmed,4,3,6
-16925488,Denver County,8031,0,Q3,81,likely alarmed,4,3,6
-443638,Pueblo County,8101,0,Q3,82,likely alarmed,4,4,6
-2407187,Mesa County,8077,1,Q3,83,likely alarmed,4,3,2
-15296134,Denver County,8031,0,Q3,83,likely not alarmed,4,5,4
-17724678,Jefferson County,8059,1,Q3,85,likely alarmed,4,4,1
-2773599,Weld County,8123,1,Q3,85,likely alarmed,4,5,3
-884099,Denver County,8031,1,Q3,85,likely alarmed,4,5,5
-15302348,Rio Grande County,8105,1,Q3,86,likely alarmed,4,5,4
-2928170,Denver County,8031,0,Q3,86,likely alarmed,4,4,4
-3178467,Denver County,8031,0,Q3,86,likely alarmed,4,5,4
-18563004,Denver County,8031,1,Q3,86,likely alarmed,4,4,2
-1743785,Gunnison County,8051,1,Q3,87,likely alarmed,4,5,2
-2167503,Larimer County,8069,0,Q3,87,likely alarmed,4,5,2
-887382,Denver County,8031,0,Q3,343,likely alarmed,4,4,3
-15672957,El Paso County,8041,0,Q3,88,likely alarmed,4,4,3
-3406917,Denver County,8031,1,Q3,90,likely alarmed,4,5,6
-18768208,El Paso County,8041,1,Q3,91,likely alarmed,4,5,4
-4339689,Delta County,8029,1,Q3,91,likely alarmed,4,4,5
-18256847,Denver County,8031,0,Q3,91,likely alarmed,4,4,4
-2122423,Boulder County,8013,1,Q3,93,likely alarmed,4,5,6
-17977216,Routt County,8107,0,Q3,94,likely alarmed,4,5,4
-18506729,El Paso County,8041,0,Q3,94,likely alarmed,4,5,3
-15911631,Denver County,8031,1,Q3,95,likely alarmed,4,5,4
-17135235,El Paso County,8041,0,Q3,96,likely alarmed,4,4,3
-1546469,Fremont County,8043,0,Q3,97,likely alarmed,4,5,3
-16732575,Weld County,8123,0,Q3,98,likely alarmed,4,5,3
-17716515,Denver County,8031,1,Q3,100,likely alarmed,4,3,6
-16813204,El Paso County,8041,0,Q3,101,likely alarmed,4,5,4
-731981,Boulder County,8013,0,Q3,101,likely alarmed,4,5,2
-1091424,Clear Creek County,8019,0,Q3,105,likely alarmed,4,5,5
-16506534,El Paso County,8041,0,Q3,107,likely alarmed,4,5,5
-1849848,Yuma County,8125,1,Q3,108,likely alarmed,4,4,4
-384445,Denver County,8031,0,Q3,110,likely alarmed,4,4,2
-2605443,Pueblo County,8101,0,Q3,113,likely alarmed,4,4,4
-18440681,Weld County,8123,0,Q3,114,likely alarmed,4,4,4
-17963617,Pueblo County,8101,0,Q3,115,likely alarmed,4,4,2
-1118245,Denver County,8031,0,Q3,116,likely alarmed,4,4,4
-17745935,Adams County,8001,1,Q3,116,likely alarmed,4,4,2
-1301275,El Paso County,8041,0,Q3,118,likely alarmed,4,4,6
-169538,Adams County,8001,1,Q3,119,likely alarmed,4,5,3
-826198,Denver County,8031,0,Q3,121,likely alarmed,4,4,2
-18457624,El Paso County,8041,1,Q3,121,likely alarmed,4,6,6
-1868056,El Paso County,8041,1,Q3,121,likely alarmed,4,4,6
-18721966,Adams County,8001,0,Q3,123,likely alarmed,4,4,4
-18321912,Boulder County,8013,1,Q3,124,likely alarmed,4,4,2
-1720093,Garfield County,8045,0,Q3,126,likely alarmed,4,5,4
-2104456,Denver County,8031,0,Q3,127,likely alarmed,4,4,1
-16465756,Jefferson County,8059,1,Q3,127,likely alarmed,4,4,1
-1751305,Gunnison County,8051,0,Q3,128,likely alarmed,4,5,5
-15160886,Chaffee County,8015,1,Q3,128,likely alarmed,4,5,5
-2781682,Weld County,8123,1,Q3,130,likely alarmed,4,5,5
-1163575,Denver County,8031,0,Q3,131,likely alarmed,4,4,2
-17565664,Delta County,8029,0,Q3,131,likely alarmed,4,5,1
-925102,Denver County,8031,1,Q3,133,likely alarmed,4,2,6
-4311265,El Paso County,8041,0,Q3,135,likely alarmed,4,3,2
-15304586,Teller County,8119,0,Q3,139,likely alarmed,4,5,4
-18138024,Weld County,8123,1,Q3,140,likely not alarmed,4,5,2
-18564945,Huerfano County,8055,1,Q3,141,likely alarmed,4,5,4
-15843925,El Paso County,8041,0,Q3,142,likely alarmed,4,5,4
-1751449,Gunnison County,8051,0,Q3,142,likely alarmed,4,4,3
-4767217,Mesa County,8077,1,Q3,146,likely alarmed,4,4,5
-2151617,El Paso County,8041,0,Q3,148,likely alarmed,4,5,1
-16403022,Adams County,8001,1,Q3,152,likely alarmed,4,3,1
-163423,Adams County,8001,0,Q3,158,likely alarmed,4,5,5
-594017,Boulder County,8013,0,Q3,159,likely alarmed,4,1,3
-15573491,Broomfield County,8014,0,Q3,164,likely alarmed,4,5,5
-2733675,Weld County,8123,0,Q3,170,likely alarmed,4,5,6
-17980103,El Paso County,8041,1,Q3,173,likely alarmed,4,1,3
-1024851,Denver County,8031,0,Q3,179,likely alarmed,4,4,1
-18138453,Phillips County,8095,0,Q3,184,likely alarmed,4,4,4
-2605099,Pueblo County,8101,1,Q3,195,likely alarmed,4,4,4
-15251748,Denver County,8031,1,Q3,198,likely alarmed,4,4,6
-2599775,Pueblo County,8101,1,Q3,198,likely alarmed,4,5,4
-17975760,El Paso County,8041,1,Q3,454,likely alarmed,4,3,4
-1061851,Montezuma County,8083,0,Q3,200,likely alarmed,4,5,2
-460803,Mesa County,8077,1,Q3,204,likely alarmed,4,5,3
-18337641,Adams County,8001,1,Q3,216,likely alarmed,4,5,6
-1321378,Eagle County,8037,0,Q3,219,likely alarmed,4,6,3
-111603,Adams County,8001,0,Q3,1002,likely alarmed,4,5,2
-144882,Weld County,8123,0,Q3,95,likely alarmed,5,1,1
-1721555,El Paso County,8041,1,Q3,78,likely alarmed,5,1,5
-18854764,Denver County,8031,1,Q3,33,likely alarmed,5,5,5
-3809434,Pueblo County,8101,1,Q3,127,likely alarmed,5,5,5
-15627367,Boulder County,8013,0,Q3,114,likely alarmed,5,5,3
-2904248,Broomfield County,8014,1,Q3,170,likely alarmed,5,5,5
-2297435,Delta County,8029,0,Q3,98,likely alarmed,5,5,5
-117095,Weld County,8123,0,Q3,152,likely alarmed,5,5,3
-2780120,Larimer County,8069,0,Q3,59,likely alarmed,5,3,6
-1560844,El Paso County,8041,0,Q3,257,likely alarmed,5,5,3
-1757201,Huerfano County,8055,0,Q2,74,likely alarmed,5,5,5
-3254699,El Paso County,8041,1,Q3,262,likely alarmed,5,5,4
-16855529,Morgan County,8087,1,Q3,1,likely alarmed,5,1,1
-18142326,Boulder County,8013,0,Q3,65,likely alarmed,5,5,6
-19660763,El Paso County,8041,1,Q3,270,likely alarmed,5,5,5
-18999314,Denver County,8031,0,Q3,66,likely alarmed,5,5,1
-4681897,El Paso County,8041,1,Q3,104,likely alarmed,5,5,6
-3350876,Boulder County,8013,0,Q3,33,likely alarmed,5,5,5
-3805141,Otero County,8089,0,Q3,33,likely alarmed,5,5,5
-16144741,El Paso County,8041,0,Q3,34,likely alarmed,5,5,5
-18413980,Denver County,8031,0,Q3,35,likely alarmed,5,5,5
-18647711,Denver County,8031,0,Q3,35,likely alarmed,5,5,5
 18373118,Boulder County,8013,1,Q3,2,likely alarmed,5,1,6
-17018987,Weld County,8123,0,Q3,38,likely alarmed,5,5,4
-18280151,Jefferson County,8059,0,Q3,38,likely alarmed,5,5,5
-15310546,El Paso County,8041,0,Q3,38,likely alarmed,5,5,5
-19013847,Summit County,8117,0,Q3,38,likely alarmed,5,5,5
-18149701,Douglas County,8035,1,Q3,39,likely alarmed,5,5,2
-18895337,El Paso County,8041,1,Q3,39,likely alarmed,5,5,3
-18285173,Boulder County,8013,0,Q3,39,likely alarmed,5,5,5
-18799710,Larimer County,8069,1,Q3,40,likely alarmed,5,5,5
-17911755,Denver County,8031,0,Q3,40,likely alarmed,5,4,4
-1105177,Denver County,8031,0,Q3,40,likely alarmed,5,5,4
-1346587,El Paso County,8041,0,Q3,296,likely alarmed,5,5,3
-18882695,Denver County,8031,1,Q3,41,likely alarmed,5,5,5
-15590833,Broomfield County,8014,0,Q3,41,likely alarmed,5,5,2
-17458852,Adams County,8001,0,Q3,41,likely not alarmed,5,5,6
-16992460,Denver County,8031,0,Q3,41,likely alarmed,5,5,6
-19084386,El Paso County,8041,1,Q3,42,likely alarmed,5,5,5
-18263691,Denver County,8031,0,Q3,42,likely alarmed,5,5,5
-18530951,Boulder County,8013,1,Q3,42,likely alarmed,5,5,3
-17959952,Denver County,8031,0,Q3,42,likely alarmed,5,5,4
-18972886,Denver County,8031,0,Q3,42,likely alarmed,5,5,4
-983536,Denver County,8031,0,Q3,43,likely alarmed,5,5,4
-17672303,Jefferson County,8059,1,Q3,43,likely alarmed,5,5,3
-18264242,Broomfield County,8014,0,Q3,43,likely alarmed,5,5,6
-15630397,Denver County,8031,0,Q3,43,likely alarmed,5,5,4
-17389424,Summit County,8117,1,Q3,43,likely alarmed,5,5,5
-18173277,Denver County,8031,1,Q3,43,likely alarmed,5,4,6
-18102852,Summit County,8117,1,Q3,44,likely alarmed,5,5,4
-155568,Douglas County,8035,1,Q3,44,likely alarmed,5,5,6
-16450936,Denver County,8031,0,Q3,44,likely alarmed,5,5,5
-18416914,Boulder County,8013,1,Q3,44,likely alarmed,5,5,3
-15705521,El Paso County,8041,1,Q3,45,likely alarmed,5,5,3
-16859690,Adams County,8001,1,Q3,45,likely alarmed,5,5,4
-18781787,Denver County,8031,1,Q3,45,likely alarmed,5,5,2
-15307616,Weld County,8123,1,Q3,45,likely alarmed,5,5,5
-16921643,Denver County,8031,1,Q3,46,likely alarmed,5,5,5
-231297,Eagle County,8037,1,Q3,46,likely alarmed,5,5,4
-19745185,Routt County,8107,1,Q3,46,likely alarmed,5,5,5
-18642334,Weld County,8123,0,Q3,47,likely alarmed,5,5,5
-17240227,Boulder County,8013,0,Q3,47,likely not alarmed,5,5,5
-15906866,Denver County,8031,0,Q2,47,likely alarmed,5,5,4
-17544331,Broomfield County,8014,1,Q3,47,likely alarmed,5,5,5
-18177088,El Paso County,8041,0,Q3,47,likely alarmed,5,5,4
-17232112,Las Animas County,8071,1,Q3,48,likely alarmed,5,4,4
-4321060,Pitkin County,8097,0,Q3,49,likely alarmed,5,5,5
-840604,El Paso County,8041,0,Q3,49,likely alarmed,5,5,3
-165651,Adams County,8001,1,Q3,49,likely alarmed,5,5,5
-17047884,Weld County,8123,1,Q3,49,likely alarmed,5,4,4
-18500151,Adams County,8001,0,Q3,50,likely alarmed,5,5,6
-18409439,Delta County,8029,1,Q3,50,likely alarmed,5,5,4
-15606897,Denver County,8031,1,Q3,50,likely alarmed,5,5,5
-17608885,Weld County,8123,0,Q3,306,likely alarmed,5,5,6
-17389264,Pitkin County,8097,0,Q3,51,likely alarmed,5,5,5
-16417839,Boulder County,8013,1,Q3,51,likely alarmed,5,5,4
-1682083,Fremont County,8043,1,Q3,61,likely alarmed,5,5,4
-18896366,Boulder County,8013,0,Q3,52,likely alarmed,5,5,3
-1956569,Jefferson County,8059,1,Q3,819,likely alarmed,5,5,5
-17706035,Weld County,8123,1,Q3,52,likely alarmed,5,5,6
-3379792,La Plata County,8067,0,Q3,53,likely alarmed,5,5,5
-17746870,Weld County,8123,0,Q3,53,likely alarmed,5,5,1
-18216996,El Paso County,8041,1,Q3,53,likely alarmed,5,5,6
-16988161,Adams County,8001,1,Q3,53,likely alarmed,5,5,3
-18613613,Weld County,8123,0,Q3,53,likely alarmed,5,5,3
-17636819,Denver County,8031,0,Q3,53,likely alarmed,5,5,5
-19016142,Pueblo County,8101,1,Q3,53,likely alarmed,5,5,2
-18637979,Boulder County,8013,1,Q3,54,likely alarmed,5,5,5
-16401955,Larimer County,8069,0,Q3,54,likely alarmed,5,5,3
-18552278,El Paso County,8041,0,Q3,54,likely alarmed,5,5,5
-17626826,Denver County,8031,0,Q3,54,likely alarmed,5,5,5
-2598865,Pueblo County,8101,1,Q3,310,likely alarmed,5,5,6
-2418374,Mesa County,8077,0,Q3,55,likely alarmed,5,2,5
-15865014,Adams County,8001,0,Q3,55,likely alarmed,5,5,3
-2196457,Larimer County,8069,0,Q3,55,likely alarmed,5,5,3
-16482510,Douglas County,8035,0,Q3,55,likely alarmed,5,5,4
-18799227,Montrose County,8085,0,Q3,56,likely not alarmed,5,1,1
-1510542,El Paso County,8041,1,Q3,56,likely alarmed,5,5,5
-3905884,Adams County,8001,1,Q3,56,likely alarmed,5,5,5
-18971452,Boulder County,8013,1,Q3,56,likely alarmed,5,5,2
-18497895,Boulder County,8013,0,Q3,56,likely alarmed,5,5,5
-3369504,Broomfield County,8014,0,Q3,56,likely alarmed,5,5,5
-2518583,Otero County,8089,0,Q3,56,likely alarmed,5,5,4
-16430647,Adams County,8001,1,Q3,56,likely alarmed,5,1,1
-18556922,Denver County,8031,0,Q3,57,likely alarmed,5,5,5
-310997,Denver County,8031,1,Q3,57,likely alarmed,5,5,5
-16012298,El Paso County,8041,0,Q3,58,likely alarmed,5,5,3
-15990127,El Paso County,8041,1,Q3,58,likely alarmed,5,5,5
-16493240,El Paso County,8041,0,Q3,58,likely alarmed,5,5,3
-17006519,Adams County,8001,1,Q3,59,likely alarmed,5,5,6
-1586233,Denver County,8031,0,Q3,59,likely alarmed,5,5,4
-16860149,El Paso County,8041,1,Q3,59,likely alarmed,5,5,5
-18020895,Douglas County,8035,1,Q3,59,likely alarmed,5,5,3
-18517921,Douglas County,8035,1,Q3,59,likely alarmed,5,4,4
-18455583,Boulder County,8013,1,Q3,59,likely alarmed,5,5,2
-16424429,El Paso County,8041,0,Q3,59,likely alarmed,5,5,5
-19664408,San Miguel County,8113,1,Q3,60,likely alarmed,5,5,2
-19062782,Jefferson County,8059,0,Q3,60,likely alarmed,5,5,2
-16015550,El Paso County,8041,0,Q3,61,likely alarmed,5,5,5
-18923158,El Paso County,8041,1,Q3,61,likely alarmed,5,4,4
-18669519,Denver County,8031,1,Q3,61,likely alarmed,5,5,5
-72293,El Paso County,8041,1,Q3,62,likely alarmed,5,5,5
-550068,Boulder County,8013,0,Q3,62,likely alarmed,5,5,6
-18664545,Alamosa County,8003,0,Q3,62,likely alarmed,5,5,5
-15579371,Pueblo County,8101,1,Q3,63,likely alarmed,5,5,3
-3398992,Denver County,8031,0,Q3,63,likely alarmed,5,5,2
-16323287,Boulder County,8013,0,Q3,63,likely alarmed,5,4,2
-17667618,Larimer County,8069,1,Q3,63,likely alarmed,5,5,4
-19094368,El Paso County,8041,1,Q3,63,likely alarmed,5,5,6
-18331889,Adams County,8001,0,Q3,64,likely alarmed,5,5,5
-2178414,Larimer County,8069,0,Q2,64,likely alarmed,5,5,5
-17852223,Pueblo County,8101,0,Q3,64,likely alarmed,5,5,3
-18459502,Denver County,8031,0,Q3,64,likely alarmed,5,5,5
-18436534,Denver County,8031,0,Q3,64,likely not alarmed,5,4,5
-440720,Denver County,8031,0,Q3,65,likely alarmed,5,4,2
-18940331,Boulder County,8013,1,Q3,65,likely alarmed,5,5,6
-17905385,Ouray County,8091,0,Q3,65,likely alarmed,5,5,5
-3331369,El Paso County,8041,0,Q3,66,likely alarmed,5,1,2
-18510273,Adams County,8001,0,Q3,66,likely alarmed,5,5,5
-18199792,Denver County,8031,1,Q3,67,likely alarmed,5,5,5
-18481185,Boulder County,8013,0,Q3,68,likely alarmed,5,5,4
-16015644,Weld County,8123,0,Q3,68,likely alarmed,5,5,4
-16407237,Adams County,8001,0,Q3,68,likely alarmed,5,5,6
-2637788,Pueblo County,8101,0,Q3,68,likely alarmed,5,4,3
-15615346,El Paso County,8041,1,Q3,68,likely alarmed,5,5,5
-18741448,Denver County,8031,1,Q3,69,likely alarmed,5,5,5
-18349154,Denver County,8031,0,Q3,69,likely alarmed,5,5,3
-15579449,Larimer County,8069,0,Q3,69,likely alarmed,5,4,4
-693065,Boulder County,8013,1,Q3,69,likely alarmed,5,5,6
-2625259,Pueblo County,8101,0,Q3,69,likely alarmed,5,5,3
-16442899,Denver County,8031,0,Q3,70,likely alarmed,5,5,4
-19016386,Denver County,8031,0,Q3,70,likely alarmed,5,4,3
-2084003,Jefferson County,8059,1,Q3,72,likely alarmed,5,5,3
-17973771,La Plata County,8067,0,Q2,72,likely alarmed,5,1,1
-16865403,Pueblo County,8101,1,Q3,74,likely alarmed,5,5,4
-1935315,Denver County,8031,0,Q3,74,likely alarmed,5,3,6
-1024434,Denver County,8031,0,Q3,74,likely alarmed,5,5,4
-16927079,Weld County,8123,1,Q3,74,likely alarmed,5,3,3
-2266529,Routt County,8107,0,Q3,74,likely alarmed,5,5,2
-18113172,Denver County,8031,1,Q3,74,likely alarmed,5,5,5
-2619645,El Paso County,8041,1,Q3,75,likely alarmed,5,5,1
-18291173,Broomfield County,8014,0,Q3,75,likely alarmed,5,5,5
-16089912,El Paso County,8041,0,Q3,76,likely alarmed,5,5,4
-20023844,Weld County,8123,1,Q3,76,likely alarmed,5,5,4
-17337,Adams County,8001,1,Q3,78,likely alarmed,5,5,2
-2397545,Mesa County,8077,0,Q3,78,likely alarmed,5,4,4
-472920,Weld County,8123,0,Q3,79,likely alarmed,5,2,1
-18363143,Denver County,8031,1,Q3,79,likely alarmed,5,5,5
-764363,Fremont County,8043,0,Q3,79,likely alarmed,5,4,5
-16858893,Jefferson County,8059,0,Q3,80,likely alarmed,5,5,5
-928458,Denver County,8031,1,Q3,80,likely alarmed,5,4,2
-2615369,Pueblo County,8101,0,Q3,81,likely alarmed,5,4,4
-18687108,Summit County,8117,0,Q3,81,likely alarmed,5,5,6
-251750,El Paso County,8041,1,Q3,82,likely alarmed,5,4,4
-2444406,Adams County,8001,0,Q3,82,likely alarmed,5,5,2
-4289579,Boulder County,8013,0,Q3,82,likely alarmed,5,5,5
-18437791,Boulder County,8013,0,Q3,82,likely alarmed,5,5,6
-124917,Adams County,8001,0,Q3,82,likely alarmed,5,5,5
-15995620,La Plata County,8067,1,Q3,83,likely alarmed,5,5,4
-18724043,Pitkin County,8097,0,Q3,83,likely alarmed,5,1,5
-18745228,Denver County,8031,0,Q3,84,likely alarmed,5,6,6
-2123031,La Plata County,8067,0,Q3,116,likely alarmed,5,3,2
-17559943,Summit County,8117,1,Q3,84,likely alarmed,5,5,5
-1791647,Jefferson County,8059,0,Q3,84,likely alarmed,5,1,1
-1528446,El Paso County,8041,1,Q3,85,likely alarmed,5,5,4
-2482362,Montrose County,8085,0,Q3,85,likely alarmed,5,5,5
-19796837,Boulder County,8013,1,Q3,85,likely alarmed,5,5,6
-17611617,Denver County,8031,1,Q3,85,likely alarmed,5,5,4
-351849,Denver County,8031,0,Q3,86,likely alarmed,5,1,4
-17907894,El Paso County,8041,1,Q3,87,likely alarmed,5,1,1
-18382287,Alamosa County,8003,0,Q3,87,likely alarmed,5,5,2
-700530,Boulder County,8013,0,Q3,88,likely alarmed,5,5,6
-17349214,Pueblo County,8101,1,Q3,88,likely alarmed,5,5,6
-632069,Denver County,8031,1,Q3,89,likely alarmed,5,1,3
-1041859,Denver County,8031,1,Q3,89,likely alarmed,5,5,1
-3164567,Denver County,8031,0,Q3,89,likely alarmed,5,5,5
-802139,Denver County,8031,1,Q3,90,likely alarmed,5,5,4
-3403882,El Paso County,8041,0,Q3,90,likely alarmed,5,5,3
-2108361,Kit Carson County,8063,1,Q3,90,likely alarmed,5,5,5
-699030,Boulder County,8013,1,Q3,91,likely alarmed,5,5,4
-4447880,Boulder County,8013,1,Q3,91,likely alarmed,5,5,5
-789868,Montrose County,8085,1,Q3,92,likely alarmed,5,5,5
-1735781,Grand County,8049,1,Q3,93,likely alarmed,5,5,4
-18128508,Montrose County,8085,1,Q3,93,likely not alarmed,5,5,3
-343258,Douglas County,8035,0,Q3,97,likely alarmed,5,5,6
-2699430,Denver County,8031,1,Q3,98,likely alarmed,5,5,5
-944930,Adams County,8001,0,Q3,98,likely alarmed,5,5,2
-570283,Boulder County,8013,1,Q3,98,likely alarmed,5,5,5
-3592488,Denver County,8031,1,Q3,99,likely alarmed,5,5,3
-16410048,Mesa County,8077,1,Q3,99,likely alarmed,5,5,5
-16436476,Conejos County,8021,1,Q3,99,likely alarmed,5,3,6
-17578298,Adams County,8001,1,Q3,99,likely alarmed,5,5,3
-2116397,Lake County,8065,1,Q3,100,likely alarmed,5,5,1
-3412327,Montrose County,8085,1,Q3,115,likely not alarmed,5,5,5
-1587934,El Paso County,8041,1,Q3,100,likely alarmed,5,5,6
-18588530,El Paso County,8041,1,Q3,101,likely alarmed,5,4,4
-18828277,Denver County,8031,1,Q3,102,likely alarmed,5,5,4
-1536977,El Paso County,8041,1,Q3,102,likely alarmed,5,5,5
-15240748,Boulder County,8013,1,Q3,102,likely alarmed,5,5,3
-2474504,Montrose County,8085,1,Q3,102,likely alarmed,5,1,1
-2424566,Garfield County,8045,1,Q3,103,likely alarmed,5,4,4
-17467808,Adams County,8001,1,Q3,104,likely alarmed,5,5,3
-15747550,Huerfano County,8055,1,Q3,104,likely alarmed,5,5,4
-18335124,Boulder County,8013,0,Q3,105,likely alarmed,5,5,4
-4387236,Denver County,8031,0,Q3,105,likely alarmed,5,5,2
-18754749,Denver County,8031,0,Q3,105,likely alarmed,5,5,5
-1641284,Lake County,8065,1,Q3,105,likely alarmed,5,5,4
-17828135,Pueblo County,8101,1,Q3,106,likely alarmed,5,3,4
-2308641,Larimer County,8069,0,Q3,106,likely alarmed,5,5,6
-18569120,El Paso County,8041,0,Q3,107,likely alarmed,5,5,3
-15588063,Gilpin County,8047,0,Q3,107,likely alarmed,5,5,5
-18711213,Weld County,8123,1,Q3,109,likely alarmed,5,4,2
-16143546,Boulder County,8013,0,Q3,109,likely alarmed,5,5,5
-17840652,Boulder County,8013,1,Q3,111,likely alarmed,5,5,4
-782145,Delta County,8029,1,Q3,112,likely alarmed,5,5,4
-1712337,Garfield County,8045,1,Q3,112,likely not alarmed,5,5,5
-1049600,Denver County,8031,1,Q3,113,likely alarmed,5,4,5
-79688,Adams County,8001,1,Q3,113,likely alarmed,5,5,5
-2382516,Mesa County,8077,0,Q3,114,likely not alarmed,5,3,1
-15493226,El Paso County,8041,0,Q3,115,likely alarmed,5,5,3
-15511496,Boulder County,8013,0,Q3,116,likely alarmed,5,5,3
-1628366,El Paso County,8041,0,Q3,116,likely alarmed,5,3,3
-1628432,El Paso County,8041,0,Q3,118,likely alarmed,5,5,5
-17041933,Larimer County,8069,0,Q3,118,likely alarmed,5,6,4
-2722983,Teller County,8119,0,Q3,120,likely alarmed,5,4,6
-17025982,Montrose County,8085,0,Q3,121,likely not alarmed,5,5,5
-975750,Denver County,8031,0,Q3,121,likely alarmed,5,5,5
-18452033,El Paso County,8041,0,Q3,129,likely alarmed,5,4,6
-17748487,Denver County,8031,1,Q3,124,likely alarmed,5,5,3
-914767,Denver County,8031,1,Q3,125,likely alarmed,5,5,4
-139279,Adams County,8001,0,Q3,126,likely alarmed,5,5,5
-2635283,Pueblo County,8101,1,Q3,129,likely alarmed,5,1,1
-1555499,El Paso County,8041,1,Q3,133,likely alarmed,5,5,3
-18952234,Adams County,8001,0,Q3,134,likely alarmed,5,4,3
-15642969,Denver County,8031,0,Q3,135,likely alarmed,5,5,6
-384576,Douglas County,8035,1,Q3,137,likely alarmed,5,5,6
-1572296,El Paso County,8041,1,Q3,138,likely alarmed,5,5,3
-2546648,Eagle County,8037,0,Q3,139,likely alarmed,5,5,2
-15700204,Denver County,8031,1,Q3,907,likely alarmed,5,5,5
-4248796,Denver County,8031,0,Q3,140,likely alarmed,5,5,4
-15237814,Denver County,8031,1,Q3,140,likely alarmed,5,5,3
-16200758,Chaffee County,8015,1,Q3,141,likely not alarmed,5,3,3
-15291668,Boulder County,8013,1,Q3,142,likely alarmed,5,5,3
-2617743,Pueblo County,8101,1,Q3,143,likely alarmed,5,4,5
-2131818,La Plata County,8067,0,Q3,144,likely alarmed,5,1,1
-182254,Adams County,8001,0,Q3,144,likely alarmed,5,5,4
-1581367,El Paso County,8041,0,Q3,146,likely alarmed,5,1,1
-554700,Boulder County,8013,0,Q3,148,likely alarmed,5,3,1
-16072437,Boulder County,8013,0,Q3,150,likely alarmed,5,5,4
-18596576,Jefferson County,8059,1,Q3,157,likely alarmed,5,4,4
-17517904,El Paso County,8041,1,Q3,1437,likely alarmed,5,5,2
-18653529,Larimer County,8069,0,Q3,163,likely alarmed,5,5,4
-15264230,El Paso County,8041,1,Q3,165,likely alarmed,5,5,2
-18293513,Douglas County,8035,1,Q3,166,likely alarmed,5,4,2
-15638295,Jefferson County,8059,0,Q3,168,likely alarmed,5,5,2
-843627,Adams County,8001,1,Q3,170,likely alarmed,5,5,4
-771044,Conejos County,8021,1,Q3,174,likely alarmed,5,4,1
-1433589,El Paso County,8041,1,Q3,430,likely alarmed,5,5,6
-18449892,Mesa County,8077,0,Q3,178,likely alarmed,5,5,5
-15661251,El Paso County,8041,0,Q3,180,likely alarmed,5,5,5
-18129812,Boulder County,8013,0,Q3,183,likely alarmed,5,5,5
-2701530,Summit County,8117,1,Q3,197,likely alarmed,5,5,5
-637544,Boulder County,8013,1,Q3,203,likely alarmed,5,5,6
-18500397,Denver County,8031,1,Q3,208,likely alarmed,5,5,5
-723587,Boulder County,8013,0,Q3,211,likely alarmed,5,5,5
-18184635,Denver County,8031,0,Q3,214,likely alarmed,5,5,3
-850277,Denver County,8031,0,Q3,217,likely alarmed,5,5,4
-694578,Denver County,8031,1,Q3,222,likely alarmed,5,5,2
-15409646,Mesa County,8077,0,Q3,225,likely alarmed,5,5,3
-1622888,El Paso County,8041,1,Q3,242,likely alarmed,5,1,1
-15614880,Mesa County,8077,1,Q3,75,likely alarmed,6,4,6
-18522084,Denver County,8031,0,Q3,37,likely alarmed,6,6,6
-18583395,El Paso County,8041,0,Q3,120,likely alarmed,6,6,6
-1711931,Garfield County,8045,1,Q3,83,likely alarmed,6,1,5
-17725979,Denver County,8031,1,Q3,59,likely alarmed,6,4,1
-1574327,El Paso County,8041,1,Q3,271,likely alarmed,6,5,6
-2638569,Pueblo County,8101,0,Q3,282,likely alarmed,6,6,1
-18705467,Denver County,8031,1,Q3,35,likely alarmed,6,6,6
-18381985,Boulder County,8013,0,Q3,38,likely alarmed,6,4,3
-16845041,Weld County,8123,0,Q3,39,likely alarmed,6,6,5
-18999415,Pueblo County,8101,1,Q2,39,likely alarmed,6,3,6
-107752,Adams County,8001,1,Q3,41,likely alarmed,6,6,6
-17712501,Denver County,8031,1,Q3,45,likely alarmed,6,4,6
-15732444,El Paso County,8041,1,Q3,45,likely alarmed,6,5,6
-15272800,Denver County,8031,0,Q3,45,likely alarmed,6,4,6
-18956764,El Paso County,8041,1,Q3,46,likely alarmed,6,4,6
-18147833,Summit County,8117,0,Q3,46,likely alarmed,6,3,2
-18156016,Denver County,8031,0,Q3,47,likely alarmed,6,4,2
-19606487,Summit County,8117,1,Q3,48,likely alarmed,6,5,5
-762116,Clear Creek County,8019,0,Q3,304,likely alarmed,6,5,2
-701974,Weld County,8123,1,Q3,49,likely alarmed,6,6,6
-18210451,Pueblo County,8101,1,Q3,49,likely alarmed,6,3,3
-18959075,Summit County,8117,1,Q3,51,likely alarmed,6,4,6
-19072041,Denver County,8031,0,Q3,51,likely alarmed,6,4,6
-19029433,Denver County,8031,1,Q3,51,likely alarmed,6,6,6
-18620660,Summit County,8117,1,Q3,51,likely alarmed,6,4,6
-2586087,Pueblo County,8101,0,Q3,309,likely alarmed,6,4,4
-17865153,El Paso County,8041,1,Q3,55,likely alarmed,6,4,6
-16448391,Denver County,8031,0,Q3,56,likely alarmed,6,4,6
-4382126,El Paso County,8041,0,Q3,56,likely not alarmed,6,4,4
-18387393,Douglas County,8035,0,Q3,57,likely alarmed,6,3,6
-17852520,La Plata County,8067,0,Q3,59,likely alarmed,6,4,4
-17357499,Denver County,8031,1,Q3,59,likely not alarmed,6,3,6
-4261003,Adams County,8001,0,Q3,61,likely alarmed,6,6,6
-19101271,Denver County,8031,1,Q3,62,likely alarmed,6,6,6
-3366438,Boulder County,8013,1,Q3,63,likely alarmed,6,5,5
-16043694,Denver County,8031,1,Q3,66,likely alarmed,6,4,5
-3399336,Alamosa County,8003,0,Q3,67,likely alarmed,6,2,6
-3368977,Denver County,8031,1,Q3,68,likely alarmed,6,5,4
-15332011,Boulder County,8013,1,Q3,68,likely alarmed,6,5,6
-15987753,Otero County,8089,1,Q3,69,likely not alarmed,6,6,6
-1531659,Routt County,8107,0,Q3,69,likely alarmed,6,5,2
-2703653,Denver County,8031,1,Q3,70,likely alarmed,6,4,1
-15169331,Adams County,8001,1,Q3,71,likely alarmed,6,3,6
-18480338,Denver County,8031,0,Q3,71,likely alarmed,6,4,3
-18526048,Weld County,8123,1,Q3,74,likely alarmed,6,5,6
-16921539,Fremont County,8043,0,Q3,183,likely not alarmed,6,6,6
-17561342,Summit County,8117,1,Q3,74,likely alarmed,6,5,3
-19987330,Douglas County,8035,1,Q3,78,likely alarmed,6,5,6
-2514327,Otero County,8089,1,Q3,79,likely alarmed,6,1,1
-2432541,Mesa County,8077,1,Q3,81,likely alarmed,6,6,3
-15602756,Boulder County,8013,0,Q3,82,likely alarmed,6,4,2
-2519029,Otero County,8089,0,Q3,82,likely alarmed,6,4,6
-18953497,Denver County,8031,1,Q3,338,likely alarmed,6,3,3
-4273634,Adams County,8001,1,Q3,83,likely alarmed,6,3,6
-15649927,Adams County,8001,0,Q3,84,likely alarmed,6,4,6
-18618588,Pueblo County,8101,1,Q3,84,likely alarmed,6,5,6
-16523715,Adams County,8001,0,Q3,85,likely alarmed,6,4,6
-18847035,Park County,8093,1,Q3,85,likely alarmed,6,5,6
-2347125,Las Animas County,8071,0,Q3,86,likely alarmed,6,3,6
-18972487,Adams County,8001,0,Q3,86,likely alarmed,6,5,4
-1219796,Denver County,8031,1,Q3,88,likely alarmed,6,6,6
-2781406,Weld County,8123,1,Q3,90,likely alarmed,6,6,1
-17834719,Pueblo County,8101,1,Q3,90,likely alarmed,6,3,6
-18740075,Adams County,8001,0,Q3,90,likely alarmed,6,4,3
-27052,Adams County,8001,1,Q3,91,likely alarmed,6,4,4
-15295594,Mesa County,8077,0,Q3,91,likely alarmed,6,1,2
-1719797,Fremont County,8043,0,Q3,96,likely alarmed,6,5,5
-3420484,Adams County,8001,1,Q3,99,likely alarmed,6,6,6
-355280,Denver County,8031,1,Q3,100,likely alarmed,6,5,5
-18882742,Larimer County,8069,0,Q3,101,likely alarmed,6,5,6
-195645,Alamosa County,8003,1,Q3,106,likely alarmed,6,6,6
-18623059,Logan County,8075,1,Q3,366,likely alarmed,6,6,5
-2116200,Lake County,8065,1,Q3,113,likely alarmed,6,2,1
-2477156,Montrose County,8085,1,Q3,115,likely alarmed,6,5,6
-10804,Adams County,8001,0,Q3,116,likely alarmed,6,4,2
-19807486,Pueblo County,8101,0,Q3,123,likely alarmed,6,2,6
-2016284,Denver County,8031,0,Q3,123,likely alarmed,6,4,3
-18444921,Adams County,8001,0,Q3,123,likely alarmed,6,3,2
-3426734,Otero County,8089,1,Q3,132,likely alarmed,6,5,6
-2345755,Las Animas County,8071,1,Q3,134,likely alarmed,6,2,1
-1549998,Broomfield County,8014,0,Q3,396,likely alarmed,6,1,1
-19092777,El Paso County,8041,1,Q3,142,likely not alarmed,6,4,3
-17894418,El Paso County,8041,0,Q3,149,likely alarmed,6,5,3
-901264,Denver County,8031,0,Q3,156,likely alarmed,6,5,1
-1125461,Denver County,8031,0,Q3,160,likely alarmed,6,5,3
-17926858,Douglas County,8035,1,Q3,166,likely alarmed,6,4,6
-15982794,Pueblo County,8101,0,Q3,175,likely not alarmed,6,2,3
-2660593,Rio Grande County,8105,1,Q3,189,likely alarmed,6,5,2
-16917871,Adams County,8001,0,Q3,195,likely alarmed,6,3,6
-19063180,Las Animas County,8071,0,Q3,214,likely alarmed,6,2,4
-1024633,Denver County,8031,1,Q3,218,likely alarmed,6,6,6
-4658489,Denver County,8031,0,Q3,229,likely alarmed,6,4,1
+16855529,Morgan County,8087,1,Q3,1,likely alarmed,5,1,1
